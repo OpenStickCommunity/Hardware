@@ -1,11 +1,17 @@
-![RP2040 Advanced Breakout Board - Front render](https://zzzzz)
+![RP2040 Advanced Breakout Board - 2D render - Top](https://raw.githubusercontent.com/OpenStickCommunity/Hardware/main/RP2040%20Advanced%20Breakout%20Board/Images/RP2040%20Advanced%20Breakout%20Board%20-%202D%20render%20-%20Top.png)
+![RP2040 Advanced Breakout Board - 3D render - Top](https://raw.githubusercontent.com/OpenStickCommunity/Hardware/main/RP2040%20Advanced%20Breakout%20Board/Images/RP2040%20Advanced%20Breakout%20Board%20-%203D%20render%20-%20Top.png)
 
 RP2040 Advanced Breakout Board
 ---
 
 Attribution:
 
-Based on RP2040 Advanced Breakout board from the GP2040-CE project by TheTrain and n-i-x located at https://github.com/OpenStickCommunity/Hardware/tree/main/RP2040%20Advanced%20Breakout%20Board
+Based on RP2040 Advanced Breakout board from the GP2040-CE project located at https://github.com/OpenStickCommunity/Hardware/tree/main/RP2040%20Advanced%20Breakout%20Board
+
+Copyright 2023 TheTrain and n-i-x
+[https://creativecommons.org/licenses/by/4.0/](Licensed under CC BY 4.0)
+Changes from the original design:
+  - list changes here
 
 Summary:
 
