@@ -9,7 +9,7 @@ Attribution:
 Based on RP2040 Advanced Breakout board from the GP2040-CE project located at https://github.com/OpenStickCommunity/Hardware/tree/main/RP2040%20Advanced%20Breakout%20Board
 
 Copyright 2023 TheTrain and n-i-x
-[https://creativecommons.org/licenses/by/4.0/](Licensed under CC BY 4.0)
+![Licensed under CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 Changes from the original design:
   - list changes here
 
