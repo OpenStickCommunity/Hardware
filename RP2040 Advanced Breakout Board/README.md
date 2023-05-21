@@ -152,6 +152,18 @@ If uploading the firmware after assembly plug the Pico into your computer and qu
 
 If something goes wrong and you want to upload the firmware again (or if you have tested out the configuration tool and made a mistake) you can enter BootSel mode via either of the methods above and drag over the included `flash_nuke.uf2` file.  This file will take a moment to write to the Pico, once completed you will see the device disconnect and then re-connect as an external device.  After it has shown up again you can copy the same `GP2040-RaspberryPiPico_v0.4.3.uf2` firmware over to it again.
 
+## Sales recommendations
+
+Through the licencing you are free to make and sell these boards in group buys or even commercial applications.  
+
+The intended purpose of this board, as well as the overall GP2040-CE project is to get low cost boards into the hands of as many people as possible to everyone can enjoy the project.  
+
+As such, we have a recommend MSRP of $20 USD for the RP2040 Advanced Breakout Board or $30 USD with free shipping within the USA or Canada.
+
+You are free to set your own price as you see fit. 
+
+
+
 ## Donations
 
 Every part of this project is open source, from the GP2040-CE firmware to the original Pico Fighting Board design and also this RP2040 Advanced Breakout Board design.  
