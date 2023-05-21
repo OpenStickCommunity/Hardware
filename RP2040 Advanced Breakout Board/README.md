@@ -3,6 +3,10 @@
 RP2040 Advanced Breakout Board
 ---
 
+Attribution:
+
+Based on RP2040 Advanced Breakout board from the GP2040-CE project by TheTrain and n-i-x located at https://github.com/OpenStickCommunity/Hardware/tree/main/RP2040%20Advanced%20Breakout%20Board
+
 Summary:
 
 The RP2040 Advanced Breakout Board is the official embedded embedded design for the GP2040-CE project.
@@ -183,7 +187,7 @@ Until we have finished getting everything organized here you are not permited to
 
 ---
 
-Attributions:
+Acknowledgements:
 
 - N-I-X from acustomarcade.com (https://acustomarcade.com/) for helping with the board design
 - TheTrain for help making the board design
