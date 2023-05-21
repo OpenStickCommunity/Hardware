@@ -187,12 +187,6 @@ v5.0e
 
 ---
 
-Licence:
-
-Until we have finished getting everything organized here you are not permited to make these boards under any circumstances.
-
----
-
 Acknowledgements:
 
 - N-I-X from acustomarcade.com (https://acustomarcade.com/) for helping with the board design
