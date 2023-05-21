@@ -1,9 +1,8 @@
+# RP2040 Advanced Breakout Board
 ![rp2040_advanced_breakout_board](https://github.com/OpenStickCommunity/Hardware/assets/440158/6245f3fc-1d2b-4c7a-83c1-52d48b58f4c8)
-
-RP2040 Advanced Breakout Board
 ---
 
-Attribution:
+## Attribution
 
 The following text must be included in any distribution of derivitives of this board. All links must also be included.
 
@@ -16,7 +15,7 @@ Copyright 2023 [TheTrain](https://github.com/TheTrainGoes) and [n-i-x](https://g
 Changes from the original design:
   - list any changes you make here
 
-Summary:
+## Summary
 
 The RP2040 Advanced Breakout Board is the official embedded embedded design for the GP2040-CE project.
 
@@ -32,10 +31,7 @@ We have a small but passionate Discord group which you can access here if intere
 
 A massive thank you to FeralAI who made most of this possible!
 
-
----
-
-Board design choices:
+## Board design choices
 
 The Brook form factor was chosen due to its compatibility with a number of existing enclosures and holders.
 
@@ -68,9 +64,7 @@ A 3pin (1x3pin) 2.54mm header area labeled `debug` can be found near the middle 
 
 A 5pin (1x5pin) 2.54mm header area labeled `USB direct` can be found near the right of the board.  This allows for direct connection of a USB connection.  A double ground is common in commercial fightsticks so it has been included here.  Please take note of the exact pinout on the USB cable you are trying to connect here as there is no universal standard for the order of the wires.  We are not resposible for any damages that occurre as a result of incorrectly wiring the USB direct area.
 
----
-
-Assembly:
+## Assembly
 
 These boards are designed to be made and assembled by JLC PCB.  As such, you will find a folder called `Hardware files` that contains a copy of the three files needed to have these boards made by JLC PCB.  
 
@@ -85,9 +79,7 @@ These boards have been designed to be fully assembled by JLC PCB.  You will not 
 
 Please note that we are not responcible for issues that arrise from the manufactuing of these boards done through JLC PCB or any other manufacturer.  These board files have been ordered and tested for functionality.  
 
----
-
-How to order a board:
+## How to order a board
 
 All of the boards so far have been ordered though JLCPCB.  Due to minimum order numbers you would get five of these basic breakout boards.  Here are the steps to make your first order and what options I choose along the way.
 
@@ -152,9 +144,7 @@ If all looks well here you can click on the `SAVE TO CART` button.
 
 12 - The `Secure Checkout` process will be different based on your location in the world.  We recommend researching your shipping options to choose the one that is right for your application. 
 
----
-
-How to upload firmware:
+## How to upload firmware
 
 If uploading the firmware before assembly you can hold the BootSel button on the Pico and plug the device into your computer.  It will show up as an external device.  Copy the `GP2040-RaspberryPiPico_v0.4.3.uf2` file to it and wait for the device to disconnect after copying completes.  
 
@@ -162,10 +152,7 @@ If uploading the firmware after assembly plug the Pico into your computer and qu
 
 If something goes wrong and you want to upload the firmware again (or if you have tested out the configuration tool and made a mistake) you can enter BootSel mode via either of the methods above and drag over the included `flash_nuke.uf2` file.  This file will take a moment to write to the Pico, once completed you will see the device disconnect and then re-connect as an external device.  After it has shown up again you can copy the same `GP2040-RaspberryPiPico_v0.4.3.uf2` firmware over to it again.
 
-
----
-
-Donations:
+## Donations
 
 Every part of this project is open source, from the GP2040-CE firmware to the original Pico Fighting Board design and also this RP2040 Advanced Breakout Board design.  
 
@@ -173,10 +160,7 @@ Donations are not necessary but always welcome!  All received donations will be 
 
 https://www.paypal.com/donate/?hosted_button_id=2JMTZVCGLDYC2
 
-
----
-
-Revision History:
+## Revision History
 
 v5.2e
 - Added larger solder pads on the debug and USB direct sections
@@ -188,11 +172,9 @@ v5.1e
 v5.0e
 - Initial design
 
----
+## Acknowledgements
 
-Acknowledgements:
-
-- N-I-X from acustomarcade.com (https://acustomarcade.com/) for helping with the board design
-- TheTrain for help making the board design
+- [n-i-x](https://github.com/n-i-x) from [acustomarcade.com](https://acustomarcade.com/) for helping with the board design
+- [TheTrain](https://github.com/TheTrainGoes) for helping the board design
 - FeralAI for starting the GP2040 project and the original design of the Pico Fighting Board
 - Everyone that works on the GP2040-CE project to make it the best controller firmware around
