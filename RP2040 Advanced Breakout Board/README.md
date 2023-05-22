@@ -96,7 +96,7 @@ All of the boards so far have been ordered though JLC PCB.  Due to minimum order
 - PCB Qty = (however large your run will be, minimum of 5)
 - Product Type = Industrial/Consumer electronics
 - Different Design = 1
-- Delivery Format = Single PCB (note 1)
+- Delivery Format = Single PCB
 - PCB Thickness = 1.6
 - PCB Color = (up to you)
 - Silkscreen = (defaults to white for all except white boards which is black)
@@ -104,21 +104,21 @@ All of the boards so far have been ordered though JLC PCB.  Due to minimum order
 - Outer Copper Weight = 1oz
 - Via Covering = Tented
 - Board Outline Tolerance = +/- 0.2mm (Regular)
-- Confirm Production file = Yes (note 2)
-- Remove Order Number = Yes (note 3)
+- Confirm Production file = Yes
+- Remove Order Number = Yes
 - Flying Probe Test = Fully Test
 - Gold Fingers = No
 - Castellated Holes = No
 - No advanced options
 
 5 - Choose the following options for the PCB assembly
-- PCBA Type = Economic (note 4)
+- PCBA Type = Economic
 - Assembly Side = Top Side
 - PCBA Qty = (however large your run will be, minimum of 2)
 - Tooling holes = Added by Customer
-- Confirm Parts Placement = Yes (note 5)
+- Confirm Parts Placement = Yes
 
-6 - Make sure you have read the terms and conditions of JLCPCB assembly service and then click on the `Confirm` button if you agree
+6 - Make sure you have read the terms and conditions of JLC PCB assembly service and then click on the `Confirm` button if you agree
 
 7 - The Bill of Materials page will show you a render of the board without parts.  You can click the `NEXT` button here unless you see any issues with the board
 
@@ -127,40 +127,33 @@ All of the boards so far have been ordered though JLC PCB.  Due to minimum order
 - For the `Add CPL File` you will need to choose the `CPL - RP2040 Advanced Breakout Board v5.2E.csv` file that is located in the Hardware files folder
 Once these two files have been uploaded you can press the `Process BOM & CPL` button.
 
-9 - You will now see a list of components that will be used to assemble the boards.  If there are not listed issues here you can click on on the `NEXT` button. (note 6), (note 7)
+9 - You will now see a list of components that will be used to assemble the boards.  If there are no issues here you can click on the `NEXT` button.
+- You can also use this page to omit parts from the assembly.  This can primarily be used to not include specific headers or the screw terminals.  Please only do this if you understand what you are doing as omiting main parts of the design will lead to non-functioning boards.  We are not responsible for any boards that are non-functioning.
+- We have spent extensive time to ensure that the parts chosen will work for this board.  If there are any parts that are out of stock or you get warnings about anything we recommend you not proceed unless you understand how to find replacement parts.  If you are unsure, please feel free to join the Discord and ask us.  It is not uncommon for JLC PCB to have part shortages.  Most of the parts listed here come back in stock in a few days.  If that is the case, you may need to wait to place your order until all needed parts are in stock.
 
-Note 6 - You can also use this page to omit parts from the assembly.  This can primarilty be used to not include specific headers or the screw terminals.  Please only do this if you understand what you are doing as omiting main parts of the deisgn will lead to non-functioning boards.  We are not responcible for any boards that are non-functioning. 
+10 - There will now be a render of the board with parts on the Component Placements page.  Check this page to make sure that all parts are in the correct spots and orientation.  We have ordered based on these files before and they are known to be correct.  If everything looks well press the `NEXT` button.
+- Please note that we are not responsible for faulty boards made by JLC PCB or any other manufacturer.
 
-Note 7 - We have spent extensive time to ensure that the parts chosen will work for this board.  If there are any parts that are out of stock, or you get warnings about anything we would recommend you not proceed unless you understand how to do find replacmeent parts.  If you are unsure, please feel free to join up in the Discord and ask us.  It is not uncommon for JLCPCB to have part shortages.  Most of the parts listed here come back in stock in a few days.  If that is the case, you may need to wait to place your order until all needed parts are in stock.
-
-10 - There will now be a render of the board with parts on the Component Placements page.  Check this page to make sure that all parts are in the correct spots and orientation.  We have ordered based on these files before and they are known good.  If all looks well press the `NEXT` button. (note 8)
-
-Note 8 - Please note that we are not responcible for boards made by JLCPCB or any other manufacturer that do note work.
-
-11 - The quote & order page will give you a breakdown of the costs associated with the boards and assembly parts based on the quantity you have chosen. This done not include shipping.  Shipping will be calculated at a further step. 
-- For Product Description I typically choose `Other` `Other` and type in `Controller board`.
+11 - The quote & order page will give you a breakdown of the costs associated with the boards and assembly parts based on the quantity you have chosen. This does not include shipping, which will be calculated at a later step.
+- For Product Description I typically choose `Other` and type in `Controller board`.
 
 If all looks well here you can click on the `SAVE TO CART` button.
 
-12 - The `Secure Checkout` process will be different based on your location in the world.  We recommend researching your shipping options to choose the one that is right for your application. 
+12 - The `Secure Checkout` process will be different based on your location in the world.  We recommend researching your shipping options to choose the one that is right for your needs.
 
 ## How to upload firmware
 
-If uploading the firmware before assembly you can hold the BootSel button on the Pico and plug the device into your computer.  It will show up as an external device.  Copy the `GP2040-RaspberryPiPico_v0.4.3.uf2` file to it and wait for the device to disconnect after copying completes.  
+The latest firmware release can be downloaded at the GP2040-CE page here: https://github.com/OpenStickCommunity/GP2040-CE/releases/latest. You will want the file labeled `GP2040-CE_X.Y.Z_RP2040AdvancedBreakoutBoard.uf2` (X.Y.Z label is 0.7.1 as of this README).
 
-If uploading the firmware after assembly plug the Pico into your computer and quickly press the BootSel button twice on the Pico Basic Breakout Board.  You should see an external device show up on your computer.  Copy the `GP2040-RaspberryPiPico_v0.4.3.uf2` file to it and wait for the device to disconnect after copying completes.  
+To upload the firmware, hold the BootSel button on the board while plugging the device into your computer.  It should show up as an external storage device.  Copy the `GP2040-CE_X.Y.Z_RP2040AdvancedBreakoutBoard.uf2` file to this device and it will restart itself after the upload is complete.
 
-If something goes wrong and you want to upload the firmware again (or if you have tested out the configuration tool and made a mistake) you can enter BootSel mode via either of the methods above and drag over the included `flash_nuke.uf2` file.  This file will take a moment to write to the Pico, once completed you will see the device disconnect and then re-connect as an external device.  After it has shown up again you can copy the same `GP2040-RaspberryPiPico_v0.4.3.uf2` firmware over to it again.
+If something goes wrong and you want to upload the firmware again (or if you have tested out the configuration tool and made a mistake) you can enter BootSel as above and drag over the included `flash_nuke.uf2` file.  This file will take a moment to write to the Pico which will restart once completed and re-connect as an external storage device.  After it has shown up again you can copy the same `GP2040-CE_X.Y.Z_RP2040AdvancedBreakoutBoard.uf2` firmware over to it as before.
 
 ## Sales recommendations
 
-Through the licencing you are free to make and sell these boards in group buys or even commercial applications.  
+Through the licensing you are free to make and sell these boards in group buys or even commercial applications. The intended purpose of this board, as well as the overall GP2040-CE project, is to get low cost boards into the hands of as many people as possible so everyone can enjoy the project. As such, we have a recommended MSRP of $20 USD for the RP2040 Advanced Breakout Board or $30 USD with free shipping within the USA or Canada
 
-The intended purpose of this board, as well as the overall GP2040-CE project is to get low cost boards into the hands of as many people as possible to everyone can enjoy the project.  
-
-As such, we have a recommend MSRP of $20 USD for the RP2040 Advanced Breakout Board or $30 USD with free shipping within the USA or Canada.
-
-You are free to set your own price as you see fit. 
+You are free to set your own price as you see fit.
 
 
 
