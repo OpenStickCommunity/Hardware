@@ -111,12 +111,22 @@ All of the boards so far have been ordered though JLCPCB.  Due to minimum order 
 - Castellated Holes = No<br/>
 - No advanced options<br/>
 
+Note 1 - If ordering under 50 units you can use single PCB.  For orders of more than 50 units JLCPCB will require you to make a larger plate for them.  I have compared the costs of doing this for runs in the hundreds and there is only a very small decrease in price over ordering 50 single PCBs at a time.  Ordering the 50 single PCBs has the added bonus of coming as individual pieces which do not require additional processing like the plated ones will.
+
+Note 2 - This adds around $1 to the total cost of the order and is 100% worth doing as it will allow you one last chance to catch any issues that may have popped up.
+
+Note 3 - This adds a small cost to the boards but removes the JLCPCB order number.  If you are looking to make a run as cheap as possible you can leave this on and either let them place it on the board or add `JLCJLCJLCJLC` somewhere on the board in silk screen and they will place the order number there.
+
 5 - Choose the following options for the PCB assembly
 - PCBA Type = Economic (note 4)<br/>
 - Assembly Side = Top Side<br/>
 - PCBA Qty = (however large your run will be, minimum of 2)<br/>
 - Tooling holes = Added by Customer<br/>
 - Confirm Parts Placement = Yes (note 5)<br/>
+
+Note 4 - Economic assembly is much cheaper on smaller batch runs of 10-30 units.  Standard assembly will yield less dead on arrival boards but is more expensive to have done.  On average I expect a 5-10% failure rate on the boards from JLC so please factor in that when making your order.
+
+Note 5 - This adds around $1 to the total cost of the order and is 100% worth doing as they will check the placement of all SMD parts and make any necessary changes or reach out if there are concerns.  I cannot stress enough that this is the best $1 you will spend for the piece of mind of not messing up an entire batch.
 
 6 - Make sure you have read the terms and conditions of JLCPCB assembly service and then click on the `Confirm` button if you agree <br/>
 
@@ -162,6 +172,20 @@ As such, we have a recommend MSRP of $20 USD for the RP2040 Advanced Breakout Bo
 
 You are free to set your own price as you see fit. 
 
+
+Also, a note about failure rates on boards from JLCPCB.
+
+I (TheTrain) have ordered just over 160 of these boards in various color and design variaitions with another 20 on the way.  Here are my current failure rates from orders:
+- 20x Black, 2x dead = Failure rate of 10%
+- 30x Black, 3x dead = Failure tate of 10%
+- 20x Red, no dead = Failure rate of 0%
+- 20x Purple, 1x dead = Failure rate of 5%
+- 20x White, 3x dead = Failure rate of 15%
+- 10x Black, 1x dead = Failure rate of 10%
+
+Overall the blended rate is around 10%.  So for every 100 boards ordered expect to get 10 dead ones give or take.  This should be factored in when placing orders ofr commercial purposes or group buys.  
+
+Of those that arrived dead there have only been a few that I have been able to get working again, usually due to soldering issues on the SMD parts.
 
 
 ## Donations
