@@ -83,48 +83,48 @@ Please note that we are not responsible for issues that arise from the manufactu
 
 All of the boards so far have been ordered though JLC PCB.  Due to minimum order numbers you would get at least five of these basic breakout boards.  Here are the steps to make your first order and what options I choose along the way.
 
-1 - Go to JLCPCB.com<br/>
+1 - Go to JLCPCB.com
 
-2 - Click on `Instant Quote`<br/>
+2 - Click on `Instant Quote`
 
-3 - Click on `Add Gerber file` and choose the file named `Gerber - RP2040 Advanced Breakout Board v5.2E.zip` from the `Hardware files` folder<br/>
+3 - Click on `Add Gerber file` and choose the file named `Gerber - RP2040 Advanced Breakout Board v5.2E.zip` from the `Hardware files` folder
 
-4 - Choose the following options for the board:<br/>
+4 - Choose the following options for the board:
 - Base Material = FR-4
-- Layers = 2<br/>
-- Dimensions = (should auto-populate) 96.3 mm x 45.31 mm<br/>
-- PCB Qty = (however large your run will be, minimum of 5)<br/>
-- Product Type = Industrial/Consumer electronics<br/>
-- Different Design = 1<br/>
-- Delivery Format = Single PCB (note 1)<br/>
-- PCB Thickness = 1.6<br/>
-- PCB Color = (up to you)<br/>
-- Silkscreen = (defaults to white for all except white boards which is black)<br/>
-- Surface Finish = HASL(with lead)<br/>
-- Outer Copper Weight = 1oz<br/>
-- Via Covering = Tented<br/>
-- Board Outline Tolerance = +/- 0.2mm (Regular)<br/>
-- Confirm Production file = Yes (note 2)<br/>
-- Remove Order Number = Yes (note 3)<br/>
-- Flying Probe Test = Fully Test<br/>
-- Gold Fingers = No<br/>
-- Castellated Holes = No<br/>
-- No advanced options<br/>
+- Layers = 2
+- Dimensions = (should auto-populate) 96.3 mm x 45.31 mm
+- PCB Qty = (however large your run will be, minimum of 5)
+- Product Type = Industrial/Consumer electronics
+- Different Design = 1
+- Delivery Format = Single PCB (note 1)
+- PCB Thickness = 1.6
+- PCB Color = (up to you)
+- Silkscreen = (defaults to white for all except white boards which is black)
+- Surface Finish = HASL(with lead)
+- Outer Copper Weight = 1oz
+- Via Covering = Tented
+- Board Outline Tolerance = +/- 0.2mm (Regular)
+- Confirm Production file = Yes (note 2)
+- Remove Order Number = Yes (note 3)
+- Flying Probe Test = Fully Test
+- Gold Fingers = No
+- Castellated Holes = No
+- No advanced options
 
 5 - Choose the following options for the PCB assembly
-- PCBA Type = Economic (note 4)<br/>
-- Assembly Side = Top Side<br/>
-- PCBA Qty = (however large your run will be, minimum of 2)<br/>
-- Tooling holes = Added by Customer<br/>
-- Confirm Parts Placement = Yes (note 5)<br/>
+- PCBA Type = Economic (note 4)
+- Assembly Side = Top Side
+- PCBA Qty = (however large your run will be, minimum of 2)
+- Tooling holes = Added by Customer
+- Confirm Parts Placement = Yes (note 5)
 
-6 - Make sure you have read the terms and conditions of JLCPCB assembly service and then click on the `Confirm` button if you agree <br/>
+6 - Make sure you have read the terms and conditions of JLCPCB assembly service and then click on the `Confirm` button if you agree
 
-7 - The Bill of Materials page will show you a render of the board without parts.  You can click the `NEXT` button here unless you see any issues with the board<br/>
+7 - The Bill of Materials page will show you a render of the board without parts.  You can click the `NEXT` button here unless you see any issues with the board
 
 8 - You will now have the option to upload two files:
 - For the `Add BOM File` you will need to choose the `BOM - RP2040 Advanced Breakout Board v5.2E.csv` file that is located in the Hardware files folder
-- For the `Add CPL File` you will need to choose the `CPL - RP2040 Advanced Breakout Board v5.2E.csv` file that is located in the Hardware files folder<br/>
+- For the `Add CPL File` you will need to choose the `CPL - RP2040 Advanced Breakout Board v5.2E.csv` file that is located in the Hardware files folder
 Once these two files have been uploaded you can press the `Process BOM & CPL` button.
 
 9 - You will now see a list of components that will be used to assemble the boards.  If there are not listed issues here you can click on on the `NEXT` button. (note 6), (note 7)
