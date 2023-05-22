@@ -4,7 +4,7 @@
 
 ## Attribution
 
-The following text must be included in any distribution of derivitives of this board. All links must also be included.
+The following text must be included in any distribution of derivatives of this board. All links must also be included.
 
 Based on RP2040 Advanced Breakout board from the GP2040-CE project located at https://github.com/OpenStickCommunity/Hardware/tree/main/RP2040%20Advanced%20Breakout%20Board
 
@@ -54,19 +54,19 @@ A 20pin (1x20pin [5x4pin]) 3.5mm screw terminal row can be found along the top o
 A USB-C port can be found on the right side of the board.  USB-C was chosen as it is the current industry standard and can allow for very low profile builds should you choose to make a version of the board with depopulated headers.
 
 There are three buttons on the board:
-  - A BootSel button, which can be held on plug-in to enter BootSel mode which is used to flash the device with firmware. 
+  - A BootSel button, which can be held when plugging in to enter BootSel mode which is used to flash the device with firmware.
   - A reset button, which can be pressed to reset the device.
-  - A web-conifg button, which can be held while plugging in to go to web-config mode.*
+  - A web-conifg button, which can be held while plugging in to go to web-config mode.
 
-Please note that web-config can be accessed by pressing and holding S2.  This is an extra mapping of S2 to allow for easy access and setup of the web-config utility for those that are working on raw boards not already installed or connected to anything. 
+Please note that web-config can also be accessed by pressing and holding S2.  This is an extra mapping of S2 to allow for easy access and setup of the web-config utility for those that are working on raw boards not already installed or connected to anything.
 
-A 3pin (1x3pin) 2.54mm header area labeled `debug` can be found near the middle of the board.  This allows those interested to debug the RP2040.  It requires either a 1x3pin 2.54mm header to be soldered or on wires to be connected directly.
+A 3pin (1x3pin) 2.54mm header area labeled `debug` can be found near the middle of the board.  This allows those interested to debug the RP2040.  It requires either a 1x3pin 2.54mm header to be soldered or wires to be connected directly.
 
-A 5pin (1x5pin) 2.54mm header area labeled `USB direct` can be found near the right of the board.  This allows for direct connection of a USB connection.  A double ground is common in commercial fightsticks so it has been included here.  Please take note of the exact pinout on the USB cable you are trying to connect here as there is no universal standard for the order of the wires.  We are not resposible for any damages that occurre as a result of incorrectly wiring the USB direct area.
+A 5pin (1x5pin) 2.54mm header area labeled `USB direct` can be found near the right of the board.  This allows for direct connection of a USB connection.  A double ground is common in commercial fightsticks so it has been included here.  Please take note of the exact pinout on the USB cable you are trying to connect here as there is no universal standard for the order of the wires.  We are not resposible for any damages that occur as a result of incorrectly wiring the USB direct area.
 
 ## Assembly
 
-These boards are designed to be made and assembled by JLC PCB.  As such, you will find a folder called `Hardware files` that contains a copy of the three files needed to have these boards made by JLC PCB.  
+These boards are designed to be made and assembled by JLC PCB.  As such, you will find a folder called `Hardware files` that contains a copy of the three files needed to have these boards made by JLC PCB.
 
 Those files are:
 - A gerber file for the design of the board
@@ -77,11 +77,11 @@ This design includes both SMD and through hole parts from JLC PCB.  There are ad
 
 These boards have been designed to be fully assembled by JLC PCB.  You will not need to do any soldering or assembly of any kind should you order a batch of them.  The only thing you will need to do is flash the boards with the most recent version of GP2040-CE and then test the boards.
 
-Please note that we are not responcible for issues that arrise from the manufactuing of these boards done through JLC PCB or any other manufacturer.  These board files have been ordered and tested for functionality.  
+Please note that we are not responsible for issues that arise from the manufacturing of these boards done through JLC PCB or any other manufacturer.  These board files have been ordered and tested for functionality.
 
 ## How to order a board
 
-All of the boards so far have been ordered though JLCPCB.  Due to minimum order numbers you would get five of these basic breakout boards.  Here are the steps to make your first order and what options I choose along the way.
+All of the boards so far have been ordered though JLC PCB.  Due to minimum order numbers you would get at least five of these basic breakout boards.  Here are the steps to make your first order and what options I choose along the way.
 
 1 - Go to JLCPCB.com<br/>
 
@@ -90,7 +90,7 @@ All of the boards so far have been ordered though JLCPCB.  Due to minimum order 
 3 - Click on `Add Gerber file` and choose the file named `Gerber - RP2040 Advanced Breakout Board v5.2E.zip` from the `Hardware files` folder<br/>
 
 4 - Choose the following options for the board:<br/>
-- Base Material = FR-4<br/>
+- Base Material = FR-4
 - Layers = 2<br/>
 - Dimensions = (should auto-populate) 96.3 mm x 45.31 mm<br/>
 - PCB Qty = (however large your run will be, minimum of 5)<br/>
