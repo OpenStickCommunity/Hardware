@@ -130,8 +130,7 @@ All of the boards so far have been ordered though JLC PCB.  Due to minimum order
 10 - There will now be a render of the board with parts on the Component Placements page.  Check this page to make sure that all parts are in the correct spots and orientation.  We have ordered based on these files before and they are known to be correct.  If everything looks well press the `NEXT` button.
 - *Please note that we are not responsible for faulty boards made by JLC PCB or any other manufacturer.*
 
-11 - The quote & order page will give you a breakdown of the costs associated with the boards and assembly parts based on the quantity you have chosen. This does not include shipping, which will be calculated at a later step.
-- *For Product Description I typically choose `Other` and type in `Controller board`.*
+11 - The quote & order page will give you a breakdown of the costs associated with the boards and assembly parts based on the quantity you have chosen. This does not include shipping, which will be calculated at a later step. For Product Description I typically choose `Other` and type in `Controller board`.
 
 If all looks well here you can click on the `SAVE TO CART` button.
 
