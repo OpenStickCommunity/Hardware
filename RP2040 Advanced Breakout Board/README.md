@@ -128,8 +128,8 @@ All of the boards so far have been ordered though JLC PCB.  Due to minimum order
 Once these two files have been uploaded you can press the `Process BOM & CPL` button.
 
 9 - You will now see a list of components that will be used to assemble the boards.  If there are no issues here you can click on the `NEXT` button.
-- You can also use this page to omit parts from the assembly.  Please only do this if you understand what you are doing as omiting main parts of the design will lead to non-functioning boards.  We are not responsible for any boards that are non-functioning.
-- We have spent extensive time to ensure that the parts chosen will work for this board.  If you get warnings about anything, we recommend you not proceed unless you understand how to find replacement parts.  If you are unsure, please feel free to join the Discord and ask us.
+- *You can also use this page to omit parts from the assembly.  Please only do this if you understand what you are doing as omiting main parts of the design will lead to non-functioning boards.  We are not responsible for any boards that are non-functioning.*
+- *We have spent extensive time to ensure that the parts chosen will work for this board.  If you get warnings about anything, we recommend you not proceed unless you understand how to find replacement parts.  If you are unsure, please feel free to join the Discord and ask us.*
 
 10 - There will now be a render of the board with parts on the Component Placements page.  Check this page to make sure that all parts are in the correct spots and orientation.  We have ordered based on these files before and they are known to be correct.  If everything looks well press the `NEXT` button.
 -* Please note that we are not responsible for faulty boards made by JLC PCB or any other manufacturer.*
