@@ -125,14 +125,11 @@ All of the boards so far have been ordered though JLC PCB.  Due to minimum order
 8 - You will now have the option to upload two files. For the `Add BOM File` choose the `BOM - RP2040 Advanced Breakout Board v5.2E.csv` file from the Hardware files folder. For the `Add CPL File` choose the `CPL - RP2040 Advanced Breakout Board v5.2E.csv` file from the Hardware files folder. Once both files have been uploaded you can press the `Process BOM & CPL` button.
 
 9 - You will now see a list of components that will be used to assemble the boards.  If there are no issues here you can click on the `NEXT` button.
-- *You can also use this page to omit parts from the assembly.  Please only do this if you understand what you are doing as omitting main parts of the design will lead to non-functioning boards.  We have spent extensive time to ensure that the parts chosen will work for this board.  If you get warnings about anything, we recommend you not proceed unless you understand how to find replacement parts.  We are not responsible for any boards that are non-functioning.  If you are unsure, please feel free to join the Discord and ask us.*
+- *You can also use this page to omit parts from the assembly.  Please only do this if you understand what you are doing as omitting main parts of the design will lead to non-functioning boards.  We have spent extensive time to ensure that the parts chosen will work for this board.  If you get warnings about anything, we recommend you not proceed.  We are not responsible for modified boards that are non-functioning.  If you are unsure, please feel free to join the Discord and ask us.*
 
-10 - There will now be a render of the board with parts on the Component Placements page.  Check this page to make sure that all parts are in the correct spots and orientation.  We have ordered based on these files before and they are known to be correct.  If everything looks well press the `NEXT` button.
-- *Please note that we are not responsible for faulty boards made by JLC PCB or any other manufacturer.*
+10 - There will now be a render of the board with parts on the Component Placements page.  Check this page to make sure that all parts are in the correct spots and orientation.  We have ordered based on these files before and they are known to be correct.  If everything looks well press the `NEXT` button.  ***Please note that we are not responsible for faulty boards made by JLC PCB or any other manufacturer.***
 
-11 - The quote & order page will give you a breakdown of the costs associated with the boards and assembly parts based on the quantity you have chosen. This does not include shipping, which will be calculated at a later step. For Product Description I typically choose `Other` and type in `Controller board`.
-
-If all looks well here you can click on the `SAVE TO CART` button.
+11 - The quote & order page will give you a breakdown of the costs associated with the boards and assembly parts based on the quantity you have chosen. This does not include shipping, which will be calculated at a later step. For Product Description I typically choose `Other` and type in `Controller board`. If everything looks correct you can click on the `SAVE TO CART` button.
 
 12 - The `Secure Checkout` process will be different based on your location in the world.  We recommend researching your shipping options to choose the one that is right for your needs.
 
