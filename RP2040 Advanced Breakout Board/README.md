@@ -126,10 +126,11 @@ All of the boards so far have been ordered though JLC PCB.  Due to minimum order
 
 9 - You will now see a list of components that will be used to assemble the boards.  If there are no issues here you can click on the `NEXT` button.
 - *You can also use this page to omit parts from the assembly.  Please only do this if you understand what you are doing as omitting main parts of the design will lead to non-functioning boards.  We have spent extensive time to ensure that the parts chosen will work for this board.  If you get warnings about anything, we recommend you not proceed.  We are not responsible for modified boards that are non-functioning.  If you are unsure, please feel free to join the Discord and ask us.*
+> ***Please note that it is not uncommon for JLC PCB to have part shortages. Most of the parts listed here come back in stock in a few days, so waiting on your order may be necessary.***
 
 10 - There will now be a render of the board with parts on the Component Placements page.  Check this page to make sure that all parts are in the correct spots and orientation.  We have ordered based on these files before and they are known to be correct.  If everything looks well press the `NEXT` button.  ***Please note that we are not responsible for faulty boards made by JLC PCB or any other manufacturer.***
 
-11 - The quote & order page will give you a breakdown of the costs associated with the boards and assembly parts based on the quantity you have chosen. This does not include shipping, which will be calculated at a later step. For Product Description I typically choose `Other` and type in `Controller board`. If everything looks correct you can click on the `SAVE TO CART` button.
+11 - The Quote & Order page will give you a breakdown of the costs associated with the boards and assembly parts based on the quantity you have chosen. This does not include shipping, which will be calculated at a later step. For Product Description I typically choose `Other` and type in `Controller board`. If everything looks correct you can click on the `SAVE TO CART` button.
 
 12 - The `Secure Checkout` process will be different based on your location in the world.  We recommend researching your shipping options to choose the one that is right for your needs.
 
@@ -146,8 +147,6 @@ If something goes wrong and you want to upload the firmware again (or if you hav
 Through the licensing you are free to make and sell these boards in group buys or even commercial applications. The intended purpose of this board, as well as the overall GP2040-CE project, is to get low cost boards into the hands of as many people as possible so everyone can enjoy the project. As such, we have a recommended MSRP of $20 USD for the RP2040 Advanced Breakout Board or $30 USD with free shipping within the USA or Canada
 
 You are free to set your own price as you see fit.
-
-
 
 ## Donations
 
