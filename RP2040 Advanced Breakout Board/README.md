@@ -198,14 +198,17 @@ https://www.paypal.com/donate/?hosted_button_id=2JMTZVCGLDYC2
 
 ## Revision History
 
-v5.2e
+v5.3E
+- Changed the three tactile switches as they have been out of stock at JLC for some time
+
+v5.2E
 - Added larger solder pads on the debug and USB direct sections
 
-v5.1e
+v5.1E
 - Changed the routing of some parts
 - Other minor changes
 
-v5.0e
+v5.0E
 - Initial design
 
 ## Acknowledgements
