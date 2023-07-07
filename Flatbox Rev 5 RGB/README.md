@@ -21,12 +21,14 @@ Changes from the original design:
 
 ## Summary: 
 
-The Flatbox Rev 5 RGB v2.0 is a three part project that offers RGB and premium construction features to the existing Flatbox Rev 5.
+The Flatbox Rev 5 RGB v2.0 is a three part project that offers RGB and premium construction features to the existing Flatbox Rev 5. 
 
 There are three version of the Flatbox Rev 5 RGB v2.0:
 - Flatbox Rev 5 RGB v2.0 - Basic
 - Flatbox Rev 5 RGB v2.0 - Art Case
 - Flatbox Rev 5 RGB v2.0 - Premium Art Case
+
+Please note that all three of these versions use the same PCB.
 
 The `basic` verion is a remake of the Flatbox Rev 5 PCB that has a modified case to include Player LEDs as well as cutouts for tactile switch caps over the flaps that are present on the basic Rev 4 and Rev 5 cases.
 The `art case` version goes a step further and offers a unique case design that uses a mid-frame drop in (idea take from Mavercade and their line of Keebfighters) as well as a top plexi layer.
@@ -114,6 +116,8 @@ Note 8 - Please note that we are not responcible for boards made by JLCPCB or an
 - For Product Description I typically choose `Other` `Other` and type in `Controller board`.
 
 If all looks well here you can click on the `SAVE TO CART` button.
+
+** Please note that if you are planning to order the FLatbox Rev 5 RGB v2.0 premium aluminum bottom plate you will need to add an additional board to the order before checking out **
 
 12 - The `Secure Checkout` process will be different based on your location in the world.  We recommend researching your shipping options to choose the one that is right for your application. 
 
