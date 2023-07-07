@@ -13,10 +13,12 @@ The top plexi is a .DXF file which should be usable by most places that can cut 
 
 Please note that printing the buttons in white resin will allow the LEDs to show through better, but there are no issues with printing them in PLA with a normal 3D printer.
 
+Please also note that this stock shot is from the previous version of the board that only had one LED per button.  The current version uses two LEDs per button.
+
 ---
 
 You will need the following parts to complete a case:<br/>
-1 x Flatbox Rev 5 RGB board (either v1 or v2) with pre-soldered hot-swap sockets and 6x6x8 tac switches + the Waveshare RP2040 Zero<br/>
+1 x Flatbox Rev 5 RGB v2.0 with pre-soldered hot-swap sockets, 6x6x8 tac switches + the Waveshare RP2040 Zero<br/>
 1 x Flatbox rev 5 RGB - Art Case - Main Frame<br/>
 1 x Flatbox rev 5 RGB - Art Case - Top Support<br/>
 1 x Flatbox Rev 5 RGB - Art Case - Top Plexi<br/>
