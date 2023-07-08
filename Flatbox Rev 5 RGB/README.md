@@ -46,7 +46,7 @@ All of the boards so far have been ordered though JLCPCB.  Due to minimum order 
 
 Please note that you will need to source and solder your own Waveshare RP2040 Zero board as that is not a part JLC can get and assemble for you.
 
-Please also note that this verison has the auxilry tactile switches assembled on it.  They are a length that will work with the plastic caps you can get from AliEXpress.  If you would rather not use these please omit them from the BOM and CPL.
+Please also note that this version has the auxillary tactile switches assembled on it.  They are a length that will work with the plastic caps you can get from AliExpress.  If you would rather not use these please omit them from the BOM and CPL.
 
 1 - Go to JLCPCB.com<br/>
 
@@ -104,15 +104,15 @@ Once these two files have been uploaded you can press the `Process BOM & CPL` bu
 
 9 - You will now see a list of components that will be used to assemble the boards.  If there are not listed issues here you can click on on the `NEXT` button. (note 6), (note 7)
 
-Note 6 - You can also use this page to omit parts from the assembly.  This can primarilty be used to not include specific headers or the screw terminals.  Please only do this if you understand what you are doing as omiting main parts of the deisgn will lead to non-functioning boards.  We are not responcible for any boards that are non-functioning. 
+Note 6 - You can also use this page to omit parts from the assembly.  This can primarilty be used to not include specific headers or the screw terminals.  Please only do this if you understand what you are doing as omitting main parts of the design will lead to non-functioning boards.  We are not responcible for any boards that are non-functioning. 
 
-Note 7 - We have spent extensive time to ensure that the parts chosen will work for this board.  If there are any parts that are out of stock, or you get warnings about anything we would recommend you not proceed unless you understand how to do find replacmeent parts.  If you are unsure, please feel free to join up in the Discord and ask us.  It is not uncommon for JLCPCB to have part shortages.  Most of the parts listed here come back in stock in a few days.  If that is the case, you may need to wait to place your order until all needed parts are in stock.
+Note 7 - We have spent extensive time to ensure that the parts chosen will work for this board.  If there are any parts that are out of stock, or you get warnings about anything we would recommend you not proceed unless you understand how to find replacement parts.  If you are unsure, please feel free to join up in the Discord and ask us.  It is not uncommon for JLCPCB to have part shortages.  Most of the parts listed here come back in stock in a few days.  If that is the case, you may need to wait to place your order until all needed parts are in stock.
 
 10 - There will now be a render of the board with parts on the Component Placements page.  Check this page to make sure that all parts are in the correct spots and orientation.  We have ordered based on these files before and they are known good.  If all looks well press the `NEXT` button. (note 8)
 
-Note 8 - Please note that we are not responcible for boards made by JLCPCB or any other manufacturer that do note work.
+Note 8 - Please note that we are not responsible for boards made by JLCPCB or any other manufacturer that do note work.
 
-11 - The quote & order page will give you a breakdown of the costs associated with the boards and assembly parts based on the quantity you have chosen. This done not include shipping.  Shipping will be calculated at a further step. 
+11 - The quote & order page will give you a breakdown of the costs associated with the boards and assembly parts based on the quantity you have chosen. This does not include shipping.  Shipping will be calculated at a further step. 
 - For Product Description I typically choose `Other` `Other` and type in `Controller board`.
 
 If all looks well here you can click on the `SAVE TO CART` button.
@@ -125,11 +125,11 @@ If all looks well here you can click on the `SAVE TO CART` button.
 
 Attribution:
 
-The main PCB was redsigned from scratch by myself (TheTrain) in EasyEDA.  All source files for this are located in the `Source Files` folder.
+The main PCB was redesigned from scratch by myself (TheTrain) in EasyEDA.  All source files for this are located in the `Source Files` folder.
 
-The case files were designed by myself (TheTrain) from scratch.  They were based on the case deisng of the Mavercade Keebfighter.  You can check out the awesome Mavercade Keebfighters here: https://mavercade.com/collections/mavercade-keebfighters
+The case files were designed by myself (TheTrain) from scratch.  They were based on the case design of the Mavercade Keebfighter.  You can check out the awesome Mavercade Keebfighters here: https://mavercade.com/collections/mavercade-keebfighters
 
-The buttons were deisnged from scratch by SGFDevices: https://github.com/sgfdevices/Bridget/tree/main/Buttons
+The buttons were designed from scratch by SGFDevices: https://github.com/sgfdevices/Bridget/tree/main/Buttons
 
 ---
 
