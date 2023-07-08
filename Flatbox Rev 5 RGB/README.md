@@ -42,7 +42,7 @@ Please note that printing the buttons in white resin will allow the LEDs to show
 
 ## How to order a board
 
-All of the boards so far have been ordered though JLCPCB.  Due to minimum order numbers you would get five of these at a time.  As a bonus, if you do not choose to have all of the populated with parts you will still have usable boards as basic Flatbox Rev 5 boards.  Here are the steps to make your first order and what options I choose along the way.
+All of the boards so far have been ordered though JLCPCB.  Due to minimum order numbers you would get five of these at a time.  As a bonus, if you do not choose to have all of them populated with parts you will still have usable boards as basic Flatbox Rev 5 boards.  Here are the steps to make your first order and what options I choose along the way.
 
 Please note that you will need to source and solder your own Waveshare RP2040 Zero board as that is not a part JLC can get and assemble for you.
 
