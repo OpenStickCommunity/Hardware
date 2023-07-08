@@ -28,4 +28,4 @@ The case files are based on the original Rev 5 design from Jfedor: https://githu
 The case files were then remixed by SGFDevices: https://github.com/sgfdevices/Bridget/tree/main/Rev%205%20Case%20--%20UNTESTED<br/>
 I have further remixed the files from SGFDevices.<br/>
 
-The buttons were deisnged from scratch by SGFDevices: https://github.com/sgfdevices/Bridget/tree/main/Buttons
+The buttons were designed from scratch by SGFDevices: https://github.com/sgfdevices/Bridget/tree/main/Buttons
