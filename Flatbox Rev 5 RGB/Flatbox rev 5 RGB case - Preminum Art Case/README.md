@@ -9,7 +9,7 @@ Flatbox Rev 5 RGB - Premium Art Case
 
 Summary: 
 
-The Flatbox Rev 5 RGB Premium Art Case is the most premium case that allows for a plexi top cover and option art insert along with a metal bottom plate and foam.  
+The Flatbox Rev 5 RGB Premium Art Case is the most premium case. It allows for a plexi top cover and an optional art insert along with a metal bottom plate and foam.  
 
 The top plexi is a .DXF file which should be usable by most places that can cut plexi.  It is recommended to do this part in 1-2mm plexi.
 
@@ -35,6 +35,6 @@ You will need the following parts to complete a case:<br/>
 
 Attribution:
 
-The case files were designed by myself from scratch.  They were based on the case deisng of the Mavercade Keebfighter.  You can check out the awesome Mavercade Keebfighters here: https://mavercade.com/collections/mavercade-keebfighters
+The case files were designed by myself from scratch.  They were based on the case design of the Mavercade Keebfighter.  You can check out the awesome Mavercade Keebfighters here: https://mavercade.com/collections/mavercade-keebfighters
 
-The buttons were deisnged from scratch by SGFDevices: https://github.com/sgfdevices/Bridget/tree/main/Buttons
+The buttons were designed from scratch by SGFDevices: https://github.com/sgfdevices/Bridget/tree/main/Buttons
