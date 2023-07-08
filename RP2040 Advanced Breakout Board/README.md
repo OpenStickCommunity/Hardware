@@ -4,7 +4,7 @@
 
 ## Attribution
 
-The following text must be included in any distribution of derivitives of this board. All links must also be included.
+The following text must be included in any distribution of derivatives of this board. All links must also be included.
 
 Based on RP2040 Advanced Breakout board from the GP2040-CE project located at https://github.com/OpenStickCommunity/Hardware/tree/main/RP2040%20Advanced%20Breakout%20Board
 
@@ -23,7 +23,7 @@ You can find a pre-compiled .UF2 firmware file for the RP2040 Advanced Breakout 
 
 The RP2040 Advanced Breakout Board is an embedded design based on the original Pico Fighting Board (https://github.com/FeralAI/PicoFightingBoard) by FeralAI.
 
-The RP2040 Advanced Breakout Board is an embedded SMD design with through hole components.  It is not recommened to assemble these yourself unless you have a setup to do SMD assembly.
+The RP2040 Advanced Breakout Board is an embedded SMD design with through hole components.  It is not recommended to assemble these yourself unless you have a setup to do SMD assembly.
 
 With the RP2040 Advanced Breakout Board using an embedded RP2040 chip, we are able to access all of the additional GPIO pins that are not easily accessible on the standard Raspberry Pi Pico board.  This allows us to have many more options on the board so that people can make truly unique and custom contollers.
 
@@ -47,7 +47,7 @@ A 4pin (1x4pin) JST 2.00mm connector is located beside the 20pin connector which
 
 Six 2pin (1x2pin) JST 2.00mm connectors labeled `option X` can be found along the bottom of the board.  These can be used via the web-config to set up any number of combinations of features such as dual directional, turbo, reverse direction etc.
 
-A 2pin (1x2pin) JST 2.00mm connector labeled `5v out` can be found on the right side of the board which can be used for conencting additinoal devices which need to be powered via 5v such as an additional board like the Antagonist v2.0 or a strip of remote controlled LEDs.  Please take note of the power draw these connected devices will have and ensure you are not drawing too much power.
+A 2pin (1x2pin) JST 2.00mm connector labeled `5v out` can be found on the right side of the board which can be used for connecting additinoal devices which need to be powered via 5v such as an additional board like the Antagonist v2.0 or a strip of remote controlled LEDs.  Please take note of the power draw these connected devices will have and ensure you are not drawing too much power.
 
 A 20pin (1x20pin [5x4pin]) 3.5mm screw terminal row can be found along the top of the board which allows for an additional way to connect joysticks and buttons to the board should you not want to use the 20pin harness.  This screw terminal row also has access to `option 1`.  
 
@@ -183,7 +183,7 @@ I (TheTrain) have ordered just over 160 of these boards in various color and des
 - 20x White, 3x dead = Failure rate of 15%
 - 10x Black, 1x dead = Failure rate of 10%
 
-Overall the blended rate is around 10%.  So for every 100 boards ordered expect to get 10 dead ones give or take.  This should be factored in when placing orders ofr commercial purposes or group buys.  
+Overall the blended rate is around 10%.  So for every 100 boards ordered expect to get 10 dead ones give or take.  This should be factored in when placing orders for commercial purposes or group buys.  
 
 Of those that arrived dead there have only been a few that I have been able to get working again, usually due to soldering issues on the SMD parts.
 
