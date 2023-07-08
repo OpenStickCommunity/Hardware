@@ -31,8 +31,8 @@ There are three version of the Flatbox Rev 5 RGB v2.0:
 Please note that all three of these versions use the same PCB.
 
 The `basic` verion is a remake of the Flatbox Rev 5 PCB that has a modified case to include Player LEDs as well as cutouts for tactile switch caps over the flaps that are present on the basic Rev 4 and Rev 5 cases.
-The `art case` version goes a step further and offers a unique case design that uses a mid-frame drop in (idea take from Mavercade and their line of Keebfighters) as well as a top plexi layer.
-The `Premium Art Case` verion adds a bottom aluminum plate and foam to the `art case` version while also removing some height from the main boady of the `art case` version.
+The `art case` version goes a step further and offers a unique case design that uses a mid-frame drop in (idea taken from Mavercade and their line of Keebfighters) as well as a top plexi layer.
+The `Premium Art Case` version adds a bottom aluminum plate and foam to the `art case` version while also removing some height from the main body of the `art case` version.
 
 The top plexi is a .DXF file which should be usable by most places that can cut plexi.  It is recommended to do this part in 1-2mm plexi.
 
