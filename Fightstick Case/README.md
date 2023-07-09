@@ -66,4 +66,4 @@ Assembly:
 
 These files are not posted with the intention of making money.  If you enjoy them and want to toss me a few bucks it will go toward filament and parts that will be used to make more cool stuff that gets posted.  
 
-All domations or tips will be split evenly between myself and [Dash n'Mash](https://twitter.com/Dash_xx_Mash?s=20).
+All donations or tips will be split evenly between myself and [Dash n'Mash](https://twitter.com/Dash_xx_Mash?s=20).
