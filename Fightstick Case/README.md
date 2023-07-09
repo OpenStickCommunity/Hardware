@@ -1,6 +1,34 @@
 # 3D Printable Fightstick Case
 
-This section is a work in progress.  The files posted have been printed and work without issue.  These are improvments that will be made and those files will be posted when I make them.
+![3D Printable Fightstick Case - 3D Runder](https://raw.githubusercontent.com/OpenStickCommunity/Hardware/main/Fightstick%20Case/Images/3D%20render.png)
+![3D Printable Fightstick Case - Fully Assembled Case](https://raw.githubusercontent.com/OpenStickCommunity/Hardware/main/Fightstick%20Case/Images/Fully%20assembled%20case.jpg)
+![3D Printable Fightstick Case - Inside - Wired](https://raw.githubusercontent.com/OpenStickCommunity/Hardware/main/Fightstick%20Case/Images/Inside%20-%20Wired.JPG)
+---
+
+## Attribution
+
+The following text must be included in any distribution of derivitives of this board. All links must also be included.
+
+Based on the incredible work by [Dash n'Mash](https://twitter.com/Dash_xx_Mash?s=20).
+
+Copyright 2023 [TheTrain](https://github.com/TheTrainGoes)
+
+[Licensed under CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+Changes from the original design:
+  - list any changes you make here
+
+---
+
+## Summary: 
+
+The goal of this project was to create a high quality fightstick case that could be printed on a 250mm x 250mm print bed in parts.
+
+---
+
+## Printing and Construction:
+
+This project is a work in progress.  The files posted have been printed and work without issue.  These are improvments that will be made and those files will be posted when I make them.
 
 Please note that I am not taking on requests for other layouts at this time.  The STLs posted can be easily edited in TinkerCAD or other programs.  
 
@@ -31,3 +59,11 @@ Assembly:
 - The two case halves are secured with 8x M4 25mm button top hex bolts and 8x M4 flang nuts.  The direction of these bolts is not important.  While normal nuts can be used flange nuts are recommend.
 - The remaining 16 M4 12-16mm bolts are used to secure the top and bottom plates to the unit.  You can use many sizes here due to the 45mm standoffs being used.  It is possible to convery this to an art case.  To do that you can replace 8x or 4x of the top plate countersunk bolts with button top bolts.  Doing this would also require modifications to the top plate files to make the holes non-countersunk.
 - To mount a Neutrik passthrough you will need the 2x M3 8mm countersunk hex bolts and 2x M3 nuts.  The Neutrik passthrough will be a tight fit and may need to be clamped into place.
+
+---
+
+## Donations and Support
+
+These files are not posted with the intention of making money.  If you enjoy them and want to toss me a few bucks it will go toward filament and parts that will be used to make more cool stuff that gets posted.  
+
+All domations or tips will be split evenly between myself and [Dash n'Mash](https://twitter.com/Dash_xx_Mash?s=20).
