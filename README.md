@@ -18,7 +18,7 @@ All copyrights are retained by the original author(s) unless the copyright is ex
 
 Check the LICENSE of each design for details on how the design can be used.
 
-Hardware in this repo should generally be one of the following:
+Hardware in this repository should generally be one of the following:
 
 <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png" width="88"> CC-BY: This license allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the creator. The license allows for commercial use.
 
@@ -30,11 +30,11 @@ Hardware in this repo should generally be one of the following:
 
 <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/cc-zero.png" width="88"> CC0 (aka CC Zero) is a public dedication tool, which allows creators to give up their copyright and put their works into the worldwide public domain. CC0 allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, with no conditions.
 
-If your design requires a specific license and cannot use one of the Creative Commons licenses, we'd love to know why! Join the [OpenStick GP2040-CE Discord](https://discord.gg/k2pxhke7q8) hardware-developmnet channel and start a discussion with us.
+If your design requires a specific license and cannot use one of the Creative Commons licenses, we'd love to know why! Join the [OpenStick GP2040-CE Discord](https://discord.gg/k2pxhke7q8) hardware-development channel and start a discussion with us.
 
 # Definition of "NonCommercial"
 
-For the purposes of all hardware submitted to this repo, the definition of NonCommercial is “in any manner that is primarily intended for or directed toward commercial advantage or monetary compensation.”. 
+For the purposes of all hardware submitted to this repository, the definition of NonCommercial is “in any manner that is primarily intended for or directed toward commercial advantage or monetary compensation.”. 
 
 NonCommercial designs may be "sold" in a "group buy" to help individuals lower costs under the following conditions:
 - There is a single organizer of the "group buy" who does not represent a commercial entity
