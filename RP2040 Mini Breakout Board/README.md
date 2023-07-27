@@ -25,7 +25,7 @@ The RP2040 Basic Breakout Board is an embedded design based on the Advanced Brea
 
 The RP2040 Mini Breakout Board is an embedded SMD design with through hole components.  It is not recommened to assemble these yoursulf unless you have a setup to do SMD assembly.
 
-We have a small but passionate Discord group which you can access here if interested: https://discord.gg/k87GQU2n
+We have a small but passionate Discord group which you can access here if interested: https://discord.com/invite/k2pxhke7q8
 
 A massive thank you to FeralAI who made most of this possible!
 
