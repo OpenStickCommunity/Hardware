@@ -1,1 +1,25 @@
 .DS_Store
+
+# GP2040-Keyboard-Converter
+# Temporary files
+GP2040 Keyboard Converter/Waveshare Zero-PCB/kicad/*.000
+GP2040 Keyboard Converter/Waveshare Zero-PCB/kicad/*.bak
+GP2040 Keyboard Converter/Waveshare Zero-PCB/kicad/*.bck
+GP2040 Keyboard Converter/Waveshare Zero-PCB/kicad/*.kicad_pcb-bak
+GP2040 Keyboard Converter/Waveshare Zero-PCB/kicad/*.kicad_sch-bak
+GP2040 Keyboard Converter/Waveshare Zero-PCB/kicad/*-backups
+GP2040 Keyboard Converter/Waveshare Zero-PCB/kicad/*.kicad_prl
+GP2040 Keyboard Converter/Waveshare Zero-PCB/kicad/*.sch-bak
+GP2040 Keyboard Converter/Waveshare Zero-PCB/kicad/*~
+GP2040 Keyboard Converter/Waveshare Zero-PCB/kicad/_autosave-*
+GP2040 Keyboard Converter/Waveshare Zero-PCB/kicad/*.tmp
+GP2040 Keyboard Converter/Waveshare Zero-PCB/kicad/*-save.pro
+GP2040 Keyboard Converter/Waveshare Zero-PCB/kicad/*-save.kicad_pcb
+GP2040 Keyboard Converter/Waveshare Zero-PCB/kicad/fp-info-cache
+
+# Netlist files (exported from Eeschema)
+GP2040 Keyboard Converter/Waveshare Zero-PCB/kicad/*.net
+
+# Autorouter files (exported from Pcbnew)
+GP2040 Keyboard Converter/Waveshare Zero-PCB/kicad/*.dsn
+GP2040 Keyboard Converter/Waveshare Zero-PCB/kicad/*.ses
