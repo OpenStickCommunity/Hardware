@@ -27,7 +27,7 @@ The RP2040 Advanced Breakout Board is an embedded SMD design with through hole c
 
 With the RP2040 Advanced Breakout Board using an embedded RP2040 chip, we are able to access all of the additional GPIO pins that are not easily accessible on the standard Raspberry Pi Pico board.  This allows us to have many more options on the board so that people can make truly unique and custom contollers.
 
-We have a small but passionate Discord group which you can access here if interested: https://discord.gg/k87GQU2n
+We have a small but passionate Discord group which you can access here if interested: https://discord.com/invite/k2pxhke7q8
 
 A massive thank you to FeralAI who made most of this possible!
 
