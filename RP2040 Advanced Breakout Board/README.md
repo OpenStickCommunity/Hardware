@@ -87,7 +87,7 @@ All of the boards so far have been ordered though JLCPCB.  Due to minimum order 
 
 2 - Click on `Instant Quote`<br/>
 
-3 - Click on `Add Gerber file` and choose the file named `Gerber - RP2040 Advanced Breakout Board v5.2E.zip` from the `Hardware files` folder<br/>
+3 - Click on `Add Gerber file` and choose the file named `Gerber - RP2040 Advanced Breakout Board v5.3E.zip` from the `Hardware files` folder<br/>
 
 4 - Choose the following options for the board:<br/>
 - Base Material = FR-4<br/>
@@ -133,8 +133,8 @@ Note 5 - This adds around $1 to the total cost of the order and is 100% worth do
 7 - The Bill of Materials page will show you a render of the board without parts.  You can click the `NEXT` button here unless you see any issues with the board<br/>
 
 8 - You will now have the option to upload two files:
-- For the `Add BOM File` you will need to choose the `BOM - RP2040 Advanced Breakout Board v5.2E.csv` file that is located in the Hardware files folder
-- For the `Add CPL File` you will need to choose the `CPL - RP2040 Advanced Breakout Board v5.2E.csv` file that is located in the Hardware files folder<br/>
+- For the `Add BOM File` you will need to choose the `BOM - RP2040 Advanced Breakout Board v5.3E.csv` file that is located in the Hardware files folder
+- For the `Add CPL File` you will need to choose the `CPL - RP2040 Advanced Breakout Board v5.3E.csv` file that is located in the Hardware files folder<br/>
 Once these two files have been uploaded you can press the `Process BOM & CPL` button.
 
 9 - You will now see a list of components that will be used to assemble the boards.  If there are not listed issues here you can click on on the `NEXT` button. (note 6), (note 7)
