@@ -1,4 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "SMF05CT1G")(type "KiCad")(uri "${KIPRJMOD}/SMF05CT1G/SMF05CT1G.kicad_sym")(options "")(descr ""))
-)
