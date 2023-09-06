@@ -146,6 +146,17 @@ All of the button housings so far have been ordered though JLCPCB.  Due to the s
 
 ---
 
+Other stuff:
+
+I have added a jig file that you can use to make assembly of the 2.4mm version easier.  It lets you easily solder on the 2.4mm prongs as well as the hot swap socket.
+
+Please note that these do not do well printed in PLA and will melt during soldering.  
+
+It is recommended to print in something like resin but please note that a resin print has not been tested.
+
+
+---
+
 Donations:
 
 Every part of this project is open source, all prototyping costs were taken care of by other projects!
