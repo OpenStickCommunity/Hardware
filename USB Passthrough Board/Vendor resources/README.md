@@ -31,7 +31,7 @@ Step 2:
 
 Take one of the cables and place it on a clean surface.
 
-Note: The cables are JST 2.00mm 2pin same direction cables that are 10cm (100mm) in length.  They can be made by hand or purchsed directly from a variety of sellers on AliExpress.  If you plan on installing the USB passthrough board somewhere else in your case you may want to get longer cables.  For this install guide you will need three of the cables.  
+Note: The cables are JST 2.00mm 2pin same direction cables that are 10cm (100mm) in length.  They can be made by hand or purchased directly from a variety of sellers on AliExpress.  If you plan on installing the USB passthrough board somewhere else in your case you may want to get longer cables.  For this install guide you will need three of the cables.  
 
 ![Step_02](https://github.com/OpenStickCommunity/Hardware/blob/main/USB%20Passthrough%20Board/Vendor%20resources/Assets/Step_02.JPG)
 
@@ -67,7 +67,7 @@ Step 6:
 
 Connect the other end of the second JST 2.00mm 2pin cable to the socket labeled `OPTION 5` on the RP2040 Advanced Breakout Board.
 
-Note: You can use other option sockts for this as well, but for the sake of this installation guide we will be using `Option 5` and `Option 6`. 
+Note: You can use other option sockets for this as well, but for the sake of this installation guide we will be using `Option 5` and `Option 6`. 
 
 ![Step_06](https://github.com/OpenStickCommunity/Hardware/blob/main/USB%20Passthrough%20Board/Vendor%20resources/Assets/Step_06.JPG)
 
@@ -85,7 +85,7 @@ Step 8:
 
 Connect the other end of the third JST 2.00mm 2pin cable to the socket labeled `OPTION 6` on the RP2040 Advanced Breakout Board.
 
-Congradulations!  You have now connected the USB passthrough board to your RP2040 Advanced Breakout Board!
+Congratulations!  You have now connected the USB passthrough board to your RP2040 Advanced Breakout Board!
 
 ![Step_08](https://github.com/OpenStickCommunity/Hardware/blob/main/USB%20Passthrough%20Board/Vendor%20resources/Assets/Step_08.JPG)
 
@@ -93,7 +93,7 @@ Congradulations!  You have now connected the USB passthrough board to your RP204
 
 Firmware update and web-configuration:
 
-In the following steps we will be updateing the firmware on your RP2040 Advanced Breakout Board and then making the necessary changes to web-configuration get you up and running.  If you prefer to not play around in the web-configuration, I have created a special version of the firmware with all of the necessary changes already made which can be found HERE. 
+In the following steps we will be updating the firmware on your RP2040 Advanced Breakout Board and then making the necessary changes to web-configuration get you up and running.  If you prefer to not play around in the web-configuration, I have created a special version of the firmware with all of the necessary changes already made which can be found HERE. 
 
 ---
 
@@ -111,7 +111,7 @@ Note: Currently there are (officially) USB-C and USB-B versions of the RP2040 Ad
 
 Step 10:
 
-While holding the button labeld `WEB CONFIG` on the RP2040 Advanced Breakout Board plug the other end of the USB cable into your computer.
+While holding the button labeled `WEB CONFIG` on the RP2040 Advanced Breakout Board plug the other end of the USB cable into your computer.
 
 Your RP2040 Advanced Breakout Board will now be in web-config mode.
 
@@ -167,7 +167,7 @@ Once you have the v0.7.4 firmware file downloaded (it should be a .UF2 file) sim
 
 It will take a moment for the copy to complete.  Once it does you will see the device disconnect and then reconnect as a controller.
 
-Congradulations!  You have updated the firmware on your RP2040 Advanced Breakout Board!
+Congratulations!  You have updated the firmware on your RP2040 Advanced Breakout Board!
 
 ---
 
@@ -189,11 +189,11 @@ We now need to setup the controller to work on a PS5 as a PS4 fightstick.
 
 Since you are still in the web-config, click on the `Settings` tab.
 
-From here click on the `Input Mode` dropdown and select `PS4`.  
+From here click on the `Input Mode` drop-down and select `PS4`.  
 
 When you do you will see two other options appear, one for switching the Touchpad andShare buttons around and another for setting the type of device you want the RP2040 Advanced Breakout Board to act as.
 
-Since we want to use USB passthrough to allow the RP2040 Advanced Breakout Board to be used on the PS5 for games that support legacy PS4 fightsticks we need to change the `Controller` dropdown to `Arcade Stick`.
+Since we want to use USB passthrough to allow the RP2040 Advanced Breakout Board to be used on the PS5 for games that support legacy PS4 fightsticks we need to change the `Controller` drop-down to `Arcade Stick`.
 
 Once this is done scroll down to the bottom of the page and press the `Save` button.
 
@@ -217,7 +217,7 @@ There is a little toggle switch on the right hand side, click it to turn PS Pass
 
 Once this is turned on you will be able to set the `D+` pin that the USB passthrough board will use.  
 
-In the `D+` box type in `23`.  You will see that `D-` is automanitally set to `24`.
+In the `D+` box type in `23`.  You will see that `D-` is automatically set to `24`.
 
 Once again, scroll down to the bottom of the page and press the `Save` button.
 
@@ -245,7 +245,7 @@ Step 18:
 
 Step 18 is an optional step!
 
-If you would like to attach your USB passthrough board to the RP2040 Advanced Breakout Board you can do so by using 2x 10mm (1cm) M3 standoffs and 4x 4mm M2 butontop bolts.
+If you would like to attach your USB passthrough board to the RP2040 Advanced Breakout Board you can do so by using 2x 10mm (1cm) M3 standoffs and 4x 4mm M2 button-top bolts.
 
 ![Step_18a](https://github.com/OpenStickCommunity/Hardware/blob/main/USB%20Passthrough%20Board/Vendor%20resources/Assets/Step_18a.JPG)
 ![Step_18b](https://github.com/OpenStickCommunity/Hardware/blob/main/USB%20Passthrough%20Board/Vendor%20resources/Assets/Step_18b.JPG)
@@ -256,7 +256,7 @@ Step 19:
 
 The final step is to connect the device you are planning to use to authenticate with to the USB passthrough board.  
 
-In this example I am connecting a Mayflash MagicBoots v1.1 but you can also use another dongle like the PNX N5 or the board from any licenced 3rd party PS4 fightstick.  
+In this example I am connecting a Mayflash MagicBoots v1.1 but you can also use another dongle like the PNX N5 or the board from any licensed 3rd party PS4 fightstick.  
 
 Note: You cannot connect a DS5 or DS4 controller to the USB passthrough or any clone controllers.
 
@@ -264,9 +264,9 @@ Note: You cannot connect a DS5 or DS4 controller to the USB passthrough or any c
 
 ---
 
-Congradulations!  
+Congratulations!  
 
-You have sucessfully updated your RP2040 Advanced Breakout Board, connected the USB passthrough board, made the necessary changes in web-config to get everything working and plugged in a device to authenticate with.
+You have successfully updated your RP2040 Advanced Breakout Board, connected the USB passthrough board, made the necessary changes in web-config to get everything working and plugged in a device to authenticate with.
 
 Go play some PS5 fighting games :)
 
