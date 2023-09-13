@@ -115,4 +115,73 @@ While holding the button labeld `WEB CONFIG` on the RP2040 Advanced Breakout Boa
 
 Your RP2040 Advanced Breakout Board will now be in web-config mode.
 
-**** WIP NOT FINISHED YET ****
+![Step_10](https://github.com/OpenStickCommunity/Hardware/blob/main/USB%20Passthrough%20Board/Vendor%20resources/Assets/Step_10.JPG)
+
+---
+
+Step 11:
+
+Navigate to [192.168.7.1](192.168.7.1) in your web browser to access the web-configuration page.  
+
+The web-configuration page will show you what version of the firmware you are currently running.  As you can see in the example screenshot here I am running v0.7.3 firmware on this RP2040 Advanced Breakout Board.  
+
+For USB passthrough to work you need to be running at least v0.7.4.
+
+Note: If you are already on v0.7.4 or later you can skip steps XXXXXXX.
+
+![Step_11](https://github.com/OpenStickCommunity/Hardware/blob/main/USB%20Passthrough%20Board/Vendor%20resources/Assets/Step_11.png)
+
+---
+
+Step 12:
+
+In order to update the firmware on the RP2040 Advanced Breakout Board we will need to put the RP2040 Advanced Breakout Board in BootSel mode.
+
+Unplug the RP2040 Advanced Breakout Board from your computer.
+
+On your RP2040 Advanced Breakout Board in the top right you will see a button labeled `BOOT`.
+
+Press and hold that button while connecting the device to your computer with a USB cable.
+
+Your RP2040 Advanced Breakout Board will now be in BootSel mode.
+
+You should see the RP2040 Advanced Breakout Board come up as a removable drive on your computer called `RPI-RP2`.
+
+![Step_12](https://github.com/OpenStickCommunity/Hardware/blob/main/USB%20Passthrough%20Board/Vendor%20resources/Assets/Step_12.JPG)
+
+---
+
+Step 13:
+
+You will need to download the latest version of the firmware for the RP2040 Advanced Breakout Board.
+
+There are several ways to get the firmware.  There is a direct link to the needed v0.7.4 firmware [HERE](https://github.com/OpenStickCommunity/GP2040-CE/releases/download/v0.7.4/GP2040-CE_0.7.4_RP2040AdvancedBreakoutBoard.uf2) or you can take a look at our downloads page [HERE](https://gp2040-ce.info/#/download) and download the needed .UF2 file for the RP2040 Advanced Breakout Board.
+
+![Step_13](https://github.com/OpenStickCommunity/Hardware/blob/main/USB%20Passthrough%20Board/Vendor%20resources/Assets/Step_13.png)
+
+---
+
+Step 14:
+
+Once you have the v0.7.4 firmware file downloaded (it should be a .UF2 file) simply drag it and drop it onto the removable drive on your computer called `RPI-RP2`.
+
+It will take a moment for the copy to complete.  Once it does you will see the device disconnect and then reconnect as a controller.
+
+Congradulations!  You have updated the firmware on your RP2040 Advanced Breakout Board!
+
+---
+
+Step 15:
+
+Lets double check and make sure we are running a firmware of at least v0.7.4 now.
+
+Navigate to [192.168.7.1](192.168.7.1) in your web browser to access the web-configuration page.  
+
+As you can see in the example screenshot here I am now running v0.7.4 firmware on this RP2040 Advanced Breakout Board.  
+
+![Step_11](https://github.com/OpenStickCommunity/Hardware/blob/main/USB%20Passthrough%20Board/Vendor%20resources/Assets/Step_14.png)
+
+
+
+
+
