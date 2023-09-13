@@ -260,7 +260,7 @@ In this example I am connecting a Mayflash MagicBoots v1.1 but you can also use 
 
 Note: You cannot connect a DS5 or DS4 controller to the USB passthrough or any clone controllers.
 
-![Step_19](https://github.com/OpenStickCommunity/Hardware/blob/main/USB%20Passthrough%20Board/Vendor%20resources/Assets/Step_19.JPG)
+![Step_19](https://github.com/OpenStickCommunity/Hardware/blob/main/USB%20Passthrough%20Board/Vendor%20resources/Assets/Step_19.jpg)
 
 ---
 
