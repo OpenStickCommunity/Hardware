@@ -1,3 +1,3 @@
-# RP2040 Advanced Breakout Board - Vendor resources
-![rp2040_advanced_breakout_board](https://github.com/OpenStickCommunity/Hardware/assets/440158/6245f3fc-1d2b-4c7a-83c1-52d48b58f4c8)
+# USB Passthrough Kit - Instillation Guide
+![USB Passthrough Kit](https://github.com/OpenStickCommunity/Hardware/blob/main/USB%20Passthrough%20Board/Vendor%20resources/Assets/USB_Passthrough_Kit.JPG)
 ---
