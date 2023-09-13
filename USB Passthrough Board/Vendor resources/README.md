@@ -115,4 +115,4 @@ While holding the button labeld `WEB CONFIG` on the RP2040 Advanced Breakout Boa
 
 Your RP2040 Advanced Breakout Board will now be in web-config mode.
 
-![Step_10](https://github.com/OpenStickCommunity/Hardware/blob/main/USB%20Passthrough%20Board/Vendor%20resources/Assets/Step_10.JPG)
+**** WIP NOT FINISHED YET ****
