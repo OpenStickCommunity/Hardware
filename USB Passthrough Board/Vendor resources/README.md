@@ -95,8 +95,24 @@ Firmware update and web-configuration:
 
 In the following steps we will be updateing the firmware on your RP2040 Advanced Breakout Board and then making the necessary changes to web-configuration get you up and running.  If you prefer to not play around in the web-configuration, I have created a special version of the firmware with all of the necessary changes already made which can be found HERE. 
 
+---
+
 Step 9:
 
-We now
+We will now connect the RP2040 Advanced Breakout Board to a computer to see what version of the firmware is currently on the board.  
+
+Start by plugging a USB cable into the RP2040 Advanced Breakout Board.  
+
+Note: Currently there are (officially) USB-C and USB-B versions of the RP2040 Advanced Breakout Board.  
 
 ![Step_09](https://github.com/OpenStickCommunity/Hardware/blob/main/USB%20Passthrough%20Board/Vendor%20resources/Assets/Step_09.JPG)
+
+---
+
+Step 10:
+
+While holding the button labeld `WEB CONFIG` on the RP2040 Advanced Breakout Board plug the other end of the USB cable into your computer.
+
+Your RP2040 Advanced Breakout Board will now be in web-config mode.
+
+![Step_10](https://github.com/OpenStickCommunity/Hardware/blob/main/USB%20Passthrough%20Board/Vendor%20resources/Assets/Step_10.JPG)
