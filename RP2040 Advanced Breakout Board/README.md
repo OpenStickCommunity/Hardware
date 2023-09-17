@@ -39,7 +39,7 @@ A 4pin (1x4pin) JST 2.00mm connector labeled `expansion` can be found on the lef
 
 A 4pin (1x4pin) 2.54mm connector labeled `toggle` can be found on the left side that allows for the connection of common toggle switches found on some arcade sticks.  These are generally used to actions like a LS/DP/RS or SOCD toggle.  As these are normal GPIO pins they can be mapped to anything you wish via the web-config.
 
-A 3pin (1x3pin) JST 2.00mm connector labeled `RGB LED` can be found on the left side that allows for the connection of addressible RGB LEDs.  A list of compatible RGB LED types can be found HERE.
+A 3pin (1x3pin) JST 2.00mm connector labeled `RGB LED` can be found on the left side that allows for the connection of addressible RGB LEDs.  Our code is compatible with most WS2812B and SK6812 LEDs.
 
 A 20pin (2x10pin) 2.54mm connector is located in the bottom left of the board, matching the location and pinout of standard Brook boards.  If you are planning to use the 20pin connector you do not need to use the screw terminals on the board, and vice versa if you prefer to wire a stick yourself.
 
