@@ -24,7 +24,7 @@ This board will allow you to plug in a compatible dongle or controller to authen
 
 We have a small but passionate Discord group which you can access here if interested: https://discord.com/invite/k2pxhke7q8
 
-A massive thank you to Lucipher who made USB passthrough a reality for our project!
+A massive thank you to [Lucipher](https://github.com/arntsonl/) who made USB passthrough a reality for our project!
 
 
 ## Board design choices
@@ -54,7 +54,7 @@ As an example, if you connected `D+ OUT` on the USB Passthrough Board to `Option
 
 The same will hold true if you are connecting this to another RP2040-based device or a Pico directly.  
 
-As an exmaple, on the Raspberry Pi Pico, if you connected `D+ OUT` on the USB Passthrough Board to `GPIO14` on the Raspberry Pi Pico, you would need to connect `D- OUT` on the USB Passthrough Board to `GPIO15` on the Raspberry Pi Pico.
+As an example, on the Raspberry Pi Pico, if you connected `D+ OUT` on the USB Passthrough Board to `GPIO14` on the Raspberry Pi Pico, you would need to connect `D- OUT` on the USB Passthrough Board to `GPIO15` on the Raspberry Pi Pico.
 
 
 ## Assembly
@@ -135,7 +135,7 @@ Once these two files have been uploaded you can press the `Process BOM & CPL` bu
 
 9 - You will now see a list of components that will be used to assemble the boards.  If there are not listed issues here you can click on on the `NEXT` button. (note 6), (note 7)
 
-Note 6 - You can also use this page to omit parts from the assembly.  This can primarily be used to omit specific headers or the screw terminals.  Please only do this if you understand what you are doing as omiting main parts of the deisgn will lead to non-functioning boards.  We are not responsible for any non-functional boards. 
+Note 6 - You can also use this page to omit parts from the assembly.  This can primarily be used to omit specific headers or the screw terminals.  Please only do this if you understand what you are doing as omitting main parts of the design will lead to non-functioning boards.  We are not responsible for any non-functional boards. 
 
 Note 7 - We have spent extensive time to ensure that the parts chosen will work for this board.  If there are any parts that are out of stock, or you get warnings about anything, we would recommend you not proceed unless you understand how to do find replacement parts.  If you are unsure, please feel free to join the Discord and ask us.  It is not uncommon for JLCPCB to have part shortages.  Most of the parts listed here come back in stock in a few days.  If that is the case, you may need to wait to place your order until all needed parts are in stock.
 
@@ -175,7 +175,7 @@ https://www.paypal.com/donate/?hosted_button_id=2JMTZVCGLDYC2
 v1.0
 - Initial design (nailed it first try)
 
-## Acknowledgements
+## Acknowledgments
 
 - [TheTrain](https://github.com/TheTrainGoes) for doing the board design
 - [Lucipher](https://github.com/arntsonl) for helping with parts selection
