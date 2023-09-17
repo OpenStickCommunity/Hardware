@@ -1,5 +1,5 @@
 # USB Passthrough Board
-![usb_passthrough_board](https://raw.githubusercontent.com/OpenStickCommunity/Hardware/main/USB%20Passthrough%20Board/Images/USB%20Passthrough%20Board%20-%20With%20wires.JPG)
+![usb_passthrough_board](https://raw.githubusercontent.com/OpenStickCommunity/Hardware/main/USB%20Passthrough%20Board/Images/USB%20Passthrough%20Kit.JPG)
 ---
 
 ## Attribution
@@ -25,6 +25,8 @@ This board will allow you to plug in a compatible dongle or controller to authen
 We have a small but passionate Discord group which you can access here if interested: https://discord.com/invite/k2pxhke7q8
 
 A massive thank you to [Lucipher](https://github.com/arntsonl/) who made USB passthrough a reality for our project!
+
+There is a massive step-by-step tutorial for installing and setting up these boards located [HERE](https://github.com/OpenStickCommunity/Hardware/blob/main/USB%20Passthrough%20Board/Vendor%20resources/README.md)
 
 
 ## Board design choices
@@ -83,12 +85,12 @@ All of the boards so far have been ordered though JLCPCB.  Due to minimum order 
 
 2 - Click on `Instant Quote`<br/>
 
-3 - Click on `Add Gerber file` and choose the file named `Gerber - USB Passthrough Board v1.0.zip` from the `Hardware files` folder<br/>
+3 - Click on `Add Gerber file` and choose the file named `Gerber - USB Passthrough Board v2.0.zip` from the `Hardware files` folder<br/>
 
 4 - Choose the following options for the board:<br/>
 - Base Material = FR-4<br/>
 - Layers = 2<br/>
-- Dimensions = (should auto-populate) 33.3 mm x 45.3 mm<br/>
+- Dimensions = (should auto-populate) 22.3 mm x 45.3 mm<br/>
 - PCB Qty = (however large your run will be, minimum of 5)<br/>
 - Product Type = Industrial/Consumer electronics<br/>
 - Different Design = 1<br/>
@@ -171,6 +173,10 @@ Donations are not necessary but always welcome!  All received donations will be 
 https://www.paypal.com/donate/?hosted_button_id=2JMTZVCGLDYC2
 
 ## Revision History
+
+v2.0
+- Removed the 4pin JST 2.00 connector
+- Did the traces on the board again
 
 v1.0
 - Initial design (nailed it first try)
