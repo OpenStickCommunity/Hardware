@@ -217,7 +217,7 @@ There is a little toggle switch on the right hand side, click it to turn PS Pass
 
 Once this is turned on you will be able to set the `D+` pin that the USB passthrough board will use.  
 
-In the `D+` box type in `23`.  You will see that `D-` is automatically set to `24`.
+In the `D+` box type in `28`.  You will see that `D-` is automatically set to `29`.
 
 Once again, scroll down to the bottom of the page and press the `Save` button.
 
