@@ -27,6 +27,7 @@ A few immediate notes:
 5 - The RGB turbo LED is currently not implemented in the firmware
 6 - The side LEDs are currently not implemented in the firmware
 7 - Vendor resources have not yet been updated for the Open_Core0
+8 - The main image for this is the v1.0 of the Open_Core0 - v2.0 sees the right strap holder removed in favor of a USB passtrough port, images will be updated soon.
 
 The Open_Core0 is an embedded SMD design with through hole components.  It is not recommened to assemble these yoursulf unless you have a setup to do SMD assembly.
 
