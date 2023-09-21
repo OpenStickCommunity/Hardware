@@ -4,7 +4,7 @@
 
 ## Attribution
 
-The following text must be included in any distribution of derivitives of this board. All links must also be included.
+The following text must be included in any distribution of derivatives of this board. All links must also be included.
 
 Based on the Open_Core0 board from the GP2040-CE project located at https://github.com/OpenStickCommunity/Hardware/tree/main/Open_Core0
 
@@ -20,30 +20,30 @@ Changes from the original design:
 The Open_Core0 is my take on a small stickless controller.  This was designed from scratch by myself and brings in elements that I believe stickless controller users will enjoy.  This is designed to be a premium unit.
 
 A few immediate notes:
-1 - I have not finished the official firmware yet, until there you can find prerelease firmware [HERE](https://github.com/OpenStickCommunity/Hardware/tree/main/Open_Core0/PRERELEASE%20FIRMWARE/GP2040-CE_0.7.4_OPEN_CORE0.uf2)
+1 - I have not finished the official firmware yet, until there you can find pre-release firmware [HERE](https://github.com/OpenStickCommunity/Hardware/tree/main/Open_Core0/PRERELEASE%20FIRMWARE/GP2040-CE_0.7.4_OPEN_CORE0.uf2)
 2 - Schematics have not been finished yet but will be added at a later time
-3 - I have not tested the updated plexi cut yet, since the change from v1 was extreamly minimal I do not expect this to be an issue
+3 - I have not tested the updated plexi cut yet, since the change from v1 was extremely minimal, I do not expect this to be an issue
 4 - There are currently no STEP files for the case as I built everything in TinkerCAD, someone in the community is working on a STEP file for this
 5 - The RGB turbo LED is currently not implemented in the firmware
 6 - The side LEDs are currently not implemented in the firmware
 7 - Vendor resources have not yet been updated for the Open_Core0
-8 - The main image for this is the v1.0 of the Open_Core0 - v2.0 sees the right strap holder removed in favor of a USB passtrough port, images will be updated soon.
+8 - The main image for this is the v1.0 of the Open_Core0 - v2.0 sees the right strap holder removed in favor of a USB passthrough port, images will be updated soon.
 
-The Open_Core0 is an embedded SMD design with through hole components.  It is not recommened to assemble these yoursulf unless you have a setup to do SMD assembly.
+The Open_Core0 is an embedded SMD design with through hole components.  It is not recommended to assemble these yourself unless you have a setup to do SMD assembly.
 
 With the Open_Core0 using an embedded RP2040 chip, we are able to access all of the additional GPIO pins that are not easily accessible on the standard Raspberry Pi Pico board.  This allows us to have many more options on the board so that people can make truly unique and custom contollers.
 
-We have a small but passionate Discord group which you can access here if interested: https://discord.com/invite/k2pxhke7q8
+We have a small but passionate Discord group which you can access here, if interested: https://discord.com/invite/k2pxhke7q8
 
 A massive thank you to FeralAI who made most of this possible!
 
 ## Board design choices
 
-The Open_Core0 a new layout that was modified based on feedback from the commiunity and pro level players.  It may not be the perfect layout for you and I encourage everyone to make the changes they want to see to it.  At this time I am not taking requests for changes to the layout.
+The Open_Core0 has a new layout that was modified based on feedback from the community and pro level players.  It may not be the perfect layout for you and I encourage everyone to make whatever changes they want.  At this time I am not taking requests for changes to the layout.
 
-Six aux buttons are located in the top left of the board.  These represent Start / Select / Home / Capture / L3 / R3.
+Six auxillary buttons are located on the top left side of the board.  These represent Start / Select / Home / Capture / L3 / R3.
 
-An 0.96" OLED has beed added to allow visability into current controller settings.
+An 0.96" OLED has beed added to allow visibility into current controller settings.
 
 There are two additional aux buttons located to the right of the OLED that are currently unmapped.  These are designed to be used with addons in GP2040-CE like turbo, functions, macros (coming soon) etc.
 
@@ -51,7 +51,7 @@ There are two three position slide switches that are mapped by defualt as a LS/D
 
 There is a single two position slider that is set as a firmware based lockout switch.  This was done to allow you to customize what gets locked out when enabled.  This can be modified in the web-conifg app further to meet your needs.
 
-The Open_Core0 v2.0 also features a USB passthrough port which will allow you to use an authentication device for play on PS5 games that support legacy controllers (like Streetfighter 6 and Mortal Kombat 11).
+The Open_Core0 v2.0 also features a USB passthrough port which will allow you to use an authentication device for play on PS5 games that support legacy controllers (like Street Fighter 6 and Mortal Kombat 11).
 
 You will also find two tactile switches directly on the Open_Core0 board which can be used to reset or boot into Bootsel mode.  Near those you will also find debug pins but you will likely not need to use these.
 
@@ -59,7 +59,7 @@ The buttons are designed to take either Choc v1 or v2 switches and there are two
 
 The Open_Core0 also features RGB LED player indicators.  An RGB turbo indicator is on the board but not currently part of the code.
 
-Open_Core0 is the first board to feature RGB LED case lighting!  While this code has not been finished yet you will soon have the ability to controle case lighting.  Please note that when this is finished there will be an update to the case design. 
+Open_Core0 is the first board to feature RGB LED case lighting!  While this code has not been finished yet you will soon have the ability to control case lighting.  Please note that when this is finished there will be an update to the case design. 
 
 
 ## Assembly
@@ -76,7 +76,7 @@ This design includes both SMD and through hole parts from JLC PCB.  There are ad
 
 These boards have been designed to be fully assembled by JLC PCB less the OLED and hot-swap sockets.  
 
-Please note that we are not responcible for issues that arrise from the manufactuing of these boards done through JLC PCB or any other manufacturer.  These board files have been ordered and tested for functionality.  
+Please note that we are not responsible for issues that arise from the manufacturing of these boards done through JLC PCB or any other manufacturer.  These board files have been ordered and tested for functionality.  
 
 
 ## How to order a board
@@ -123,9 +123,9 @@ Note 3 - This adds a small cost to the boards but removes the JLCPCB order numbe
 - Tooling holes = Added by Customer<br/>
 - Confirm Parts Placement = Yes (note 5)<br/>
 
-Note 4 - Economic assembly is much cheaper on smaller batch runs of 10-30 units.  Standard assembly will yield less dead on arrival boards but is more expensive to have done.  On average I expect a 5-10% failure rate on the boards from JLC so please factor in that when making your order.
+Note 4 - Economic assembly is much cheaper on smaller batch runs of 10-30 units.  Standard assembly will yield less dead on arrival boards but is more expensive to have done.  On average I expect a 5-10% failure rate on the boards from JLC so please factor that in when making your order.
 
-Note 5 - This adds around $1 to the total cost of the order and is 100% worth doing as they will check the placement of all SMD parts and make any necessary changes or reach out if there are concerns.  I cannot stress enough that this is the best $1 you will spend for the piece of mind of not messing up an entire batch.
+Note 5 - This adds around $1 to the total cost of the order and is 100% worth doing as they will check the placement of all SMD parts and make any necessary changes or reach out if there are concerns.  I cannot stress enough that this is the best $1 you will spend for the peace of mind of not messing up an entire batch.
 
 6 - Make sure you have read the terms and conditions of JLCPCB assembly service and then click on the `Confirm` button if you agree <br/>
 
@@ -136,19 +136,19 @@ Note 5 - This adds around $1 to the total cost of the order and is 100% worth do
 - For the `Add CPL File` you will need to choose the `CPL - Open_Core0 v2.0.csv` file that is located in the Hardware files folder<br/>
 Once these two files have been uploaded you can press the `Process BOM & CPL` button. 
 
-You will likely get an error message here saying that one of the below parts won't be assembeled due to missing date.  If this pops up and the part in question is `NONE1` then you can press `Continue` because `NONE1` is the OLED module and JLC cannot assemble those.
+You will likely get an error message here saying that one of the below parts won't be assembled due to missing date.  If this pops up and the part in question is `NONE1` then you can press `Continue` because `NONE1` is the OLED module and JLC cannot assemble those.
 
-9 - You will now see a list of components that will be used to assemble the boards.  If there are not listed issues here you can click on on the `NEXT` button. (note 6), (note 7)
+9 - You will now see a list of components that will be used to assemble the boards.  If there are no listed issues here you can click on on the `NEXT` button. (note 6), (note 7)
 
-Note 6 - You can also use this page to omit parts from the assembly.  This can primarilty be used to not include case side LEDs if you don't plan on offering the LED case in the future.  Please only do this if you understand what you are doing as omiting main parts of the deisgn will lead to non-functioning boards.  We are not responcible for any boards that are non-functioning. 
+Note 6 - You can also use this page to omit parts from the assembly.  This can primarily be used to not include case side LEDs if you don't plan on offering the LED case in the future.  Please only do this if you understand what you are doing as omitting main parts of the design will lead to non-functioning boards.  We are not responsible for any boards that are non-functioning. 
 
-Note 7 - We have spent extensive time to ensure that the parts chosen will work for this board.  If there are any parts that are out of stock, or you get warnings about anything we would recommend you not proceed unless you understand how to do find replacmeent parts.  If you are unsure, please feel free to join up in the Discord and ask us.  It is not uncommon for JLCPCB to have part shortages.  Most of the parts listed here come back in stock in a few days.  If that is the case, you may need to wait to place your order until all needed parts are in stock.
+Note 7 - We have spent extensive time to ensure that the parts chosen will work for this board.  If there are any parts that are out of stock, or you get warnings about anything we would recommend you not proceed unless you understand how to find replacement parts.  If you are unsure, please feel free to join the Discord and ask us.  It is not uncommon for JLCPCB to have part shortages.  Most of the parts listed here come back in stock in a few days.  If that is the case, you may need to wait to place your order until all needed parts are in stock.
 
-10 - There will now be a render of the board with parts on the Component Placements page.  Check this page to make sure that all parts are in the correct spots and orientation.  We have ordered based on these files before and they are known good.  If all looks well press the `NEXT` button. (note 8)
+10 - There will now be a render of the board with parts on the Component Placements page.  Check this page to make sure that all parts are in the correct spots and orientation.  We have ordered based on these files before and they are known to be good.  If all looks well press the `NEXT` button. (note 8)
 
-Note 8 - Please note that we are not responcible for boards made by JLCPCB or any other manufacturer that do note work.
+Note 8 - Please note that we are not responsible for boards made by JLCPCB or any other manufacturer that do note work.
 
-11 - The quote & order page will give you a breakdown of the costs associated with the boards and assembly parts based on the quantity you have chosen. This done not include shipping.  Shipping will be calculated at a further step. 
+11 - The quote & order page will give you a breakdown of the costs associated with the boards and assembly parts based on the quantity you have chosen. This does not include shipping.  Shipping will be calculated at a further step. 
 - For Product Description I typically choose `Other` `Other` and type in `Controller board`.
 
 If all looks well here you can click on the `SAVE TO CART` button.
