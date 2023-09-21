@@ -168,7 +168,7 @@ All of the boards so far have been ordered though JLCPCB.  Due to minimum order 
 
 4 - Choose the following options for the board:<br/>
 - Base Material = Aluminum<br/>
-- Layers = 2<br/>
+- Layers = 1<br/>
 - Dimensions = (should auto-populate) 256 mm x 134.41 mm<br/> (note 1)
 - PCB Qty = (however large your run will be, minimum of 5)<br/>
 - Product Type = Industrial/Consumer electronics<br/>
