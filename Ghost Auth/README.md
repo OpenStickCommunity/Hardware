@@ -20,20 +20,20 @@ Changes from the original design:
 
 Ghost Auth is designed more for developers and those that tinker on the regular with the RP2040 based devices running GP2040-CE.
 
-When you wipe your PR2040 based device running GP2040-CE (via nuke or otherwise) you will lose yout personal DS4 keys if you uploaded them.
+When you wipe your RP2040 based device running GP2040-CE (via nuke or otherwise) you will lose your personal DS4 keys if you uploaded them.
 
-As somoene who tests new builds and regularily erases my board the step of adding these files back became tedious.
+As someone who tests new builds and regularly wipes the flash on my board, the step of adding these files back became tedious.
 
-Ghost Auth is a minnimal RP2040 implementation that was heavily influenced by the WaveShare Zero. 
+Ghost Auth is a minimal RP2040 implementation that was heavily influenced by the WaveShare Zero. 
 
-It allows you to load any of our hosted GP2040-CE .UF2 builds the load the force web-config .UF2 that was made by Jfedor.  Once in web-config you can change it to PS4 controller mode and load your DS4 files then forever have a dongle to auth off of.
+It allows you to load any of our hosted GP2040-CE .UF2 builds, then load the force web-config .UF2 that was made by Jfedor.  Once in web-config you can change it to PS4 controller mode and load your DS4 files then forever have a dongle to auth off of.
 
 We have a small but passionate Discord group which you can access here if interested: https://discord.com/invite/k2pxhke7q8
 
 
 ## Board design choices
 
-This is a very simple board.  I looked at other examples of RP2040 builds which used small pacakge sized components and emultated those as best I could.  This was heavily based on the WaveShare Zero board.
+This is a very simple board.  I looked at other examples of RP2040 builds which used small package sized components and emulated those as best I could.  This was heavily based on the WaveShare Zero board.
 
 I added a single BootSel button in the event you need to wipe the unit for some reason.
 
@@ -87,7 +87,7 @@ Note 3 - This adds a small cost to the boards but removes the JLCPCB order numbe
 
 Note 4 - Economic assembly is much cheaper on smaller batch runs of 10-30 units.  Standard assembly will yield less dead on arrival boards but is more expensive to have done.  On average I expect a 5-10% failure rate on the boards from JLC so please factor in that when making your order.
 
-Note 5 - This adds around $1 to the total cost of the order and is 100% worth doing as they will check the placement of all SMD parts and make any necessary changes or reach out if there are concerns.  I cannot stress enough that this is the best $1 you will spend for the piece of mind of not messing up an entire batch.
+Note 5 - This adds around $1 to the total cost of the order and is 100% worth doing as they will check the placement of all SMD parts and make any necessary changes or reach out if there are concerns.  I cannot stress enough that this is the best $1 you will spend for the peace of mind of not messing up an entire batch.
 
 6 - Make sure you have read the terms and conditions of JLCPCB assembly service and then click on the `Confirm` button if you agree <br/>
 
@@ -100,15 +100,15 @@ Once these two files have been uploaded you can press the `Process BOM & CPL` bu
 
 9 - You will now see a list of components that will be used to assemble the boards.  If there are not listed issues here you can click on on the `NEXT` button. (note 6), (note 7)
 
-Note 6 - You can also use this page to omit parts from the assembly.  This can primarilty be used to not include specific headers or the screw terminals.  Please only do this if you understand what you are doing as omiting main parts of the deisgn will lead to non-functioning boards.  We are not responcible for any boards that are non-functioning. 
+Note 6 - You can also use this page to omit parts from the assembly.  This can primarily be used to not include specific headers or the screw terminals.  Please only do this if you understand what you are doing as omitting main parts of the design will lead to non-functioning boards.  We are not responsible for any boards that are non-functioning. 
 
-Note 7 - We have spent extensive time to ensure that the parts chosen will work for this board.  If there are any parts that are out of stock, or you get warnings about anything we would recommend you not proceed unless you understand how to do find replacmeent parts.  If you are unsure, please feel free to join up in the Discord and ask us.  It is not uncommon for JLCPCB to have part shortages.  Most of the parts listed here come back in stock in a few days.  If that is the case, you may need to wait to place your order until all needed parts are in stock.
+Note 7 - We have spent extensive time to ensure that the parts chosen will work for this board.  If there are any parts that are out of stock, or you get warnings about anything, we would recommend you not proceed unless you understand how to do find replacmeent parts.  If you are unsure, please feel free to join the Discord and ask us.  It is not uncommon for JLCPCB to have part shortages.  Most of the parts listed here come back in stock in a few days.  If that is the case, you may need to wait to place your order until all needed parts are in stock.
 
-10 - There will now be a render of the board with parts on the Component Placements page.  Check this page to make sure that all parts are in the correct spots and orientation.  We have ordered based on these files before and they are known good.  If all looks well press the `NEXT` button. (note 8)
+10 - There will now be a render of the board with parts on the Component Placements page.  Check this page to make sure that all parts are in the correct spots and orientation.  We have ordered based on these files before and they are known to be good.  If all looks well press the `NEXT` button. (note 8)
 
-Note 8 - Please note that we are not responcible for boards made by JLCPCB or any other manufacturer that do note work.
+Note 8 - Please note that we are not responsible for boards made by JLCPCB or any other manufacturer that do not work.
 
-11 - The quote & order page will give you a breakdown of the costs associated with the boards and assembly parts based on the quantity you have chosen. This done not include shipping.  Shipping will be calculated at a further step. 
+11 - The quote & order page will give you a breakdown of the costs associated with the boards and assembly parts based on the quantity you have chosen. This does not include shipping.  Shipping will be calculated at a further step. 
 - For Product Description I typically choose `Other` `Other` and type in `Controller board`.
 
 If all looks well here you can click on the `SAVE TO CART` button.
