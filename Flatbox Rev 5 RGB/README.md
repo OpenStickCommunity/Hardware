@@ -5,7 +5,7 @@
 
 ## Attribution
 
-The following text must be included in any distribution of derivitives of this board. All links must also be included.
+The following text must be included in any distribution of derivatives of this board. All links must also be included.
 
 Based on the Flatbox Rev 5 RGB v2.0 from the GP2040-CE project located at https://github.com/OpenStickCommunity/Hardware/tree/main/Flatbox%20Rev%205%20RGB%20v2.0
 Based on the original Flatbox Flatbox Rev 5 project located at https://github.com/jfedor2/flatbox/tree/master/hardware-rev5
@@ -21,7 +21,7 @@ Changes from the original design:
 
 ## Summary: 
 
-The Flatbox Rev 5 RGB v2.0 is a three part project that offers RGB and premium construction features to the existing Flatbox Rev 5. 
+The Flatbox Rev 5 RGB v2.0 is a three-part project that offers RGB and premium construction features to the existing Flatbox Rev 5. 
 
 There are three version of the Flatbox Rev 5 RGB v2.0:
 - Flatbox Rev 5 RGB v2.0 - Basic
@@ -44,9 +44,10 @@ Please note that printing the buttons in white resin will allow the LEDs to show
 
 All of the boards so far have been ordered though JLCPCB.  Due to minimum order numbers you would get five of these at a time.  As a bonus, if you do not choose to have all of them populated with parts you will still have usable boards as basic Flatbox Rev 5 boards.  Here are the steps to make your first order and what options I choose along the way.
 
-Please note that you will need to source and solder your own Waveshare RP2040 Zero board as that is not a part JLC can get and assemble for you.
+Please note that you will need to source and solder your own Waveshare RP2040-Zero board as that is not a part JLC can get and assemble for you.
 
-Please also note that this version has the auxillary tactile switches assembled on it.  They are a length that will work with the plastic caps you can get from AliExpress.  If you would rather not use these please omit them from the BOM and CPL.
+
+Please also note that this version has the auxiliary tactile switches pre-connected.  They are a length that will work with the plastic caps you can get from AliEXpress.  If you would rather not use these please omit them from the BOM and CPL.
 
 1 - Go to JLCPCB.com<br/>
 
@@ -93,20 +94,22 @@ Note 4 - Economic assembly is much cheaper on smaller batch runs of 10-30 units.
 
 Note 5 - This adds around $1 to the total cost of the order and is 100% worth doing as they will check the placement of all SMD parts and make any necessary changes or reach out if there are concerns.  I cannot stress enough that this is the best $1 you will spend for the peace of mind of not messing up an entire batch.
 
-6 - Make sure you have read the terms and conditions of JLCPCB assembly service and then click on the `Confirm` button if you agree <br/>
+6 - Make sure you have read the terms and conditions of JLCPCB assembly service and then click on the `Confirm` button if you agree.<br/>
 
-7 - The Bill of Materials page will show you a render of the board without parts.  You can click the `NEXT` button here unless you see any issues with the board<br/>
+7 - The Bill of Materials page will show you a render of the board without parts.  You can click the `NEXT` button here unless you see any issues with the board.<br/>
 
 8 - You will now have the option to upload two files:
 - For the `Add BOM File` you will need to choose the `BOM - Flatbox Rev 5 RGB v2.0.csv` file that is located in the Hardware files folder
 - For the `Add CPL File` you will need to choose the `CPL - Flatbox Rev 5 RGB v2.0.csv` file that is located in the Hardware files folder<br/>
+
 Once these two files have been uploaded you can press the `Process BOM & CPL` button.
 
 9 - You will now see a list of components that will be used to assemble the boards.  If there are not listed issues here you can click on on the `NEXT` button. (note 6), (note 7)
 
-Note 6 - You can also use this page to omit parts from the assembly.  This can primarily be used to not include specific headers or the screw terminals.  Please only do this if you understand what you are doing as omitting main parts of the design will lead to non-functioning boards.  We are not responsible for any boards that are non-functioning. 
 
-Note 7 - We have spent extensive time to ensure that the parts chosen will work for this board.  If there are any parts that are out of stock, or you get warnings about anything we would recommend you not proceed unless you understand how to find replacement parts.  If you are unsure, please feel free to join up in the Discord and ask us.  It is not uncommon for JLCPCB to have part shortages.  Most of the parts listed here come back in stock in a few days.  If that is the case, you may need to wait to place your order until all needed parts are in stock.
+Note 6 - You can also use this page to omit parts from the assembly.  Please only do this if you understand what you are doing as omitting main parts of the design will lead to non-functioning boards.  We are not responsible for any boards that are non-functioning. 
+
+Note 7 - We have spent extensive time to ensure that the parts chosen will work for this board.  If there are any parts that are out of stock, or you get warnings about anything we would recommend you not proceed unless you understand how to do find replacmeent parts.  If you are unsure, please feel free to join the Discord and ask us.  It is not uncommon for JLCPCB to have part shortages.  Most of the parts listed here come back in stock in a few days.  If that is the case, you may need to wait to place your order until all needed parts are in stock.
 
 10 - There will now be a render of the board with parts on the Component Placements page.  Check this page to make sure that all parts are in the correct spots and orientation.  We have ordered based on these files before and they are known good.  If all looks well press the `NEXT` button. (note 8)
 
@@ -117,7 +120,7 @@ Note 8 - Please note that we are not responsible for boards made by JLCPCB or an
 
 If all looks well here you can click on the `SAVE TO CART` button.
 
-** Please note that if you are planning to order the FLatbox Rev 5 RGB v2.0 premium aluminum bottom plate you will need to add an additional board to the order before checking out **
+** Please note that if you are planning to order the FLatbox Rev 5 RGB v2.0 premium aluminum bottom plate you will need to add an additional board to the order before checking out. **
 
 12 - The `Secure Checkout` process will be different based on your location in the world.  We recommend researching your shipping options to choose the one that is right for your application. 
 
@@ -125,7 +128,8 @@ If all looks well here you can click on the `SAVE TO CART` button.
 
 Attribution:
 
-The main PCB was redesigned from scratch by myself (TheTrain) in EasyEDA.  All source files for this are located in the `Source Files` folder.
+
+The main PCB was fully redesigned by myself (TheTrain) in EasyEDA.  All source files for this are located in the `Source Files` folder.
 
 The case files were designed by myself (TheTrain) from scratch.  They were based on the case design of the Mavercade Keebfighter.  You can check out the awesome Mavercade Keebfighters here: https://mavercade.com/collections/mavercade-keebfighters
 
