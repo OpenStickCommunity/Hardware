@@ -27,7 +27,7 @@ The RP2040 Advanced Breakout Board is an embedded SMD design with through hole c
 
 With the RP2040 Advanced Breakout Board using an embedded RP2040 chip, we are able to access all of the additional GPIO pins that are not easily accessible on the standard Raspberry Pi Pico board.  This allows us to have many more options on the board so that people can make truly unique and custom contollers.
 
-We have a small but passionate Discord group which you can access here if interested: https://discord.gg/k87GQU2n
+We have a small but passionate Discord group which you can access here if interested: https://discord.com/invite/k2pxhke7q8
 
 A massive thank you to FeralAI who made most of this possible!
 
@@ -39,7 +39,7 @@ A 4pin (1x4pin) JST 2.00mm connector labeled `expansion` can be found on the lef
 
 A 4pin (1x4pin) 2.54mm connector labeled `toggle` can be found on the left side that allows for the connection of common toggle switches found on some arcade sticks.  These are generally used to actions like a LS/DP/RS or SOCD toggle.  As these are normal GPIO pins they can be mapped to anything you wish via the web-config.
 
-A 3pin (1x3pin) JST 2.00mm connector labeled `RGB LED` can be found on the left side that allows for the connection of addressible RGB LEDs.  A list of compatible RGB LED types can be found HERE.
+A 3pin (1x3pin) JST 2.00mm connector labeled `RGB LED` can be found on the left side that allows for the connection of addressible RGB LEDs.  Our code is compatible with most WS2812B and SK6812 LEDs.
 
 A 20pin (2x10pin) 2.54mm connector is located in the bottom left of the board, matching the location and pinout of standard Brook boards.  If you are planning to use the 20pin connector you do not need to use the screw terminals on the board, and vice versa if you prefer to wire a stick yourself.
 
@@ -87,7 +87,7 @@ All of the boards so far have been ordered though JLCPCB.  Due to minimum order 
 
 2 - Click on `Instant Quote`<br/>
 
-3 - Click on `Add Gerber file` and choose the file named `Gerber - RP2040 Advanced Breakout Board v5.2E.zip` from the `Hardware files` folder<br/>
+3 - Click on `Add Gerber file` and choose the file named `Gerber - RP2040 Advanced Breakout Board v5.3E.zip` from the `Hardware files` folder<br/>
 
 4 - Choose the following options for the board:<br/>
 - Base Material = FR-4<br/>
@@ -133,8 +133,8 @@ Note 5 - This adds around $1 to the total cost of the order and is 100% worth do
 7 - The Bill of Materials page will show you a render of the board without parts.  You can click the `NEXT` button here unless you see any issues with the board<br/>
 
 8 - You will now have the option to upload two files:
-- For the `Add BOM File` you will need to choose the `BOM - RP2040 Advanced Breakout Board v5.2E.csv` file that is located in the Hardware files folder
-- For the `Add CPL File` you will need to choose the `CPL - RP2040 Advanced Breakout Board v5.2E.csv` file that is located in the Hardware files folder<br/>
+- For the `Add BOM File` you will need to choose the `BOM - RP2040 Advanced Breakout Board v5.3E.csv` file that is located in the Hardware files folder
+- For the `Add CPL File` you will need to choose the `CPL - RP2040 Advanced Breakout Board v5.3E.csv` file that is located in the Hardware files folder<br/>
 Once these two files have been uploaded you can press the `Process BOM & CPL` button.
 
 9 - You will now see a list of components that will be used to assemble the boards.  If there are not listed issues here you can click on on the `NEXT` button. (note 6), (note 7)
