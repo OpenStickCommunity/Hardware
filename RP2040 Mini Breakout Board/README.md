@@ -23,7 +23,7 @@ You can find a pre-compiled .UF2 firmware file for the RP2040 Mini Breakout Boar
 
 The RP2040 Basic Breakout Board is an embedded design based on the Advanced Breakout Board (https://github.com/OpenStickCommunity/Hardware/tree/main/RP2040%20Advanced%20Breakout%20Board) by TheTrain and N-I-X.
 
-The RP2040 Mini Breakout Board is an embedded SMD design with through hole components.  It is not recommened to assemble these yoursulf unless you have a setup to do SMD assembly.
+The RP2040 Mini Breakout Board is an embedded SMD design with through hole components.  It is not recommened to assemble these yourself unless you have a setup to do SMD assembly.
 
 We have a small but passionate Discord group which you can access here if interested: https://discord.com/invite/k2pxhke7q8
 
@@ -31,28 +31,28 @@ A massive thank you to FeralAI who made most of this possible!
 
 ## Board design choices
 
-The Mini Breakout Board uses a non-stanrd form factor.  This was not based on anything directly, rather just me playing around with sizes.  I am currently working on a micro versino of this as well.  Also included with this repo are some 3D print files to make a nice little box for it.  
+The Mini Breakout Board uses a non-standard form factor.  This was not based on anything directly, rather just me playing around with sizes.  I am currently working on a micro versino of this as well.  Also included with this repo are some 3D print files to make a nice little box for it.  
 
-A 3pin (1x3pin) JST 2.00mm connector labeled can be found on the top side that allows for the connection of addressible RGB LEDs.  A list of compatible RGB LED types can be found HERE.
+A 3pin (1x3pin) JST 2.00mm connector labeled can be found on the top side that allows for the connection of addressable RGB LEDs.  A list of compatible RGB LED types can be found HERE.
 
 A 20pin (2x10pin) 2.54mm connector is located in the bottom right of the board, matching the location and pinout of standard Brook boards.  If you are planning to use the 20pin connector you do not need to use the screw terminals on the board, and vice versa if you prefer to wire a stick yourself.
 
 A 4pin (1x4pin) JST 2.00mm connector is located on the top size which can be used with the standard Brook 4-pin harness allowing for access to A2, L3 and R3.  
 
-A 3pin (1x3pin) JST 2.00mm connectors is located on the top side which allows for access to two `option` pins.  These can use assigned via the web-config to setup any number of combinations of features such as dual direcitonal, turbo, reverse direction etc.  Please note there are only two of these on this board.  It is mainly intended for arcade applications that would make use of an additional button for connecting a coin acceptor as well as turbo.
+A 3pin (1x3pin) JST 2.00mm connector is located on the top side which allows for access to two `option` pins.  These can use assigned via the web-config to setup any number of combinations of features such as dual directional, turbo, reverse direction etc.  Please note there are only two of these on this board.  It is mainly intended for arcade applications that would make use of an additional button for connecting a coin acceptor as well as turbo.
 
-A USB-C port can be found on the top left side of the board.  USB-C was chosen as it is the current industry standard and can allow for very low profile builds should you choose to make a versiion of the board with depopulated headers.  
+A USB-C port can be found on the top left side of the board.  USB-C was chosen as it is the current industry standard and can allow for very low profile builds should you choose to make a version of the board with depopulated headers.  
 
 There are three buttons on the board:
   - A BootSel button, which can be held on plug-in to enter BootSel mode which is used to flash the device with firmware. 
   - A reset button, which can be pressed to reset the device.
-  - A web-conifg button, which can be held while plugging in to go to web-config mode.*
+  - A web-config button, which can be held while plugging in to go to web-config mode.*
 
-Please note that web-config can be accessed by pressing and holding S2.  This is an extra mapping of S2 to allow for easy access and setup of the web-config utility for those that are working on raw boards not already installed or connected to anything. 
+Please note that web-config can be accessed by pressing and holding S2.  This is an extra mapping of S2 to allow for easy access and setup of the web-config utility for those that are working on boards not already installed or connected to anything. 
 
 ## Assembly
 
-These boards are designed to be made and assembled by JLC PCB.  As such, you will find a folder called `Hardware files` that contains a copy of the three files needed to have these boards made by JLC PCB.  
+These boards are designed to be made and assembled by JLCPCB.  As such, you will find a folder called `Hardware files` that contains a copy of the three files needed to have these boards made by JLC PCB.  
 
 Those files are:
 - A gerber file for the design of the board
@@ -61,9 +61,9 @@ Those files are:
 
 This design includes both SMD and through hole parts from JLC PCB.  There are additional costs associated with having through hole parts added to the board.  You can reduce overall costs by removing headers that are not needed for your specific application of the board.  This can be done in EasyEDA directly by choosing to exclude the part from the BoM before exporting the necessary files.
 
-These boards have been designed to be fully assembled by JLC PCB.  You will not need to do any soldering or assembly of any kind should you order a batch of them.  The only thing you will need to do is flash the boards with the most recent version of GP2040-CE and then test the boards.
+These boards have been designed to be fully assembled by JLCPCB.  You will not need to do any soldering or assembly of any kind should you order a batch of them.  The only thing you will need to do is flash the boards with the most recent version of GP2040-CE and then test the boards.
 
-Please note that we are not responcible for issues that arrise from the manufactuing of these boards done through JLC PCB or any other manufacturer.  These board files have been ordered and tested for functionality.  
+Please note that we are not responsible for issues that arise from the manufacturing of these boards done through JLC PCB or any other manufacturer.  These board files have been ordered and tested for functionality.  
 
 ## How to order a board
 
@@ -112,7 +112,7 @@ Note 3 - This adds a small cost to the boards but removes the JLCPCB order numbe
 
 Note 4 - Economic assembly is much cheaper on smaller batch runs of 10-30 units.  Standard assembly will yield less dead on arrival boards but is more expensive to have done.  On average I expect a 5-10% failure rate on the boards from JLC so please factor in that when making your order.
 
-Note 5 - This adds around $1 to the total cost of the order and is 100% worth doing as they will check the placement of all SMD parts and make any necessary changes or reach out if there are concerns.  I cannot stress enough that this is the best $1 you will spend for the piece of mind of not messing up an entire batch.
+Note 5 - This adds around $1 to the total cost of the order and is 100% worth doing as they will check the placement of all SMD parts and make any necessary changes or reach out if there are concerns.  I cannot stress enough that this is the best $1 you will spend for the peace of mind of not messing up an entire batch.
 
 6 - Make sure you have read the terms and conditions of JLCPCB assembly service and then click on the `Confirm` button if you agree <br/>
 
@@ -125,15 +125,15 @@ Once these two files have been uploaded you can press the `Process BOM & CPL` bu
 
 9 - You will now see a list of components that will be used to assemble the boards.  If there are not listed issues here you can click on on the `NEXT` button. (note 6), (note 7)
 
-Note 6 - You can also use this page to omit parts from the assembly.  This can primarilty be used to not include specific headers or the screw terminals.  Please only do this if you understand what you are doing as omiting main parts of the deisgn will lead to non-functioning boards.  We are not responcible for any boards that are non-functioning. 
+Note 6 - You can also use this page to omit parts from the assembly.  This can primarily be used to not include specific headers or the screw terminals.  Please only do this if you understand what you are doing as omiting main parts of the design will lead to non-functioning boards.  We are not responsible for any boards that are non-functioning. 
 
-Note 7 - We have spent extensive time to ensure that the parts chosen will work for this board.  If there are any parts that are out of stock, or you get warnings about anything we would recommend you not proceed unless you understand how to do find replacmeent parts.  If you are unsure, please feel free to join up in the Discord and ask us.  It is not uncommon for JLCPCB to have part shortages.  Most of the parts listed here come back in stock in a few days.  If that is the case, you may need to wait to place your order until all needed parts are in stock.
+Note 7 - We have spent extensive time to ensure that the parts chosen will work for this board.  If there are any parts that are out of stock, or you get warnings about anything, we would recommend you not proceed unless you understand how to find replacmeent parts.  If you are unsure, please feel free to join up in the Discord and ask us.  It is not uncommon for JLCPCB to have part shortages.  Most of the parts listed here come back in stock in a few days.  If that is the case, you may need to wait to place your order until all needed parts are in stock.
 
 10 - There will now be a render of the board with parts on the Component Placements page.  Check this page to make sure that all parts are in the correct spots and orientation.  We have ordered based on these files before and they are known good.  If all looks well press the `NEXT` button. (note 8)
 
-Note 8 - Please note that we are not responcible for boards made by JLCPCB or any other manufacturer that do note work.
+Note 8 - Please note that we are not responsible for boards made by JLCPCB or any other manufacturer that do not work.
 
-11 - The quote & order page will give you a breakdown of the costs associated with the boards and assembly parts based on the quantity you have chosen. This done not include shipping.  Shipping will be calculated at a further step. 
+11 - The quote & order page will give you a breakdown of the costs associated with the boards and assembly parts based on the quantity you have chosen. This does not include shipping.  Shipping will be calculated at a further step. 
 - For Product Description I typically choose `Other` `Other` and type in `Controller board`.
 
 If all looks well here you can click on the `SAVE TO CART` button.
@@ -150,11 +150,11 @@ If something goes wrong and you want to upload the firmware again (or if you hav
 
 ## Sales recommendations
 
-Through the licencing you are free to make and sell these boards in group buys or even commercial applications.  
+Through the licensing you are free to make and sell these boards in group buys or even commercial applications.  
 
-The intended purpose of this board, as well as the overall GP2040-CE project is to get low cost boards into the hands of as many people as possible to everyone can enjoy the project.  
+The intended purpose of this board, as well as the overall GP2040-CE project is to get low cost boards into the hands of as many people as possible so everyone can enjoy the project.  
 
-As such, we have a recommend MSRP of $15 USD for the RP2040 Mini Breakout Board or $25 USD with free shipping within the USA or Canada.
+As such, we have a recommended MSRP of $15 USD for the RP2040 Mini Breakout Board or $25 USD with free shipping within the USA or Canada.
 
 You are free to set your own price as you see fit. 
 
@@ -169,7 +169,7 @@ I (TheTrain) have ordered just over 160 of Advanced Breakout Boards in various c
 - 20x White, 3x dead = Failure rate of 15%
 - 10x Black, 1x dead = Failure rate of 10%
 
-Overall the blended rate is around 10%.  So for every 100 boards ordered expect to get 10 dead ones give or take.  This should be factored in when placing orders ofr commercial purposes or group buys.  
+Overall the blended rate is around 10%.  So for every 100 boards ordered expect to get 10 dead ones give or take.  This should be factored in when placing orders for commercial purposes or group buys.  
 
 Of those that arrived dead there have only been a few that I have been able to get working again, usually due to soldering issues on the SMD parts.
 

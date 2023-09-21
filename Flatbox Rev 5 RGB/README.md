@@ -31,8 +31,8 @@ There are three version of the Flatbox Rev 5 RGB v2.0:
 Please note that all three of these versions use the same PCB.
 
 The `basic` verion is a remake of the Flatbox Rev 5 PCB that has a modified case to include Player LEDs as well as cutouts for tactile switch caps over the flaps that are present on the basic Rev 4 and Rev 5 cases.
-The `art case` version goes a step further and offers a unique case design that uses a mid-frame drop in (idea take from Mavercade and their line of Keebfighters) as well as a top plexi layer.
-The `Premium Art Case` verion adds a bottom aluminum plate and foam to the `art case` version while also removing some height from the main boady of the `art case` version.
+The `art case` version goes a step further and offers a unique case design that uses a mid-frame drop in (idea taken from Mavercade and their line of Keebfighters) as well as a top plexi layer.
+The `Premium Art Case` version adds a bottom aluminum plate and foam to the `art case` version while also removing some height from the main body of the `art case` version.
 
 The top plexi is a .DXF file which should be usable by most places that can cut plexi.  It is recommended to do this part in 1-2mm plexi.
 
@@ -46,7 +46,8 @@ All of the boards so far have been ordered though JLCPCB.  Due to minimum order 
 
 Please note that you will need to source and solder your own Waveshare RP2040-Zero board as that is not a part JLC can get and assemble for you.
 
-Please also note that this verison has the auxiliary tactile switches pre-connected.  They are a length that will work with the plastic caps you can get from AliEXpress.  If you would rather not use these please omit them from the BOM and CPL.
+
+Please also note that this version has the auxiliary tactile switches pre-connected.  They are a length that will work with the plastic caps you can get from AliEXpress.  If you would rather not use these please omit them from the BOM and CPL.
 
 1 - Go to JLCPCB.com<br/>
 
@@ -89,7 +90,7 @@ Note 3 - This adds a small cost to the boards but removes the JLCPCB order numbe
 - Tooling holes = Added by Customer<br/>
 - Confirm Parts Placement = Yes (note 5)<br/>
 
-Note 4 - Economic assembly is much cheaper on smaller batch runs of 10-30 units.  Standard assembly will yield less dead on arrival boards but is more expensive to have done.  On average I expect a 5-10% failure rate on the boards from JLC so please factor in that when making your order.
+Note 4 - Economic assembly is much cheaper on smaller batch runs of 10-30 units.  Standard assembly will yield less dead on arrival boards but is more expensive to have done.  On average I expect a 5-10% failure rate on the boards from JLC so please factor that in when making your order.
 
 Note 5 - This adds around $1 to the total cost of the order and is 100% worth doing as they will check the placement of all SMD parts and make any necessary changes or reach out if there are concerns.  I cannot stress enough that this is the best $1 you will spend for the peace of mind of not messing up an entire batch.
 
@@ -105,7 +106,8 @@ Once these two files have been uploaded you can press the `Process BOM & CPL` bu
 
 9 - You will now see a list of components that will be used to assemble the boards.  If there are not listed issues here you can click on on the `NEXT` button. (note 6), (note 7)
 
-Note 6 - You can also use this page to omit parts from the assembly.  Please only do this if you understand what you are doing as omitting main parts of the deisgn will lead to non-functioning boards.  We are not responsible for any boards that are non-functioning. 
+
+Note 6 - You can also use this page to omit parts from the assembly.  Please only do this if you understand what you are doing as omitting main parts of the design will lead to non-functioning boards.  We are not responsible for any boards that are non-functioning. 
 
 Note 7 - We have spent extensive time to ensure that the parts chosen will work for this board.  If there are any parts that are out of stock, or you get warnings about anything we would recommend you not proceed unless you understand how to do find replacmeent parts.  If you are unsure, please feel free to join the Discord and ask us.  It is not uncommon for JLCPCB to have part shortages.  Most of the parts listed here come back in stock in a few days.  If that is the case, you may need to wait to place your order until all needed parts are in stock.
 
@@ -113,7 +115,7 @@ Note 7 - We have spent extensive time to ensure that the parts chosen will work 
 
 Note 8 - Please note that we are not responsible for boards made by JLCPCB or any other manufacturer that do not work.
 
-11 - The quote & order page will give you a breakdown of the costs associated with the boards and assembly parts based on the quantity you have chosen. This done not include shipping.  Shipping will be calculated at a further step. 
+11 - The quote & order page will give you a breakdown of the costs associated with the boards and assembly parts based on the quantity you have chosen. This does not include shipping.  Shipping will be calculated at a further step. 
 - For Product Description I typically choose `Other` `Other` and type in `Controller board`.
 
 If all looks well here you can click on the `SAVE TO CART` button.
@@ -126,11 +128,12 @@ If all looks well here you can click on the `SAVE TO CART` button.
 
 Attribution:
 
+
 The main PCB was fully redesigned by myself (TheTrain) in EasyEDA.  All source files for this are located in the `Source Files` folder.
 
-The case files were designed by myself (TheTrain) from scratch.  They were based on the case deisng of the Mavercade Keebfighter.  You can check out the awesome Mavercade Keebfighters here: https://mavercade.com/collections/mavercade-keebfighters
+The case files were designed by myself (TheTrain) from scratch.  They were based on the case design of the Mavercade Keebfighter.  You can check out the awesome Mavercade Keebfighters here: https://mavercade.com/collections/mavercade-keebfighters
 
-The buttons were deisnged from scratch by SGFDevices: https://github.com/sgfdevices/Bridget/tree/main/Buttons
+The buttons were designed from scratch by SGFDevices: https://github.com/sgfdevices/Bridget/tree/main/Buttons
 
 ---
 
