@@ -6,7 +6,7 @@
 
 The following text must be included in any distribution of derivatives of this board. All links must also be included.
 
-Based on RP2040 Advanced Breakout board from the GP2040-CE project located at https://github.com/OpenStickCommunity/Hardware/tree/main/RP2040%20Advanced%20Breakout%20Board and the RP2040 Advanced Breakout board - USB Passthrough Edition from the GP2040-CE project located at https://github.com/OpenStickCommunity/Hardware/tree/main/RP2040%20Advanced%20Breakout%20Board.
+Based on RP2040 Advanced Breakout board from the GP2040-CE project located at https://github.com/OpenStickCommunity/Hardware/tree/main/RP2040%20Advanced%20Breakout%20Board and the RP2040 Advanced Breakout board - USB Passthrough Edition from the GP2040-CE project located at https://github.com/OpenStickCommunity/Hardware/tree/main/RP2040%20Advanced%20Breakout%20Board%20-%20Passthrough.
 
 Copyright 2023 [TheTrain](https://github.com/TheTrainGoes) and [n-i-x](https://github.com/n-i-x)
 
