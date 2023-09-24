@@ -93,7 +93,11 @@ Congratulations!  You have now connected the USB passthrough board to your RP204
 
 Firmware update and web-configuration:
 
-In the following steps we will be updating the firmware on your RP2040 Advanced Breakout Board and then making the necessary changes to web-configuration get you up and running.  If you prefer to not play around in the web-configuration, I have created a special version of the firmware with all of the necessary changes already made which can be found HERE. 
+In the following steps we will be updating the firmware on your RP2040 Advanced Breakout Board and then making the necessary changes to web-configuration get you up and running.  If you prefer to not play around in the web-configuration, I have created a special version of the firmware with all of the necessary changes already made which can be found [HERE](https://github.com/OpenStickCommunity/Hardware/blob/main/USB%20Passthrough%20Board/Vendor%20resources/Firmware/GP2040-CE_0.7.4_RP2040ADVANCEDBREAKOUTBOARD_USBPASSTHROUGH_ENABLED.uf2). 
+
+If you download the linked file you can skip to Step 12.  Follow Step 12, skip Step 13 beacuse you have already downloaded the needed file and then follow Step 14.  Once that is finished you are setup and ready to go.
+
+If you do not want to download the pre-compiled firmware please read on!
 
 ---
 
