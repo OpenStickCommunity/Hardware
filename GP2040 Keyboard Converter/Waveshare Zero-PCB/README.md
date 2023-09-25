@@ -4,11 +4,9 @@
 
 ---
 
-***NOTE: Keyboard Host Configuration has not yet been implemented into the GP2040-CE project as part of the Main Release as of GP2040-CE v0.7.3***
-
 ## Attribution
 
-The following text must be included in any distribution of derivitives of this board. All links must also be included.
+The following text must be included in any distribution of derivatives of this board. All links must also be included.
 
 Copyright 2023 [InfraredAces](https://github.com/InfraredAces)
 
@@ -19,7 +17,7 @@ Changes from the original design:
 
 ## Summary
 
-The GP2040-CE Keyboard Converter Case is designed to be a USB Host Device for the use of a keyboard with the GP2040-CE project. The end result is a device that allows you to play on a keyboard, but have it registered just as GP2040-CE controller, whether that is XInput, DInput, PS4, or Switch.
+The GP2040-CE Keyboard Converter is designed to be a USB Host Device for the use of a keyboard with the GP2040-CE project. The end result is a device that allows you to play on a keyboard, but have it registered as a GP2040-CE controller, whether that is XInput, DInput, PS4, or Switch.
 
 You can find a pre-compiled .UF2 firmware file for the RP2040 Advanced Breakout Board in the GP2040-CE release section under `GP2040-CE_X.X.X_WaveshareZero-KeyboardConverter.uf2`.
 
@@ -43,9 +41,9 @@ Once the circuit boards have been fabricated and received the following parts ar
 
 Note: THT: Through Hole Technology Mounting 
 
-It's recommended that the Waveshare Zero be flashed first with the most recent version of GP2040-CE and then test the boards for proper functioning before soldering to the primary board.
+It's recommended that the Waveshare Zero be flashed first with the most recent version of GP2040-CE and then the boards tested for proper functioning before soldering to the primary board.
 
-Please note that we are not responsible for issues that arrise from the manufactuing of these boards done any manufacturer.  These board files have been ordered and tested for functionality.  
+Please note that we are not responsible for issues that arise from the manufacturing of these boards done by any manufacturer.  These board files have been ordered and tested for functionality.  
 
 ### 3D Printed Case
 
@@ -60,7 +58,7 @@ Please note that we are not responsible for issues that arrise from the manufact
 | M2x18mm Screws | 4 | [McMaster-Carr](https://www.mcmaster.com/92000A024/) |
 | M2x1.6mm Nuts | 4 | [McMaster-Carr](https://www.mcmaster.com/90592A075/) |
 
-The screws are inserted through the top and pass though the PCB and out the bottom. The nuts can be embedded in the recesses on the bottom of the case. An alternative is to use glue to hole them permanently in place.
+The screws are inserted through the top and pass though the PCB and out the bottom. The nuts can be embedded in the recesses on the bottom of the case. An alternative is to use glue to hold them permanently in place.
 
 ## How to upload firmware
 
