@@ -1,8 +1,9 @@
 # 3D Printable Fightstick Case - Snug Neutrik Edition
 
-![3D Printable Fightstick Case - 3D Render beforeAfter](https://raw.githubusercontent.com/OpenStickCommunity/Hardware/main/Fightstick%20Case/Images/3D%20render.png)
-![3D Printable Fightstick Case - Fully Assembled Case](https://raw.githubusercontent.com/OpenStickCommunity/Hardware/main/Fightstick%20Case/Images/Fully%20assembled%20case.jpg)
-![3D Printable Fightstick Case - Inside - Wired](https://raw.githubusercontent.com/OpenStickCommunity/Hardware/main/Fightstick%20Case/Images/Inside%20-%20Wired.JPG)
+![3D Printable Fightstick Case - 3D Render beforeAfter](https://github.com/OpenStickCommunity/Hardware/blob/6f04a718ae919b9495e218c86b743e8c0c8c5f4a/Fightstick%20Case/Community%20submissions/Assets/Snug%20Neutrik%20Assets/beforeafter.png)
+![3D Printable Fightstick Case - Close up](https://github.com/OpenStickCommunity/Hardware/blob/6f04a718ae919b9495e218c86b743e8c0c8c5f4a/Fightstick%20Case/Community%20submissions/Assets/Snug%20Neutrik%20Assets/CloseUpOfm3.png)
+![3D Printable Fightstick Case - Hole](https://github.com/OpenStickCommunity/Hardware/blob/6f04a718ae919b9495e218c86b743e8c0c8c5f4a/Fightstick%20Case/Community%20submissions/Assets/Snug%20Neutrik%20Assets/hole.png)
+![3D Printable Fightstick Case - Popout](https://github.com/OpenStickCommunity/Hardware/blob/6f04a718ae919b9495e218c86b743e8c0c8c5f4a/Fightstick%20Case/Community%20submissions/Assets/Snug%20Neutrik%20Assets/Popout.png)
 ---
 
 ## Attribution
