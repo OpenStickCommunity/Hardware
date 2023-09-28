@@ -186,7 +186,7 @@ Through the licensing you are free to make and sell these boards in group buys o
 
 The intended purpose of this board, as well as the overall GP2040-CE project is to get low cost boards into the hands of as many people as possible so everyone can enjoy the project.  
 
-As such, we have a recommend MSRP of $20 USD for the RP2040 Advanced Breakout Board - USB Passthrough Edition or $34 USD with free shipping within the USA or Canada.
+As such, we have a recommend MSRP of $30 USD for the RP2040 Advanced Breakout Board - USB Passthrough Edition or $35 USD with free shipping within the USA or Canada.
 
 You are free to set your own price as you see fit. 
 
