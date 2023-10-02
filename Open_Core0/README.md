@@ -1,5 +1,5 @@
 # Open_Core0 v2.0
-![Open_Core0](https://github.com/OpenStickCommunity/Hardware/blob/main/Open_Core0/Images/Open_Core0.jpg)
+![Open_Core0](https://github.com/OpenStickCommunity/Hardware/blob/main/Open_Core0/Images/Open_Core0.JPG)
 ---
 
 ## Attribution
