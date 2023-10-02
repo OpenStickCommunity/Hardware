@@ -1,5 +1,5 @@
-# RP2040 Advanced Breakout Board - Vendor resources
-![rp2040_advanced_breakout_board](https://github.com/OpenStickCommunity/Hardware/assets/440158/6245f3fc-1d2b-4c7a-83c1-52d48b58f4c8)
+# Open_Core0 WASD v2.0 - Vendor Resources
+![Open_Core0 WASD](https://github.com/OpenStickCommunity/Hardware/blob/main/Open_Core0%20WASD/Images/Open_Core0%20WASD.JPG)
 ---
 
 ## Attribution
@@ -17,12 +17,8 @@ Changes from the original design:
 
 ## Summary
 
-The vendor resources section contains files that vendors may find useful to help them make, package and sell the RP2040 Advanced Breakout Board.
+The vendor resources section contains files that vendors may find useful to help them make, package and sell the Open_Core0.
 
-The GP2040-CE team heavily recommends that you include a printout of the `GP2040-CE Info Card` as it contains a basic overview of the board shortcuts, a link to the GP2040-CE website and a pinout of the board.
+The GP2040-CE team heavily recommends that you include a printout of the `GP2040-CE Info Card - Open_Core0 WASD.pdf` as it contains a basic overview of the board shortcuts, a link to the GP2040-CE website and a pinout of the board.  It can be found [HERE](https://github.com/OpenStickCommunity/Hardware/blob/main/Open_Core0/Vendor%20resources/GP2040-CE%20info%20card%20-%20Open_Core0%20WASD.pdf)
 
 - This has been formatted so that it will print on normal 4x6 thermal stickers (which I presume most vendors will have).
-
-There is also an included `GP2040-CE - Quick Refernce Card` which includes the default GP2040-CE shortcuts, LED hotkeys and a table of the button mappings.
-
-- This has been sized at 80mm x 51mm to fit within the safe area of most business card printing providers, and a batch from Moo UK has been tested successfully. It can also be scaled up as needed due to the high resolution of the PDF.  

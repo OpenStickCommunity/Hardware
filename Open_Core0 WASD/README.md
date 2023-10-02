@@ -24,8 +24,7 @@ A few immediate notes:
 2 - There are currently no STEP files for the case as I built everything in TinkerCAD, someone in the community is working on a STEP file for this
 3 - The RGB turbo LED is currently not implemented in the firmware
 4 - The side LEDs are currently not implemented in the firmware
-5 - Vendor resources have not yet been updated for the Open_Core0
-6 - The stabilizer bar may or may not be added properly, I am still waiting for mine to arrive
+5 - The stabilizer bar may or may not be added properly, I am still waiting for mine to arrive
 
 The Open_Core0 WASD is an embedded SMD design with through hole components.  It is not recommended to assemble these yourself unless you have a setup to do SMD assembly.
 

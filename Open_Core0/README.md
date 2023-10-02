@@ -23,7 +23,6 @@ A few immediate notes:
 1 - Schematics have not been finished yet but will be added at a later time
 2 - The RGB turbo LED is currently not implemented in the firmware
 3 - The side LEDs are currently not implemented in the firmware
-4 - Vendor resources have not yet been updated for the Open_Core0
 
 The Open_Core0 is an embedded SMD design with through hole components.  It is not recommended to assemble these yourself unless you have a setup to do SMD assembly.
 
