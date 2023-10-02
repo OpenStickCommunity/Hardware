@@ -1,5 +1,5 @@
 # Open_Core0 WASD v2.0
-![Open_Core0 WASD](https://github.com/OpenStickCommunity/Hardware/blob/main/Open_Core0/Images/Open_Core0%20WASD.jpg)
+![Open_Core0 WASD](https://github.com/OpenStickCommunity/Hardware/blob/main/Open_Core0%20WASD/Images/Open_Core0%20WASD.JPG)
 ---
 
 ## Attribution
