@@ -77,7 +77,7 @@ You will also need the following hardware components to assembe the Open_Core0:
 - 0.96" OLED [AliExpress Link](https://www.aliexpress.com/item/1005003749784158.html) (make sure you get the module version)
 Note: You will need to take off the plastic part of the header on it otherwise the plexi will not lay flush!  You will also need to snip the legs after soldered on.
 - 7x M2x6mm spacer standoffs [AliExpress Link](https://www.aliexpress.com/item/1005003106030065.html)
-- 8x M2x5mm countersunk bolts [AliExpress Link](https://www.aliexpress.com/item/1005003106030065.html)
+- 8x M2x5mm countersunk bolts [AliExpress Link](https://www.aliexpress.com/item/32968097507.html)
 - 6x M2x8mm buttonhead bolts [AliExpress Link](https://www.aliexpress.com/item/32967225441.html)
 - 12x Choc v1 or Choc v2 switches
 - 12x Choc v1 or Choc v2 keycaps
