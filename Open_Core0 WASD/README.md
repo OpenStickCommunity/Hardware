@@ -80,6 +80,17 @@ Please note that we are not responsible for issues that arise from the manufactu
 
 Please note that I have gotten reports that JLC may not make the cutout for the USB passthrough properly, please check their files and ensure the board cutout is where it needs to be.
 
+You will also need the following hardware components to assembe the Open_Core0 WASD:
+- 0.96" OLED [AliExpress Link](https://www.aliexpress.com/item/1005003749784158.html) (make sure you get the module version)
+Note: You will need to take off the plastic part of the header on it otherwise the plexi will not lay flush!  You will also need to snip the legs after soldered on.
+- 7x M2x6mm spacer standoffs [AliExpress Link](https://www.aliexpress.com/item/1005003106030065.html)
+- 8x M2x5mm countersunk bolts [AliExpress Link](https://www.aliexpress.com/item/1005003106030065.html)
+- 6x M2x8mm buttonhead bolts [AliExpress Link](https://www.aliexpress.com/item/32967225441.html)
+- 13x Choc v1 or Choc v2 switches
+- 12x Choc v1 or Choc v2 keycaps (normal 1U)
+- 1x Choc v1 or Choc v2 keycap (larger 2U)
+Note: Optionally you can get a stabilizer bar for the 2U key.  I have still not worked this out so YMMV.
+
 
 ## How to order a board
 
