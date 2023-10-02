@@ -20,14 +20,10 @@ Changes from the original design:
 The Open_Core0 is my take on a small stickless controller.  This was designed from scratch by myself and brings in elements that I believe stickless controller users will enjoy.  This is designed to be a premium unit.
 
 A few immediate notes:
-1 - I have not finished the official firmware yet, until there you can find pre-release firmware [HERE](https://github.com/OpenStickCommunity/Hardware/tree/main/Open_Core0/PRERELEASE%20FIRMWARE/GP2040-CE_0.7.4_OPEN_CORE0.uf2)
-2 - Schematics have not been finished yet but will be added at a later time
-3 - I have not tested the updated plexi cut yet, since the change from v1 was extremely minimal, I do not expect this to be an issue
-4 - There are currently no STEP files for the case as I built everything in TinkerCAD, someone in the community is working on a STEP file for this
-5 - The RGB turbo LED is currently not implemented in the firmware
-6 - The side LEDs are currently not implemented in the firmware
-7 - Vendor resources have not yet been updated for the Open_Core0
-8 - The main image for this is the v1.0 of the Open_Core0 - v2.0 sees the right strap holder removed in favor of a USB passthrough port, images will be updated soon.
+1 - Schematics have not been finished yet but will be added at a later time
+2 - The RGB turbo LED is currently not implemented in the firmware
+3 - The side LEDs are currently not implemented in the firmware
+4 - Vendor resources have not yet been updated for the Open_Core0
 
 The Open_Core0 is an embedded SMD design with through hole components.  It is not recommended to assemble these yourself unless you have a setup to do SMD assembly.
 
@@ -77,6 +73,15 @@ This design includes both SMD and through hole parts from JLC PCB.  There are ad
 These boards have been designed to be fully assembled by JLC PCB less the OLED and hot-swap sockets.  
 
 Please note that we are not responsible for issues that arise from the manufacturing of these boards done through JLC PCB or any other manufacturer.  These board files have been ordered and tested for functionality.  
+
+You will also need the following hardware components to assembe the Open_Core0:
+- 0.96" OLED [AliExpress Link](https://www.aliexpress.com/item/1005003749784158.html) (make sure you get the module version)
+Note: You will need to take off the plastic part of the header on it otherwise the plexi will not lay flush!  You will also need to snip the legs after soldered on.
+- 7x M2x6mm spacer standoffs [AliExpress Link](https://www.aliexpress.com/item/1005003106030065.html)
+- 8x M2x5mm countersunk bolts [AliExpress Link](https://www.aliexpress.com/item/1005003106030065.html)
+- 6x M2x8mm buttonhead bolts [AliExpress Link](https://www.aliexpress.com/item/32967225441.html)
+- 12x Choc v1 or Choc v2 switches
+- 12x Choc v1 or Choc v2 keycaps
 
 
 ## How to order a board
