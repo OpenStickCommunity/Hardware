@@ -27,7 +27,7 @@ The `Community Submissions` section is dedicated to remixes and other changes th
 
 When submitting here, please include the following:
 
-Name - Link to Discord / Tiwtter / GitHub / or just stay a ghost
+Name - Link to Discord / Twitter / GitHub / or just stay a ghost
 File(s) uploaded - List all the files you are uploading (please place these in the 3D print files section)
 Images - Add a few images of the render and print for the parts if you have them (please place these in the assets folder and link to them)
 Description - Talk about what you are adding, why, how to print, etc.
