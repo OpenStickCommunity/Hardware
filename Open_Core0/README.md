@@ -206,7 +206,7 @@ If all looks well here you can click on the `SAVE TO CART` button.
 
 ## How to upload firmware
 
-If uploading the firmware before assembly you can hold the BootSel button on the Pico and plug the device into your computer.  It will show up as an external device.  Copy the `GP2040-CE_0.7.4_OPEN_CORE0.uf2` file to it from the prerelase firmware section and wait for the device to disconnect after copying completes.  
+If uploading the firmware before assembly you can hold the BootSel button on the Pico and plug the device into your computer.  It will show up as an external device.  Copy the `GP2040-CE_0.7.5_OpenCore0.uf2` file to it from the main firmware release section (https://github.com/OpenStickCommunity/GP2040-CE/releases) and wait for the device to disconnect after copying completes.  
 
 If something goes wrong and you want to upload the firmware again (or if you have tested out the configuration tool and made a mistake) you can enter BootSel mode via either of the methods above and drag over the included `flash_nuke.uf2` file.  This file will take a moment to write to the Pico, once completed you will see the device disconnect and then re-connect as an external device.  After it has shown up again you can copy the same `GP2040-CE_0.7.4_OPEN_CORE0.uf2` firmware over to it again.
 
