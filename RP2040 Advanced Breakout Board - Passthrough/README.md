@@ -151,7 +151,7 @@ Once these two files have been uploaded you can press the `Process BOM & CPL` bu
 
 9 - You will now see a list of components that will be used to assemble the boards.  If there are not listed issues here you can click on on the `NEXT` button. (note 6), (note 7), (note 8)
 
-Note 6 - You may get an error about headers 4 and 5 not being present, these are for the USB bypass and debug headers.  They can be skipped.
+Note 6 - You may get an error about the H3 and H4 designators not existing in the BOM file.  This is OK and you can press `continue`.  H3 and H4 are for the USB bypass and debug headers.  They can be skipped.
 
 Note 7 - You can also use this page to omit parts from the assembly.  This can primarily be used to not include specific headers or the screw terminals.  Please only do this if you understand what you are doing as omitting main parts of the design will lead to non-functioning boards.  We are not responsible for any boards that are non-functioning. 
 
