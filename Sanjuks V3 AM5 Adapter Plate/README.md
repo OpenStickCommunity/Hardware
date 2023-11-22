@@ -1,5 +1,5 @@
 # Sanjuks V3 AM5 Adapter Plate
-![Sanjuks_V3_AM5_Adapter_Plate](https://github.com/OpenStickCommunity/Hardware/blob/main/Samjuks%20V3%20AM5%20Adapter%20Plate/Images/Sanjuks_V3_Adapter_Plate.jpg)
+![Sanjuks_V3_AM5_Adapter_Plate](https://github.com/OpenStickCommunity/Hardware/blob/main/Sanjuks%20V3%20AM5%20Adapter%20Plate/Images/Sanjuks_V3_AM5_Adapter_Plate.jpg)
 ---
 
 ## Attribution
