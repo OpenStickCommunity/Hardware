@@ -25,6 +25,21 @@ There are a nearly endless number of MX switches floating around out there.  For
 
 ---
 
+## Attribution
+
+The following text must be included in any distribution of derivatives of this board. All links must also be included.
+
+Based on the OSBMX by TheTrain and Rana Labs - https://ko-fi.com/ranalabs/
+
+Copyright © 2023 [TheTrain](https://github.com/TheTrainGoes) and [Rana Labs](https://ko-fi.com/ranalabs/)
+
+[Licensed under CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+Changes from the original design:
+  - list any changes you make here
+
+---
+
 Summary:
 
 The OSBMX 24 / OSBMX 30 is based on the buttons from the OFOF1 by RanaLabs (https://github.com/rana-sylvatica/OFOF1).
