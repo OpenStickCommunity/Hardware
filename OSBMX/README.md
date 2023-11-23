@@ -1,6 +1,8 @@
 ![OSBMX Buttons](https://github.com/TheTrainGoes/GP2040-Projects/blob/main/Open%20Source%20Buttons/OSBMX/OSBMX%20Buttons.JPG)
 ![OSBMX PCB](https://github.com/TheTrainGoes/GP2040-Projects/blob/main/Open%20Source%20Buttons/OSBMX/OSBMX%20PCB.png)
 ![OSBMX PCB 2.4mm](https://github.com/TheTrainGoes/GP2040-Projects/blob/main/Open%20Source%20Buttons/OSBMX/OSBMX%20PCB%20-%202.4mm.png)
+![OSBMX v6 Direct solder](https://github.com/TheTrainGoes/GP2040-Projects/blob/main/OSBMX%20PCB%20v6%20Direct%20solder.png)
+![OSBMX v6 Hot swap](https://github.com/TheTrainGoes/GP2040-Projects/blob/main/OSBMX%20PCB%20v6%20Hot%20swap.png)
 
 OSBMX 24 / OSBMX 30
 Open Source Button MX 24mm and 30mm buttons
@@ -20,6 +22,21 @@ There are a nearly endless number of MX switches floating around out there.  For
 
 !!!WARNING!!!
 
+
+---
+
+## Attribution
+
+The following text must be included in any distribution of derivatives of this board. All links must also be included.
+
+Based on the OSBMX by TheTrain and Rana Labs - https://ko-fi.com/ranalabs/
+
+Copyright © 2023 [TheTrain](https://github.com/TheTrainGoes) and [Rana Labs](https://ko-fi.com/ranalabs/)
+
+[Licensed under CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+Changes from the original design:
+  - list any changes you make here
 
 ---
 
@@ -102,7 +119,7 @@ All of the boards so far have been ordered though JLCPCB.  Due to the size of th
 - Product Type = Industrial/Consumer electronics<br/>
 - Different Design = 1<br/>
 - Delivery Format = Single PCB<br/>
-- PCB Thickness = 1.6<br/>
+- PCB Thickness = 1.6<br/> (NOTE 1)
 - PCB Color = (up to you)<br/>
 - Silkscreen = (defaults to white for all except white boards which is black)<br/>
 - Surface Finish = HASL(with lead)<br/>
@@ -113,6 +130,8 @@ All of the boards so far have been ordered though JLCPCB.  Due to the size of th
 -  Castellated Holes = No<br/>
 - Remove Order Number = Yes<br/>
 - No advanced options<br/>
+
+* NOTE 1 - If you are making the v6 low profile boards that can be plugged into with quick disconnects you must use 0.6mm boards.  These are more expensive than the normal 1.6mm boards.
 
 5 - Click on `SAVE TO CART`<br/>
 6 - Go through checkout process, ensure to select economic shipping to keep costs low
@@ -170,7 +189,15 @@ https://www.paypal.com/donate/?hosted_button_id=2JMTZVCGLDYC2
 
 Revision History:
 
-v4.0 (current)
+v6.0 (current)
+- Adds two versions that are very thin which can be connected to directly with quick disconnects
+
+
+v5.0 (unreleased)
+- v5.0 did not work and was skipped
+
+
+v4.0
 - Offset the post holes on the OSBMX 24 / OSBMX 30 housing and main PCB by 10o to ensure no electrical contact with the hot swap socket pads
 
 
