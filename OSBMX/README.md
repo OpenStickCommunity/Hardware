@@ -2,7 +2,7 @@
 ![OSBMX PCB](https://github.com/TheTrainGoes/GP2040-Projects/blob/main/Open%20Source%20Buttons/OSBMX/OSBMX%20PCB.png)
 ![OSBMX PCB 2.4mm](https://github.com/TheTrainGoes/GP2040-Projects/blob/main/Open%20Source%20Buttons/OSBMX/OSBMX%20PCB%20-%202.4mm.png)
 ![OSBMX v6 Direct solder](https://github.com/OpenStickCommunity/Hardware/blob/main/OSBMX/OSBMX%20PCB%20v6%20Direct%20solder.png)
-![OSBMX v6 Hot swap](https://github.com/TheTrainGoes/GP2040-Projects/blob/main/OSBMX%20PCB%20v6%20Hot%20swap.png)
+![OSBMX v6 Hot swap](https://github.com/OpenStickCommunity/Hardware/blob/main/OSBMX/OSBMX%20PCB%20v6%20Hot%20swap.png)
 
 OSBMX 24 / OSBMX 30
 Open Source Button MX 24mm and 30mm buttons
