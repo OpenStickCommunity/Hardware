@@ -27,7 +27,13 @@ There are a nearly endless number of MX switches floating around out there.  For
 
 ## Attribution
 
-The following text must be included in any distribution of derivatives of this board. All links must also be included.
+Due to the size of the individual boards it may be impossible to provide a proper link to this repo.  As such, please use these extra guidelines:
+
+- A link to this repo if you are making a remix that is done on a panel where there is space to include the repo link
+- Attribution to the original designers of the OSBMX (TheTrain and Rana Labs)
+- A link to this repo on any sales pages for either original OSBMX switch plates or remixes
+
+The following text must be included in any GitHub distributions of derivatives of this board. All links must also be included.
 
 Based on the OSBMX by TheTrain and Rana Labs - https://ko-fi.com/ranalabs/
 
