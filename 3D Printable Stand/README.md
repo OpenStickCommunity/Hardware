@@ -45,7 +45,7 @@ You are free to set your own price as you see fit.
 
 ## Donations
 
-Donations are not necessary but always welcome!  All received donations will be split evenly between TheTrain and BitBangGaming.  TheTrain will typically use donations to try out new designs or send boards to people for testing, iterations and helping people get board setups that might not be in an economic position to get one themselves.
+Donations are not necessary but always welcome!  All received donations will be used to try out new designs or send things to people for testing, iterations and helping people get board setups that might not be in an economic position to get one themselves.
 
 https://www.paypal.com/donate/?hosted_button_id=2JMTZVCGLDYC2
 
@@ -56,5 +56,4 @@ v1.0
 
 ## Acknowledgments
 
-- [TheTrain](https://github.com/TheTrainGoes) for doing the board design
-- [BitBangGaming](https://bitbanggaming.com/) base of the design
+- [TheTrain](https://github.com/TheTrainGoes) for doing the stands
