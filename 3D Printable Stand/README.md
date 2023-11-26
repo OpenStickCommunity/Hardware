@@ -1,7 +1,7 @@
 # 3D Printable Stand
 ![3D Printable Stand](https://github.com/OpenStickCommunity/Hardware/blob/main/3D%20Printable%20Stand/Images/3D%20Printable%20Stand%20-%20Render.png)
 ![3D Printable Stand Front](https://github.com/OpenStickCommunity/Hardware/blob/main/3D%20Printable%20Stand/Images/3D%20Printable%20Stand%20-%20Front.jpg)
-![3D Printable Stand Back](https://github.com/OpenStickCommunity/Hardware/blob/main/3D%20Printable%20Stand/Images/3D%20Printable%20Stand%20-%Back.jpg)
+![3D Printable Stand Back](https://github.com/OpenStickCommunity/Hardware/blob/main/3D%20Printable%20Stand/Images/3D%20Printable%20Stand%20-%20Back.jpg)
 
 ---
 
