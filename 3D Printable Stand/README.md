@@ -2,6 +2,8 @@
 ![3D Printable Stand](https://github.com/OpenStickCommunity/Hardware/blob/main/3D%20Printable%20Stand/Images/3D%20Printable%20Stand%20-%20Render.png)
 ![3D Printable Stand Front](https://github.com/OpenStickCommunity/Hardware/blob/main/3D%20Printable%20Stand/Images/3D%20Printable%20Stand%20-%20Front.jpg)
 ![3D Printable Stand Back](https://github.com/OpenStickCommunity/Hardware/blob/main/3D%20Printable%20Stand/Images/3D%20Printable%20Stand%20-%20Back.jpg)
+![3D Printable Stand](https://github.com/OpenStickCommunity/Hardware/blob/main/3D%20Printable%20Stand/Images/3D%20Printable%20Stand%20-%20Render%20-%20Large.png)
+![3D Printable Stand Front](https://github.com/OpenStickCommunity/Hardware/blob/main/3D%20Printable%20Stand/Images/3D%20Printable%20Stand%20-%20Front%20-%20Large.jpg)
 
 ---
 
@@ -21,7 +23,7 @@ Changes from the original design:
 
 ## Summary
 
-The 3D Printable Stand is a small but well balanaced stand set for holding sticks like the Open_Core0, Flatbox and other small board designs. 
+These are two 3D Printable Stands in small (and large), but well balanaced, designs for holding sticks like the Open_Core0, Flatbox and other small (and large) board designs. 
 
 
 ### Printing tips
