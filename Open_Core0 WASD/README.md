@@ -24,7 +24,6 @@ A few immediate notes:
 2 - There are currently no STEP files for the case as I built everything in TinkerCAD, someone in the community is working on a STEP file for this
 3 - The RGB turbo LED is currently not implemented in the firmware
 4 - The side LEDs are currently not implemented in the firmware
-5 - The stabilizer bar may or may not be added properly, I am still waiting for mine to arrive
 
 The Open_Core0 WASD is an embedded SMD design with through hole components.  It is not recommended to assemble these yourself unless you have a setup to do SMD assembly.
 
@@ -88,7 +87,7 @@ Note: You will need to take off the plastic part of the header on it otherwise t
 - 13x Choc v1 or Choc v2 switches
 - 12x Choc v1 or Choc v2 keycaps (normal 1U)
 - 1x Choc v1 or Choc v2 keycap (larger 2U)
-Note: Optionally you can get a stabilizer bar for the 2U key.  I have still not worked this out so YMMV.
+Note: Optionally you can get a stabilizer bar for the 2U key.  This may be necessary if you are using heavy switches.
 
 
 ## How to order a board
