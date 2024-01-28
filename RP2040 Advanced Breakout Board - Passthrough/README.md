@@ -1,4 +1,4 @@
-# RP2040 Advanced Breakout Board - USB Passthrough Edition
+# RP2040 Advanced Breakout Board - USB Passthrough Edition v5.5
 ![rp2040_advanced_breakout_board_pt](https://github.com/OpenStickCommunity/Hardware/blob/main/RP2040%20Advanced%20Breakout%20Board%20-%20Passthrough/Images/RP2040%20Advanced%20Breakout%20Board%20-%20Passthrough.jpg)
 ---
 
@@ -27,9 +27,9 @@ The RP2040 Advanced Breakout Board - USB Passthrough Edition is an embedded desi
 
 The RP2040 Advanced Breakout Board - USB Passthrough Edition is an embedded SMD design with through hole components.  It is not recommended to assemble these yourself unless you have a setup to do SMD assembly.
 
-With the RP2040 Advanced Breakout Board - USB Passthrough Edition using an embedded RP2040 chip, we are able to access all of the additional GPIO pins that are not easily accessible on the standard Raspberry Pi Pico board.  This allows us to have many more options on the board so that people can make truly unique and custom contollers including USB passthrough for PS4 / PS5 authentication via a dongle or controller.
+With the RP2040 Advanced Breakout Board - USB Passthrough Edition using an embedded RP2040 chip, we are able to access all of the additional GPIO pins that are not easily accessible on the standard Raspberry Pi Pico board.  This allows us to have many more options on the board so that people can make truly unique and custom contollers including USB passthrough for PS4 / PS5 and Xbox authentication via a dongle.
 
-Please note that USB passthrough comes at the cost of the Option 1 (GPIO 23) and Option 2 (GPIO 24) pins.  To ensure this can be an all-in-one solution I have added a SMD switch to the board.  When in the left position, labeled `USB` the Option 1 (GPIO 23) and Option 2 (GPIO 24) pins will be disabled and the onboard USB passthrough port will be active on GPIO 23 (Data +) and GPIO 24 (Data -).  When in the right position, labeled `OPTION` the USB passthrough port will be disabled and GPIO 23 and GPIO 24 will function again as Option 1 and Option 2.  You cannot have both at the same time!
+Please note that USB passthrough comes at the cost of the Option 1 (GPIO 23) and Option 2 (GPIO 24) pins.  To ensure this can be an all-in-one solution I have added a SMD switch to the board.  When in the left position, labeled `USB` the Option 1 (GPIO 23) and Option 2 (GPIO 24) pins will be disabled and the onboard USB passthrough port will be active on GPIO 23 (Data +) and GPIO 24 (Data -).  When in the right position, labeled `OPTION` the USB passthrough port will be disabled and GPIO 23 and GPIO 24 will function again as Option 1 and Option 2.  You cannot have both at the same time! To expand use even further I have added a second slider which allows you to have access to GPIO25 which is normally used for the onboard LED. 
 
 Please note that you will need to enable and disable the USB passthrough via the web-config if you change the switch on the board.
 
@@ -41,22 +41,21 @@ A massive thank you to FeralAI who made most of this possible!
 
 The Brook form factor was chosen due to its compatibility with a number of existing enclosures and holders.
 
-A 4pin (1x4pin) JST 2.00mm connector labeled `expansion` can be found on the left side that allows for either a compatible OLED display to be connected or general I2C expansion add-ons.
+A 4pin (1x4pin) JST 2.00mm connector labeled `expansion` can be found on the left side that allows for either a compatible OLED display to be connected or general I2C expansion add-ons.  An additional 4pin (1x4pin) QWIIC connector can be found with the same access to the I2C pins for those that want to experiment with other devices.
 
-A 4pin (1x4pin) 2.54mm connector labeled `toggle` can be found on the left side that allows for the connection of common toggle switches found on some arcade sticks.  These are generally used to actions like a LS/DP/RS or SOCD toggle.  As these are normal GPIO pins they can be mapped to anything you wish via the web-config.
+A 3pin (1x3pin) 3.81mm screw terminal row labeled `toggle` can be found on the left side that allows for the connection of common toggle switches found on some arcade sticks.  These are generally used to actions like a LS/DP/RS or SOCD toggle.  As these are normal GPIO pins they can be mapped to anything you wish via the web-config.
 
 A 3pin (1x3pin) JST 2.00mm connector labeled `RGB LED` can be found on the left side that allows for the connection of addressible RGB LEDs.  Our code is compatible with most WS2812B and SK6812 LEDs.
-
 
 A 20pin (2x10pin) 2.54mm connector is located in the bottom left of the board, matching the location and pinout of standard Brook boards.  If you are planning to use the 20pin connector you do not need to use the screw terminals on the board, and vice versa if you prefer to wire a stick yourself.
 
 A 4pin (1x4pin) JST 2.00mm connector is located beside the 20pin connector which can be used with the standard Brook 4-pin harness allowing for access to A2, L3 and R3.  
 
-Six 2pin (1x2pin) JST 2.00mm connectors labeled `option X` can be found along the bottom of the board.  These can be used via the web-config to set up any number of combinations of features such as dual directional, turbo, reverse direction etc.
+A 10pin (1x10pin) 3.81mm screw terminal row labeled `optional pins` can be found at the bottom right of the board.  These can be used via the web-config to set up any number of combinations of features such as dual directional, turbo, reverse direction etc.  You will also find redundant points for L3 and R3 (this allows you easy access to all normal inputs without the use of a 20pin connector)
 
-A 2pin (1x2pin) JST 2.00mm connector labeled `5v out` can be found on the right side of the board which can be used for connecting additinoal devices which need to be powered via 5v such as an additional board like the Antagonist v2.0 or a strip of remote controlled LEDs.  Please take note of the power draw these connected devices will have and ensure you are not drawing too much power.
+A 2pin (1x2pin) 3.81mm screw terminal row labeled `5v out` can be found on the right side of the board which can be used for connecting additinoal devices which need to be powered via 5v such as an additional board like the Antagonist v2.0 or a strip of remote controlled LEDs.  Please take note of the power draw these connected devices will have and ensure you are not drawing too much power.
 
-A 20pin (1x20pin [5x4pin]) 3.5mm screw terminal row can be found along the top of the board which allows for an additional way to connect joysticks and buttons to the board should you not want to use the 20pin harness.  This screw terminal row also has access to `option 1`.  
+A 20pin (1x20pin) 3.81mm screw terminal row can be found along the top of the board which allows for an additional way to connect joysticks and buttons to the board should you not want to use the 20pin harness.  This screw terminal row also has access to `option 1`.  
 
 A USB-C port can be found on the right side of the board.  USB-C was chosen as it is the current industry standard and can allow for very low profile builds should you choose to make a version of the board with depopulated headers.  
 
@@ -71,7 +70,9 @@ A 3pin (1x3pin) 2.54mm header area labeled `debug` can be found near the middle 
 
 A 5pin (1x5pin) 2.54mm header area labeled `USB direct` can be found near the right of the board.  This allows for direct connection of a USB connection.  A double ground is common in commercial fightsticks so it has been included here.  Please take note of the exact pinout on the USB cable you are trying to connect here as there is no universal standard for the order of the wires.  We are not responsible for any damages that occur as a result of incorrectly wiring the USB direct area.
 
-An SMD switch labeled with both the `USB` and `OPTION` positions can be found on the board above `Option 3`.  This allows you to enable the onboard USB passthrough port located on the left side of the board.  Please note that USB passthrough comes at the cost of the Option 1 (GPIO 23) and Option 2 (GPIO 24) pins.  To ensure this can be an all-in-one solution I have added a SMD switch to the board.  When in the left position, labeled `USB` the Option 1 (GPIO 23) and Option 2 (GPIO 24) pins will be disabled and the onboard USB passthrough port will be active on GPIO 23 (Data +) and GPIO 24 (Data -).  When in the right position, labeled `OPTION` the USB passthrough port will be disabled and GPIO 23 and GPIO 24 will function again as Option 1 and Option 2.  You cannot have both at the same time!
+A SMD switch labeled with both the `USB` and `OPTION` positions can be found on the board above `Option 3`.  This allows you to enable the onboard USB passthrough port located on the left side of the board.  Please note that USB passthrough comes at the cost of the Option 1 (GPIO 23) and Option 2 (GPIO 24) pins.  To ensure this can be an all-in-one solution I have added a SMD switch to the board.  When in the left position, labeled `USB` the Option 1 (GPIO 23) and Option 2 (GPIO 24) pins will be disabled and the onboard USB passthrough port will be active on GPIO 23 (Data +) and GPIO 24 (Data -).  When in the right position, labeled `OPTION` the USB passthrough port will be disabled and GPIO 23 and GPIO 24 will function again as Option 1 and Option 2.  You cannot have both at the same time!
+
+a SMD switch labeled with both the `LED` and `GPIO25` positions can be found on the board above the `4-pin harness` connector.  This allows you to switch between using the onboard LED for GPIO25 or having it as an accessible GPIO pin.  To ensure this can be an all-in-one solution I have added a SMD switch to the board.  When in the left position, labeled `LED` the GPIO25 JST 2.00mm header will be disabled and the onboard LED will be accessible via web-config.  When in the right position, labeled `GPIO25` the onboard LED will be disabled and GPIO25 will function again.  You cannot have both at the same time!
 
 A female USB A port is located on the left side of the board which allows for the RP2040 Advanced Breakout Board - USB Passthrough edition to be used with an appropiate controller or dongle to authenticate for PS4 or PS5 (as a PS4 fightstick).  Please see the above note about GPIO pins in the SMD switch section. 
 
@@ -99,7 +100,7 @@ All of the boards so far have been ordered though JLCPCB.  Due to minimum order 
 
 2 - Click on `Instant Quote`<br/>
 
-3 - Click on `Add Gerber file` and choose the file named `Gerber - RP2040 Advanced Breakout Board v5.3E.zip` from the `Hardware files` folder<br/>
+3 - Click on `Add Gerber file` and choose the file named `Gerber - RP2040 Advanced Breakout Board v5.5E - PT.zip` from the `Hardware files` folder<br/>
 
 4 - Choose the following options for the board:<br/>
 - Base Material = FR-4<br/>
@@ -145,11 +146,11 @@ Note 5 - This adds around $1 to the total cost of the order and is 100% worth do
 7 - The Bill of Materials page will show you a render of the board without parts.  You can click the `NEXT` button here unless you see any issues with the board<br/>
 
 8 - You will now have the option to upload two files:
-- For the `Add BOM File` you will need to choose the `BOM - RP2040 Advanced Breakout Board v5.3E.csv` file that is located in the Hardware files folder
-- For the `Add CPL File` you will need to choose the `CPL - RP2040 Advanced Breakout Board v5.3E.csv` file that is located in the Hardware files folder<br/>
+- For the `Add BOM File` you will need to choose the `BOM - RP2040 Advanced Breakout Board v5.5E - PT.csv` file that is located in the Hardware files folder
+- For the `Add CPL File` you will need to choose the `CPL - RP2040 Advanced Breakout Board v5.3E - PT.csv` file that is located in the Hardware files folder<br/>
 Once these two files have been uploaded you can press the `Process BOM & CPL` button.
 
-9 - You will now see a list of components that will be used to assemble the boards.  If there are not listed issues here you can click on on the `NEXT` button. (note 6), (note 7), (note 8)
+9 - You will now see a list of components that will be used to assemble the boards.  If there are not listed issues here you can click on on the `NEXT` button. (note 6), (note 7), (note 8), (note 9), (note10)
 
 Note 6 - You may get an error about the H3 and H4 designators not existing in the BOM file.  This is OK and you can press `continue`.  H3 and H4 are for the USB bypass and debug headers.  They can be skipped.
 
@@ -157,9 +158,13 @@ Note 7 - You can also use this page to omit parts from the assembly.  This can p
 
 Note 8 - We have spent extensive time to ensure that the parts chosen will work for this board.  If there are any parts that are out of stock, or you get warnings about anything we would recommend you not proceed unless you understand how to find replacmeent parts.  If you are unsure, please feel free to join up in the Discord and ask us.  It is not uncommon for JLCPCB to have part shortages.  Most of the parts listed here come back in stock in a few days.  If that is the case, you may need to wait to place your order until all needed parts are in stock.
 
-10 - There will now be a render of the board with parts on the Component Placements page.  Check this page to make sure that all parts are in the correct spots and orientation.  We have ordered based on these files before and they are known good.  If all looks well press the `NEXT` button. (note 9)
+Note 9 - Occasionally JLC will not correctly load the BOM file and there will be parts that are not linked to their proper part number.  You can either reference the BOM file directly and update these or try loading the BOM file again into JLC.  Please note that we are not responsible for board made by JLCPCB or any other manufacturer that do note work due to incorrect parts being entered into the parts selector.
 
-Note 9 - Please note that we are not responsible for boards made by JLCPCB or any other manufacturer that do note work.
+Note 10 - Some of the basic LEDs are being phased out by JLC.  Unless you have stock of them already the 0603 yellow LED (part number C72038) can be used.  If you want a different color you can explore other 0603 footprint LEDs that will meet your needs.
+
+10 - There will now be a render of the board with parts on the Component Placements page.  Check this page to make sure that all parts are in the correct spots and orientation.  We have ordered based on these files before and they are known good.  If all looks well press the `NEXT` button. (note 11)
+
+Note 11 - Please note that we are not responsible for boards made by JLCPCB or any other manufacturer that do note work.
 
 11 - The quote & order page will give you a breakdown of the costs associated with the boards and assembly parts based on the quantity you have chosen. This does not include shipping.  Shipping will be calculated at a further step. 
 - For Product Description I typically choose `Other` `Other` and type in `Controller board`.
@@ -171,13 +176,11 @@ If all looks well here you can click on the `SAVE TO CART` button.
 
 ## How to upload firmware
 
-If uploading the firmware before assembly you can hold the BootSel button on the Pico and plug the device into your computer.  It will show up as an external device.  Copy the `GP2040-CE_0.X.X_RP2040AdvancedBreakoutBoard.uf2` file to it and wait for the device to disconnect after copying completes.  
+If uploading the firmware before assembly you can hold the BootSel button on the Pico and plug the device into your computer.  It will show up as an external device.  Copy the `GP2040-CE_0.X.X_RP2040AdvancedBreakoutBoardUSBPassthrough.uf2` file to it and wait for the device to disconnect after copying completes.  
 
-If uploading the firmware after assembly plug the Pico into your computer and quickly press the BootSel button twice on the Pico Basic Breakout Board.  You should see an external device show up on your computer.  Copy the `GP2040-CE_0.X.X_RP2040AdvancedBreakoutBoard.uf2` file to it and wait for the device to disconnect after copying completes.  
+If uploading the firmware after assembly plug the Pico into your computer and quickly press the BootSel button twice on the Pico Basic Breakout Board.  You should see an external device show up on your computer.  Copy the `GP2040-CE_0.X.X_RP2040AdvancedBreakoutBoardUSBPassthrough.uf2` file to it and wait for the device to disconnect after copying completes.  
 
-If something goes wrong and you want to upload the firmware again (or if you have tested out the configuration tool and made a mistake) you can enter BootSel mode via either of the methods above and drag over the included `flash_nuke.uf2` file.  This file will take a moment to write to the Pico, once completed you will see the device disconnect and then re-connect as an external device.  After it has shown up again you can copy the same `GP2040-CE_0.X.X_RP2040AdvancedBreakoutBoard.uf2` firmware over to it again.
-
-Please note that at this time we do not have full passthough firmware ready to go, you will need to manually configure the board in web-config to use USB passthrough.
+If something goes wrong and you want to upload the firmware again (or if you have tested out the configuration tool and made a mistake) you can enter BootSel mode via either of the methods above and drag over the included `flash_nuke.uf2` file.  This file will take a moment to write to the Pico, once completed you will see the device disconnect and then re-connect as an external device.  After it has shown up again you can copy the same `GP2040-CE_0.X.X_RP2040AdvancedBreakoutBoardUSBPassthrough.uf2` firmware over to it again.
 
 
 ## Sales recommendations
@@ -191,9 +194,6 @@ As such, we have a recommend MSRP of $30 USD for the RP2040 Advanced Breakout Bo
 You are free to set your own price as you see fit. 
 
 
-Also, a note about failure rates on boards from JLCPCB.
-
-
 ## Donations
 
 Every part of this project is open source, from the GP2040-CE firmware to the original Pico Fighting Board design and also this RP2040 Advanced Breakout Board design.  
@@ -204,7 +204,17 @@ https://www.paypal.com/donate/?hosted_button_id=2JMTZVCGLDYC2
 
 ## Revision History
 
-v5.4E - PE
+v5.5E - PT
+- Changed the 4pin JST 2.00mm connector for I2C expansion from an SMD part to a through hole part
+- Changed the 3pin JST 2.00mm connector for RGB from an SMD part to a through hole part
+- Added an optional 4pin SMD QWIIC connector for I2C expansion
+- Changed the 4pin 2.54mm right angle header to a 3pin 3.81mm screw terminal for GPIO2 and GPIO3
+- Changed the 4pin JST 2.00mm connector for the 4-pin harness from a horizontal to vertical part
+- Changed the 2pin JST 2.00mm connector for the 5v power to a 2pin 3.81mm screw terminal
+- Changed the 6x 2pin JST 2.00mm connectors for the option pins to a 10pin 3.81mm screw terminal and added access to L3 and R3
+- Added a second SMD slider switch for switching between the onboard LED on GPIO25 and a new 2pin JST 2.00 connector
+
+v5.4E - PT
 - Initial design of the USB passthrough edition board, built off of the v5.3E RP2040 Advanced Breakout Board
 
 ## Acknowledgements
