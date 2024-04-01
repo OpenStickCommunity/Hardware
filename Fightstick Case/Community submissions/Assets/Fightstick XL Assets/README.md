@@ -34,6 +34,7 @@ File(s) uploaded -
   - Open Stick XL - Bottom Frame.stl
   - Open Stick XL - Main Frame (x4 Buttons).stl
   - Open Stick XL - Top (Noir).stl
+  - Open Stick XL - Top (Shoikenstar).stl
   - Open Stick XL - Top (Stickless).stl
   - Open Stick XL - Top (VLX).stl
   
