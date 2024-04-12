@@ -1,4 +1,4 @@
-# RP2040 Advanced Breakout Board v5.5 - Vendor resources
+# RP2040 Advanced Breakout Board v5.6 - Vendor resources
 ![rp2040_advanced_breakout_board](https://github.com/OpenStickCommunity/Hardware/assets/440158/6245f3fc-1d2b-4c7a-83c1-52d48b58f4c8)
 ---
 
@@ -8,7 +8,7 @@ The following text must be included in any distribution of derivitives of this b
 
 Based on RP2040 Advanced Breakout board from the GP2040-CE project located at https://github.com/OpenStickCommunity/Hardware/tree/main/RP2040%20Advanced%20Breakout%20Board
 
-Copyright 2023 [TheTrain](https://github.com/TheTrainGoes) and [n-i-x](https://github.com/n-i-x)
+Copyright 2023 [TheTrain](https://github.com/TheTrainGoes)
 
 [Licensed under CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
