@@ -140,27 +140,27 @@ Step 7:
 
 To access web-config while the RP2040 Advanced Breakout Board is in web-config mode navigate to `192.168.7.1` in your browser.
 
-![FA_LED_20](https://github.com/OpenStickCommunity/Hardware/blob/main/Vendor%20Resources/Focus%20Attack%20LED%20Board%20Configuration/Assets/FA_LED_20.JPG)
+![FA_LED_20](https://github.com/OpenStickCommunity/Hardware/blob/main/Vendor%20Resources/Focus%20Attack%20LED%20Board%20Configuration/Assets/FA_LED_20.png)
 
 Click on `Configuration` and then `LED cConfiguration`.
 
-![FA_LED_21](https://github.com/OpenStickCommunity/Hardware/blob/main/Vendor%20Resources/Focus%20Attack%20LED%20Board%20Configuration/Assets/FA_LED_21.JPG)
+![FA_LED_21](https://github.com/OpenStickCommunity/Hardware/blob/main/Vendor%20Resources/Focus%20Attack%20LED%20Board%20Configuration/Assets/FA_LED_21.png)
 
 In the `RGB LED Configuration` section find the entry box for `LEDs Per Button`.
 
-![FA_LED_22](https://github.com/OpenStickCommunity/Hardware/blob/main/Vendor%20Resources/Focus%20Attack%20LED%20Board%20Configuration/Assets/FA_LED_22.JPG)
+![FA_LED_22](https://github.com/OpenStickCommunity/Hardware/blob/main/Vendor%20Resources/Focus%20Attack%20LED%20Board%20Configuration/Assets/FA_LED_22.png)
 
 Change the `LEDs Per Button` from `1` to `2`.
 
-![FA_LED_23](https://github.com/OpenStickCommunity/Hardware/blob/main/Vendor%20Resources/Focus%20Attack%20LED%20Board%20Configuration/Assets/FA_LED_23.JPG)
+![FA_LED_23](https://github.com/OpenStickCommunity/Hardware/blob/main/Vendor%20Resources/Focus%20Attack%20LED%20Board%20Configuration/Assets/FA_LED_23.png)
 
 Scroll down to the bottom of the page and click on the `Save` button.
 
-![FA_LED_24](https://github.com/OpenStickCommunity/Hardware/blob/main/Vendor%20Resources/Focus%20Attack%20LED%20Board%20Configuration/Assets/FA_LED_24.JPG)
+![FA_LED_24](https://github.com/OpenStickCommunity/Hardware/blob/main/Vendor%20Resources/Focus%20Attack%20LED%20Board%20Configuration/Assets/FA_LED_24.png)
 
 You should see the following message pop up indicating that the save was sucessful.
 
-![FA_LED_25](https://github.com/OpenStickCommunity/Hardware/blob/main/Vendor%20Resources/Focus%20Attack%20LED%20Board%20Configuration/Assets/FA_LED_25.JPG)
+![FA_LED_25](https://github.com/OpenStickCommunity/Hardware/blob/main/Vendor%20Resources/Focus%20Attack%20LED%20Board%20Configuration/Assets/FA_LED_25.png)
 
 ---
 
@@ -174,11 +174,11 @@ As an example, if you connected your LED satellites as `P1` -> `K1` -> `P2` -> `
 
 Note: If you do not have any LED satellites connected to the main direcitons `Up`, `Down`, `Left` or `Right` you cna drag those from the right column to the left one.
 
-![FA_LED_26](https://github.com/OpenStickCommunity/Hardware/blob/main/Vendor%20Resources/Focus%20Attack%20LED%20Board%20Configuration/Assets/FA_LED_26.JPG)
+![FA_LED_26](https://github.com/OpenStickCommunity/Hardware/blob/main/Vendor%20Resources/Focus%20Attack%20LED%20Board%20Configuration/Assets/FA_LED_26.png)
 
 This is what your list may look like after changing it.
 
-![FA_LED_27](https://github.com/OpenStickCommunity/Hardware/blob/main/Vendor%20Resources/Focus%20Attack%20LED%20Board%20Configuration/Assets/FA_LED_27.JPG)
+![FA_LED_27](https://github.com/OpenStickCommunity/Hardware/blob/main/Vendor%20Resources/Focus%20Attack%20LED%20Board%20Configuration/Assets/FA_LED_27.png)
 
 Make sure you scroll down to the bottom of the page and click on the `Save` button again.
 
