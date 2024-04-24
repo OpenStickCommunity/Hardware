@@ -1,5 +1,5 @@
 # Focus Attack LED Kit - Installation Guide for GP2040-CE on an RP2040 Advanced Breakout Board v5.6
-![Focus Attack LED Kit](https://github.com/OpenStickCommunity/Hardware/blob/main/Vendor%20resources/Focus%20Attack%20LED%20Board%20Configuration/Assets/FA_LED_01.JPG)
+![Focus Attack LED Kit](https://github.com/OpenStickCommunity/Hardware/blob/main/Vendor%20Resources/Focus%20Attack%20LED%20Board%20Configuration/Assets/FA_LED_01.JPG)
 ---
 ## Summary
 
@@ -26,14 +26,14 @@ Prepare a clean work surface and get your RP2040 Advanced Breakout Board, LED ki
 
 Note: Your setup may look different than this.  
 
-![FA_LED_01](https://github.com/OpenStickCommunity/Hardware/blob/main/Vendor%20resources/Focus%20Attack%20LED%20Board%20Configuration/Assets/FA_LED_01.JPG)
+![FA_LED_01](https://github.com/OpenStickCommunity/Hardware/blob/main/Vendor%20Resources/Focus%20Attack%20LED%20Board%20Configuration/Assets/FA_LED_01.JPG)
 
 It is important to note that there are two different kinds of cables included with the LED kit.  I will refer to these as `Straight` and `Flipped` cables in the tutorial.
 
 `Straight` cables are those that have the connector facing the same orientation (up/down) on each side.
 `Flipped` cables are those that have the connector facing in an opposite orientation (up/down) on each side.
 
-![FA_LED_02](https://github.com/OpenStickCommunity/Hardware/blob/main/Vendor%20resources/Focus%20Attack%20LED%20Board%20Configuration/Assets/FA_LED_02.JPG)
+![FA_LED_02](https://github.com/OpenStickCommunity/Hardware/blob/main/Vendor%20Resources/Focus%20Attack%20LED%20Board%20Configuration/Assets/FA_LED_02.JPG)
 
 In the above picture, you can see that the top shorter cable is a `Flipped` cable which has the connector facing in an opposite orientation (up/down).  The bottom longer cable is a `Straight` cable which has the connector facing in an opposite orientation (up/down) on each side.
 
