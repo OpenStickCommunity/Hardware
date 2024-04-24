@@ -182,7 +182,7 @@ This is what your list may look like after changing it.
 
 Make sure you scroll down to the bottom of the page and click on the `Save` button again.
 
-![FA_LED_24](https://github.com/OpenStickCommunity/Hardware/blob/main/Vendor%20Resources/Focus%20Attack%20LED%20Board%20Configuration/Assets/FA_LED_24.JPG)
+![FA_LED_24](https://github.com/OpenStickCommunity/Hardware/blob/main/Vendor%20Resources/Focus%20Attack%20LED%20Board%20Configuration/Assets/FA_LED_24.png)
 
 Note: It is expected that your web-config may show the old order of the LEDs after pressing the `Save` button.  This is OK, you can unplug and plug back in your RP2040 Advanced Breakout Board v5.6.
 
