@@ -1,5 +1,5 @@
 # Focus Attack LED Kit - Installation Guide for GP2040-CE on an RP2040 Advanced Breakout Board v5.6
-![Focus Attack LED Kit](https://github.com/OpenStickCommunity/Hardware/blob/main/Vendor%20resources/Focus%20Attack%20LED%20Board%20Configuration/Assets/FA_LED_01.JPG)
+![Focus Attack LED Kit](https://github.com/OpenStickCommunity/Hardware/blob/main/Vendor%20Resources/Focus%20Attack%20LED%20Board%20Configuration/Assets/FA_LED_01.JPG)
 ---
 ## Summary
 
