@@ -1,12 +1,13 @@
 # USB Passthrough Kit - Installation Guide
-![USB Passthrough Kit](https://github.com/OpenStickCommunity/Hardware/blob/main/USB%20Passthrough%20Board/Vendor%20resources/Assets/USB_Passthrough_Kit.JPG)
+![USB Passthrough Kit](Assets/USB_Passthrough_Kit.JPG)
+
 ---
 ## Summary
 This is the installation guide for the USB passthrough kit.  Please make sure that you follow all steps here!  If you run into any trouble and need more help please join the OpenStick [Discord](https://discord.gg/k2pxhke7q8).
 
 This kit is primarily designed to work with the RP2040 Advanced Breakout Board although it can be used with most RP2040 devices as long as you have appropiate pins available.  If you do not have a RP2040 Advanced Breakout Board you can jump to THIS section where I go over install on a Raspberry Pi Pico.
 
-![RP2040 Advanced Breakout Board](https://github.com/OpenStickCommunity/Hardware/blob/main/USB%20Passthrough%20Board/Vendor%20resources/Assets/RP2040_Advanced_Breakout_Boards.JPG)
+![RP2040 Advanced Breakout Board](Assets/RP2040_Advanced_Breakout_Boards.JPG)
 
 
 ---
@@ -15,7 +16,7 @@ This kit is primarily designed to work with the RP2040 Advanced Breakout Board a
 Workspace Setup:
 Prepare a clean work surface and get your RP2040 ADvanced Breakout Board, USB passthough board and cables ready.
 
-![USB Passthrough Board](https://github.com/OpenStickCommunity/Hardware/blob/main/USB%20Passthrough%20Board/Vendor%20resources/Assets/USB_Passthrough_Kit_with_RP2040_Advanced_Breakout_Board.JPG)
+![USB Passthrough Board](Assets/USB_Passthrough_Kit_with_RP2040_Advanced_Breakout_Board.JPG)
 
 ---
 
@@ -23,7 +24,7 @@ Step 1:
 
 Take the USB passthough board and place it on a clean surface.
 
-![Step_01](https://github.com/OpenStickCommunity/Hardware/blob/main/USB%20Passthrough%20Board/Vendor%20resources/Assets/Step_01.JPG)
+![Step_01](Assets/Step_01.JPG)
 
 ---
 
@@ -33,7 +34,7 @@ Take one of the cables and place it on a clean surface.
 
 Note: The cables are JST 2.00mm 2pin same direction cables that are 10cm (100mm) in length.  They can be made by hand or purchased directly from a variety of sellers on AliExpress.  If you plan on installing the USB passthrough board somewhere else in your case you may want to get longer cables.  For this install guide you will need three of the cables.  
 
-![Step_02](https://github.com/OpenStickCommunity/Hardware/blob/main/USB%20Passthrough%20Board/Vendor%20resources/Assets/Step_02.JPG)
+![Step_02](Assets/Step_02.JPG)
 
 ---
 
@@ -43,7 +44,7 @@ Connect one end of the first JST 2.00mm 2pin cable into the socket labeled `5V I
 
 Note: The direction of the cable does not matter as they are all same direction cables.  
 
-![Step_03](https://github.com/OpenStickCommunity/Hardware/blob/main/USB%20Passthrough%20Board/Vendor%20resources/Assets/Step_03.JPG)
+![Step_03](Assets/Step_03.JPG)
 
 ---
 
@@ -51,7 +52,7 @@ Step 4:
 
 Connect the other end of the first JST 2.00mm 2pin cable to the socket labeled `5v OUT` on the RP2040 Advanced Breakout Board.
 
-![Step_04](https://github.com/OpenStickCommunity/Hardware/blob/main/USB%20Passthrough%20Board/Vendor%20resources/Assets/Step_04.JPG)
+![Step_04](Assets/Step_04.JPG)
 
 ---
 
@@ -59,7 +60,7 @@ Step 5:
 
 Connect one end of the second JST 2.00mm 2pin cable into the socket labeled `D+ OUT` on the USB passthrough board.
 
-![Step_05](https://github.com/OpenStickCommunity/Hardware/blob/main/USB%20Passthrough%20Board/Vendor%20resources/Assets/Step_05.JPG)
+![Step_05](Assets/Step_05.JPG)
 
 ---
 
@@ -69,7 +70,7 @@ Connect the other end of the second JST 2.00mm 2pin cable to the socket labeled 
 
 Note: You can use other option sockets for this as well, but for the sake of this installation guide we will be using `Option 5` and `Option 6`. 
 
-![Step_06](https://github.com/OpenStickCommunity/Hardware/blob/main/USB%20Passthrough%20Board/Vendor%20resources/Assets/Step_06.JPG)
+![Step_06](Assets/Step_06.JPG)
 
 ---
 
@@ -77,7 +78,7 @@ Step 7:
 
 Connect one end of the third JST 2.00mm 2pin cable into the socket labeled `D- OUT` on the USB passthrough board.
 
-![Step_07](https://github.com/OpenStickCommunity/Hardware/blob/main/USB%20Passthrough%20Board/Vendor%20resources/Assets/Step_07.JPG)
+![Step_07](Assets/Step_07.JPG)
 
 ---
 
@@ -87,7 +88,7 @@ Connect the other end of the third JST 2.00mm 2pin cable to the socket labeled `
 
 Congratulations!  You have now connected the USB passthrough board to your RP2040 Advanced Breakout Board!
 
-![Step_08](https://github.com/OpenStickCommunity/Hardware/blob/main/USB%20Passthrough%20Board/Vendor%20resources/Assets/Step_08.JPG)
+![Step_08](Assets/Step_08.JPG)
 
 ---
 
@@ -109,7 +110,7 @@ Start by plugging a USB cable into the RP2040 Advanced Breakout Board.
 
 Note: Currently there are (officially) USB-C and USB-B versions of the RP2040 Advanced Breakout Board.  
 
-![Step_09](https://github.com/OpenStickCommunity/Hardware/blob/main/USB%20Passthrough%20Board/Vendor%20resources/Assets/Step_09.JPG)
+![Step_09](Assets/Step_09.JPG)
 
 ---
 
@@ -119,7 +120,7 @@ While holding the button labeled `WEB CONFIG` on the RP2040 Advanced Breakout Bo
 
 Your RP2040 Advanced Breakout Board will now be in web-config mode.
 
-![Step_10](https://github.com/OpenStickCommunity/Hardware/blob/main/USB%20Passthrough%20Board/Vendor%20resources/Assets/Step_10.JPG)
+![Step_10](Assets/Step_10.JPG)
 
 ---
 
@@ -133,7 +134,7 @@ For USB passthrough to work you need to be running at least v0.7.4.
 
 Note: If you are already on v0.7.4 or later you can skip step 15.
 
-![Step_11](https://github.com/OpenStickCommunity/Hardware/blob/main/USB%20Passthrough%20Board/Vendor%20resources/Assets/Step_11.png)
+![Step_11](Assets/Step_11.png)
 
 ---
 
@@ -151,7 +152,7 @@ Your RP2040 Advanced Breakout Board will now be in BootSel mode.
 
 You should see the RP2040 Advanced Breakout Board come up as a removable drive on your computer called `RPI-RP2`.
 
-![Step_12](https://github.com/OpenStickCommunity/Hardware/blob/main/USB%20Passthrough%20Board/Vendor%20resources/Assets/Step_12.JPG)
+![Step_12](Assets/Step_12.JPG)
 
 ---
 
@@ -159,9 +160,9 @@ Step 13:
 
 You will need to download the latest version of the firmware for the RP2040 Advanced Breakout Board.
 
-There are several ways to get the firmware.  There is a direct link to the needed v0.7.4 firmware [HERE](https://github.com/OpenStickCommunity/GP2040-CE/releases/download/v0.7.4/GP2040-CE_0.7.4_RP2040AdvancedBreakoutBoard.uf2) or you can take a look at our downloads page [HERE](https://gp2040-ce.info/#/download) and download the needed .UF2 file for the RP2040 Advanced Breakout Board.
+There are several ways to get the firmware.  There is a direct link to the needed v0.7.8 firmware [HERE](https://github.com/OpenStickCommunity/GP2040-CE/releases/download/v0.7.4/GP2040-CE_0.7.8_RP2040AdvancedBreakoutBoard.uf2) or you can take a look at our downloads page [HERE](https://gp2040-ce.info/#/download) and download the needed .UF2 file for the RP2040 Advanced Breakout Board.
 
-![Step_13](https://github.com/OpenStickCommunity/Hardware/blob/main/USB%20Passthrough%20Board/Vendor%20resources/Assets/Step_13.png)
+![Step_13](Assets/Step_13.png)
 
 ---
 
@@ -183,7 +184,7 @@ Navigate to [192.168.7.1](192.168.7.1) in your web browser to access the web-con
 
 As you can see in the example screenshot here I am now running v0.7.4 firmware on this RP2040 Advanced Breakout Board.  
 
-![Step_14](https://github.com/OpenStickCommunity/Hardware/blob/main/USB%20Passthrough%20Board/Vendor%20resources/Assets/Step_14.png)
+![Step_14](Assets/Step_14.png)
 
 ---
 
@@ -201,7 +202,7 @@ Since we want to use USB passthrough to allow the RP2040 Advanced Breakout Board
 
 Once this is done scroll down to the bottom of the page and press the `Save` button.
 
-![Step_15](https://github.com/OpenStickCommunity/Hardware/blob/main/USB%20Passthrough%20Board/Vendor%20resources/Assets/Step_15.png)
+![Step_15](Assets/Step_15.png)
 
 ---
 
@@ -211,7 +212,7 @@ The last thing we need to do in web-config is turn on USB passthrough.
 
 From the `Configuration` tab click on `Add-Ons Configuration`.
 
-![Step_16a](https://github.com/OpenStickCommunity/Hardware/blob/main/USB%20Passthrough%20Board/Vendor%20resources/Assets/Step_16a.png)
+![Step_16a](Assets/Step_16a.png)
 
 This will take you to the main add-ons page.  
 
@@ -227,7 +228,7 @@ Once again, scroll down to the bottom of the page and press the `Save` button.
 
 Note: The `D-` is set automatically and you do not need to set the `5V Power (optional)` pin for the RP2040 Advanced Breakout Board.
 
-![Step_16b](https://github.com/OpenStickCommunity/Hardware/blob/main/USB%20Passthrough%20Board/Vendor%20resources/Assets/Step_16b.png)
+![Step_16b](Assets/Step_16b.png)
 
 ---
 
@@ -241,7 +242,7 @@ We are going to press the `Controller` button.
 
 Once pressed the device will reboot and will show up as a controller on your computer.
 
-![Step_17](https://github.com/OpenStickCommunity/Hardware/blob/main/USB%20Passthrough%20Board/Vendor%20resources/Assets/Step_17.png)
+![Step_17](Assets/Step_17.png)
 
 ---
 
@@ -251,8 +252,8 @@ Step 18 is an optional step!
 
 If you would like to attach your USB passthrough board to the RP2040 Advanced Breakout Board you can do so by using 2x 10mm (1cm) M3 standoffs and 4x 4mm M2 button-top bolts.
 
-![Step_18a](https://github.com/OpenStickCommunity/Hardware/blob/main/USB%20Passthrough%20Board/Vendor%20resources/Assets/Step_18a.JPG)
-![Step_18b](https://github.com/OpenStickCommunity/Hardware/blob/main/USB%20Passthrough%20Board/Vendor%20resources/Assets/Step_18b.JPG)
+![Step_18a](Assets/Step_18a.JPG)
+![Step_18b](Assets/Step_18b.JPG)
 
 ---
 
@@ -264,7 +265,7 @@ In this example I am connecting a Mayflash MagicBoots v1.1 but you can also use 
 
 Note: You cannot connect a DS5 or DS4 controller to the USB passthrough or any clone controllers.
 
-![Step_19](https://github.com/OpenStickCommunity/Hardware/blob/main/USB%20Passthrough%20Board/Vendor%20resources/Assets/Step_19.jpg)
+![Step_19](Assets/Step_19.jpg)
 
 ---
 
