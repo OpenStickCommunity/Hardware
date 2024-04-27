@@ -1,12 +1,11 @@
-# Sanjuks V3 AM5 Adapter Plate
-![Sanjuks_V3_AM5_Adapter_Plate](https://github.com/OpenStickCommunity/Hardware/blob/main/Sanjuks%20V3%20AM5%20Adapter%20Plate/Images/Sanjuks_V3_AM5_Adapter_Plate.jpg)
+# Hori Fighting Edge PS4 (FE PS4) Drop-in Replacement Board
+![Hori FE PS4](Assets/Hori%20Fighting%20Edge%20PS4.JPG)
+
 ---
 
 ## Attribution
 
 The following text must be included in any distribution of derivatives of this board. All links must also be included.
-
-Based on the Shuriken JLF PCB V2 by BitBangGaming LLC - https://bitbanggaming.com/products/shuriken-jlf-pcb-v2
 
 Copyright © 2023 [TheTrain](https://github.com/TheTrainGoes)
 
@@ -18,96 +17,33 @@ Changes from the original design:
 
 ## Summary
 
-The Sanjuks V3 AM5 Adapter Plate allows you to replace the stock Gersung A3 switches on a Sanjuks V3 or V3P lever with [Panasonic AM5 switches](https://focusattack.com/seimitsu-ls-33-ls-55-ls-56-ls-58-187-fastener-microswitch/) (either stock soft or spring swapped with the Gersung A3).
+The Hori Fighting Edge PS4 (FE PS4) Drop-in Replacement Board is designed to be a quick and easy drop in solution for the Hori Fighting Edge PS4.
 
-Please note that this plate is designed exclusively for and will only work with Panasonic AM5 switches due to the position of the pins.
+Please note that I do not consider this board to be finished.  Hori uses some tricks to get their three-way sliders working so currently those are not mapped here.  There may be a further revision if I can figure that out.
 
-While this project is not directly connected to the Open Stick Discord, you can join here to see more of the awesome projects we have: https://discord.com/invite/k2pxhke7q8
+The Trackpad is currently mapped as a single button press assigned to a GPIO pin.  
 
+Please also note that there is no set configuration for this board and you may need to configure on your own until I poset a dedicated configuration for it.  Until then please reference the source files for the pinout of the RP2040.
 
-## Board design choices
+Given that I do not consider this board finished, please proceed at your ouwn risk!  I will not answer any questions about ordering the boards or setup, and no support will be offered on it.  If you do not know how to order a board from JLCPCB with aseembly this might not be for you.
 
-The Sanjuks V3 AM5 Adapter Plate is a skirt-style PCB which will go around the Panasonic AM5 switches.  On the Sanjuks V3, This design is superior to a stack plate design as it will not change the overall throw of the lever nor the alignment of the actuator and restrictor gate. 
+When ordering through JLCPCB you may see that one of the screw terminal sets is backwards.  I am not sure why this is as it is correct in EasyEDA.  Make sure to add a note about its orientation and pay the extra $0.50 to have placement and the board checked.
 
+A STEP modle is available [HERE](3D%20Files/STEP%20-%20Hori%20Fighting%20Edge%20PS4.step) although it is not really needed since this board directly replaces the original board.
 
-## Assembly
+You will need to rewire the main 8 buttons + the start button as they are soldered onto the original board.  
 
-This board is designed to be hand-soldered.  At this time, the through hole fuse clips are not available for assembly at JLC.  
-
-**There are 9 total parts needed to assemble each unit:<br/>**
-
-8 x Keystone Electronics Fuse Clip Blade 500V 30A PCB - 36-3557-ND<br/>
-1 x JST Connector Header R/A 5 position 2.5mm - 455-4200-ND
-
-These parts can be sourced from DigiKey directly via the numbers at the end above.
-
-It is recommended to have a spare Sanjuks V3 to use as an assembly jig when making these boards.
-
-Note that the AM5 switches you use during the assembly process will be progressively worn down as you assemble more boards.  If you intend to produce saleable quantities, make sure you have "donor" AM5 switches you do not intend to use in a lever handy.
-
-**The process that I follow to make these is:<br/>**
-
-1 - Place the Sanjuks V3 AM5 Adapter Plate on the Sanjuks V3 main body<br/>
-2 - Place the four Panasonic AM5 switches into the Sanjuks V3 main body<br/>
-3 - Press fit the 8 x Keystone Electronics Fuse Clip Blade's onto the Panasonic AM5 switch legs<br/>
-4 - Place the Sanjuks V3 top (bottom) housing onto the four Panasonic AM5 switches and screw in place<br/>
-5 - Flip over assembly, ensure the 8 x Keystone Electronics Fuse Clip Blade's are aligned correctly and solder in place<br/>
-6 - Place and solder the JST Connector
-
-
-## How to order a board
-
-All of the boards so far have been ordered though JLCPCB.  Due to minimum order numbers you would need to get at least five of these basic breakout boards.  Here are the steps to make your first order and the options I chose along the way.
-
-1 - Go to JLCPCB.com<br/>
-
-2 - Click on `Instant Quote`<br/>
-
-3 - Click on `Add Gerber file` and choose the file named `Gerber - Sanjuks V3 AM5 Adapter Plate.zip` from the `Hardware files` folder<br/>
-
-4 - Choose the following options for the board:<br/>
-- Base Material = FR-4<br/>
-- Layers = 2<br/>
-- Dimensions = (should auto-populate) 72 mm x 72 mm<br/>
-- PCB Qty = (however large your run will be, minimum of 5)<br/>
-- Product Type = Industrial/Consumer electronics<br/>
-- Different Design = 1<br/>
-- Delivery Format = Single PCB<br/>
-- PCB Thickness = 1.6<br/>
-- PCB Color = (up to you)<br/>
-- Silkscreen = (defaults to white for all except white boards which is black)<br/>
-- Surface Finish = HASL(with lead)<br/>
-- Outer Copper Weight = 1oz<br/>
-- Via Covering = Tented<br/>
-- Board Outline Tolerance = +/- 0.2mm (Regular)<br/>
-- Confirm Production file = Yes (note 1)<br/>
-- Remove Order Number = Specify a location (note 2)<br/>
-- Flying Probe Test = Fully Test<br/>
-- Gold Fingers = No<br/>
-- Castellated Holes = No<br/>
-- No advanced options<br/>
-
-Note 1 - This adds around $1 to the total cost of the order and is 100% worth doing as it will allow you one last chance to catch any issues that may have popped up.
-
-Note 2 - I have added `JLCJLCJLCJLC` on the board in a spot that will be covered by the Sanjuks V3 main body.
-
-If all looks well here you can click on the `SAVE TO CART` button.
-
-5 - The `Secure Checkout` process will be different based on your location in the world.  We recommend researching your shipping options to choose the one that is right for your application. 
+As a fun fact about the Hori FE PS4, you can move the original board to the slot to the right of the new one and then connect it to the USB passthrough port to do auth off of.  Instructions to do this are not included since it requires lots of soldering and is very much done at your own risk.
 
 
 ## Sales recommendations
 
-Through this project's licensing, you are free to make and sell these boards in group buys or even commercial applications.  
-
-There is a recommended MSRP of $18 USD for the Sanjuks V3 AM5 Adapter Plate including shipping within the USA or Canada.
-
-You are free to set your own price as you see fit. 
+It is not recommended to sell this board as it is not completed yet and should only be used for hobby purposes.
 
 
 ## Donations
 
-Donations are not necessary but always welcome!  All received donations will be split evenly between TheTrain and BitBangGaming.  TheTrain will typically use donations to try out new designs or send boards to people for testing, iterations and helping people get board setups that might not be in an economic position to get one themselves.
+Donations are not necessary but always welcome!  I typically use donations to try out new designs or send boards to people for testing, iterations and helping people get board setups that might not be in an economic position to get one themselves.
 
 https://www.paypal.com/donate/?hosted_button_id=2JMTZVCGLDYC2
 
@@ -119,4 +55,3 @@ v1.0
 ## Acknowledgments
 
 - [TheTrain](https://github.com/TheTrainGoes) for doing the board design
-- [BitBangGaming](https://bitbanggaming.com/) base of the design
