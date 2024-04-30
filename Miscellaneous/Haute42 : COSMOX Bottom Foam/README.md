@@ -28,15 +28,15 @@ It is recommended to use adhesive back foam for these.
 
 ## Dimensions
 
-[Haute42 B Series Bottom Foam](Cut%20Files/Haute42%20B%20Series%20Bottom%20Foam.svg) - 196mm x 96mm
-[Haute42 G Series Bottom Foam](Cut%20Files/Haute42%20G%20Series%20Bottom%20Foam.svg) - 194mm x 123mm
-[Haute42 M Series Bottom Foam](Cut%20Files/Haute42%20M%20Series%20Bottom%20Foam.svg) - 235.8mm x 161.8mm
-[Haute42 M+ Series Bottom Foam (smaller cut)](Cut%20Files/Haute42%20M%2B%20Series%20Bottom%20Foam%20(smaller%20cut).svg) - 290mm x 190mm - NOTE 1
-[Haute42 M+ Series Bottom Foam](Cut%20Files/Haute42%20M%2B%20Series%20Bottom%20Foam.svg) - 293.9mm x 193.9mm
-[Haute42 Mini Series Bottom Foam (old)](Cut%20Files/Haute42%20Mini%20Series%20Bottom%20Foam%20(old).svg) - 158mm x 73mm - NOTE 2
-[Haute42 Mini Series Bottom Foam](Cut%20Files/Haute42%20Mini%20Series%20Bottom%20Foam.svg) - 158mm x 71.2mm
-[Haute42 S Series Bottom Foam](Cut%20Files/Haute42%20S%20Series%20Bottom%20Foam.svg) - 194mm x 123mm
-[Haute42 T Series Bottom Foam](Cut%20Files/Haute42%20T%20Series%20Bottom%20Foam.svg) - 291mm x 191mm
+[Haute42 B Series Bottom Foam](Cut%20Files/Haute42%20B%20Series%20Bottom%20Foam.svg) - 196mm x 96mm<br/>
+[Haute42 G Series Bottom Foam](Cut%20Files/Haute42%20G%20Series%20Bottom%20Foam.svg) - 194mm x 123mm<br/>
+[Haute42 M Series Bottom Foam](Cut%20Files/Haute42%20M%20Series%20Bottom%20Foam.svg) - 235.8mm x 161.8mm<br/>
+[Haute42 M+ Series Bottom Foam (smaller cut)](Cut%20Files/Haute42%20M%2B%20Series%20Bottom%20Foam%20(smaller%20cut).svg) - 290mm x 190mm - NOTE 1<br/>
+[Haute42 M+ Series Bottom Foam](Cut%20Files/Haute42%20M%2B%20Series%20Bottom%20Foam.svg) - 293.9mm x 193.9mm<br/>
+[Haute42 Mini Series Bottom Foam (old)](Cut%20Files/Haute42%20Mini%20Series%20Bottom%20Foam%20(old).svg) - 158mm x 73mm - NOTE 2<br/>
+[Haute42 Mini Series Bottom Foam](Cut%20Files/Haute42%20Mini%20Series%20Bottom%20Foam.svg) - 158mm x 71.2mm<br/>
+[Haute42 S Series Bottom Foam](Cut%20Files/Haute42%20S%20Series%20Bottom%20Foam.svg) - 194mm x 123mm<br/>
+[Haute42 T Series Bottom Foam](Cut%20Files/Haute42%20T%20Series%20Bottom%20Foam.svg) - 291mm x 191mm<br/>
 
 NOTE 1 - The new M+ Seres is larger than most A4 sized foam sheets.  I have made a slightly smaller cut that will fit an A4 sheet.
 NOTE 2 - There is an older verison of the Mini that does not have a passthrough USB port on it.  
