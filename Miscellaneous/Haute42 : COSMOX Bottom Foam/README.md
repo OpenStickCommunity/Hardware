@@ -1,5 +1,5 @@
 # Haute42 : COSMOX Bottom Foam
-![Haute42 : COSMOX Bottom Foam](Assets/Haute42_Bottom_Foam.JPG)
+![Haute42 : COSMOX Bottom Foam](Assets/Haute42_Bottom_Foam_1.JPG)
 ---
 
 ## Attribution
