@@ -1,5 +1,5 @@
 # RP2040 Mini Breakout Board
-![rp2040_mini_breakout_board](https://raw.githubusercontent.com/OpenStickCommunity/Hardware/main/RP2040%20Mini%20Breakout%20Board/Images/RP2040%20Mini%20Breakout%20Board%20-%20Top.jpg)
+![rp2040_mini_breakout_board](Assets/RP2040%20Mini%20Breakout%20Board%20-%20Top.jpg)
 ---
 
 ## Attribution

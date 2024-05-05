@@ -1,5 +1,5 @@
 # RP2040 Basic Breakout Board - Passthrough
-![rp2040_basic_breakout_board_passthrough](https://github.com/OpenStickCommunity/Hardware/blob/main/RP2040%20Basic%20Breakout%20Board%20-%20Passthrough/Images/RP2040%20Basic%20Breakout%20Board%20-%20Passthrough.jpg)
+![rp2040_basic_breakout_board_passthrough](Assets/RP2040%20Basic%20Breakout%20Board%20-%20Passthrough.jpg)
 ---
 
 
