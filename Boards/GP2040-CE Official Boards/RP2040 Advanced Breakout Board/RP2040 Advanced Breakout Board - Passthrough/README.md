@@ -1,12 +1,12 @@
 # RP2040 Advanced Breakout Board - USB Passthrough Edition v5.6
-![rp2040_advanced_breakout_board_pt](https://github.com/OpenStickCommunity/Hardware/blob/main/RP2040%20Advanced%20Breakout%20Board%20-%20Passthrough/Images/RP2040%20Advanced%20Breakout%20Board%20-%20Passthrough.jpg)
+![rp2040_advanced_breakout_board_pt](Assets/RP2040%20Advanced%20Breakout%20Board%20-%20Passthrough.jpg)
 ---
 
 ## Attribution
 
 The following text must be included in any distribution of derivatives of this board. All links must also be included.
 
-Based on RP2040 Advanced Breakout board from the GP2040-CE project located at https://github.com/OpenStickCommunity/Hardware/tree/main/RP2040%20Advanced%20Breakout%20Board and the RP2040 Advanced Breakout board - USB Passthrough Edition from the GP2040-CE project located at https://github.com/OpenStickCommunity/Hardware/tree/main/RP2040%20Advanced%20Breakout%20Board%20-%20Passthrough.
+Based on RP2040 Advanced Breakout board from the GP2040-CE project located at https://github.com/OpenStickCommunity/Hardware/tree/main/Boards/GP2040-CE%20Official%20Boards/RP2040%20Advanced%20Breakout%20Board/RP2040%20Advanced%20Breakout%20Board and the RP2040 Advanced Breakout board - USB Passthrough Edition from the GP2040-CE project located at https://github.com/OpenStickCommunity/Hardware/blob/main/Boards/GP2040-CE%20Official%20Boards/RP2040%20Advanced%20Breakout%20Board/RP2040%20Advanced%20Breakout%20Board%20-%20Passthrough/README.md.
 
 Copyright 2024 [TheTrain](https://github.com/TheTrainGoes)
 
