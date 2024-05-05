@@ -23,7 +23,7 @@ If you are planning to order a larger amount of boards (100+) and want to maxali
 
 If you are intested in having JLC do some or all of the testing and setup for you they can do these additional services for extra money.  I needed to contact `support@jlcpcb.com` with my list of requests and then note it on my order.  This resulted in an additional supplemental charge being added to my order that had to be paid before they proceeded with the order.  Through my experiences this added around $1.50 to each board but they have stated this may go up in the future.
 
-Here was the process that I asked them to follow:
+Here was the process that I asked them to follow:<br/>
 "1 - Plug in via USB-C<br/>
 2 - Drag firmware file onto external drive that appears<br/>
 3 - Check on https://hardwaretester.com/gamepad to see if device appears as a controller<br/>
