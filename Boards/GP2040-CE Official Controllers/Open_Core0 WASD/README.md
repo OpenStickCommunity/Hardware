@@ -1,12 +1,12 @@
 # Open_Core0 WASD v2.0
-![Open_Core0 WASD](https://github.com/OpenStickCommunity/Hardware/blob/main/Open_Core0%20WASD/Images/Open_Core0%20WASD.JPG)
+![Open_Core0 WASD](Assets/Open_Core0%20WASD.JPG)
 ---
 
 ## Attribution
 
 The following text must be included in any distribution of derivatives of this board. All links must also be included.
 
-Based on the Open_Core0 WASD board from the GP2040-CE project located at https://github.com/OpenStickCommunity/Hardware/tree/main/Open_Core0
+Based on the Open_Core0 WASD board from the GP2040-CE project located at https://github.com/OpenStickCommunity/Hardware/tree/main/Boards/GP2040-CE%20Official%20Controllers/Open_Core0%20WASD
 
 Copyright 2023 [TheTrain](https://github.com/TheTrainGoes)
 
@@ -213,9 +213,9 @@ If all looks well here you can click on the `SAVE TO CART` button.
 
 ## How to upload firmware
 
-If uploading the firmware before assembly you can hold the BootSel button on the Pico and plug the device into your computer.  It will show up as an external device.  Copy the `GP2040-CE_0.7.4_OPEN_CORE0.uf2` file to it from the prerelase firmware section and wait for the device to disconnect after copying completes.  
+If uploading the firmware before assembly you can hold the BootSel button on the Pico and plug the device into your computer.  It will show up as an external device.  Copy the `GP2040-CE_X.X.X_OPEN_CORE0.uf2` file to it from the prerelase firmware section and wait for the device to disconnect after copying completes.  
 
-If something goes wrong and you want to upload the firmware again (or if you have tested out the configuration tool and made a mistake) you can enter BootSel mode via either of the methods above and drag over the included `flash_nuke.uf2` file.  This file will take a moment to write to the Pico, once completed you will see the device disconnect and then re-connect as an external device.  After it has shown up again you can copy the same `GP2040-CE_0.7.4_OPEN_CORE0_WASD.uf2` firmware over to it again.
+If something goes wrong and you want to upload the firmware again (or if you have tested out the configuration tool and made a mistake) you can enter BootSel mode via either of the methods above and drag over the included `flash_nuke.uf2` file.  This file will take a moment to write to the Pico, once completed you will see the device disconnect and then re-connect as an external device.  After it has shown up again you can copy the same `GP2040-CE_X.X.X_OPEN_CORE0_WASD.uf2` firmware over to it again.
 
 
 ## Sales recommendations
