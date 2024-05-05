@@ -1,5 +1,5 @@
 # Sanjuks V3 AM5 Adapter Plate
-[Sanjuks V3 AM5 Adapter Plate](Assets/Sanjuks_V3_AM5_Adapter_Plate.jpg)
+![Sanjuks V3 AM5 Adapter Plate](Assets/Sanjuks_V3_AM5_Adapter_Plate.jpg)
 
 ---
 
