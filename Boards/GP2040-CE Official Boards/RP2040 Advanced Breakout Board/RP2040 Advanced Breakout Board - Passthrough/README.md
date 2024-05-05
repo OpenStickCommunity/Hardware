@@ -96,6 +96,8 @@ Please note that we are not responsible for issues that arise from the manufactu
 
 All of the boards so far have been ordered though JLCPCB.  Due to minimum order numbers you would get five of these basic breakout boards.  Here are the steps to make your first order and what options I choose along the way.
 
+If you are a Vendor ordering a larger number of boards (100+) please check out the Advanced ordering tutorial [HERE](/Boards/GP2040-CE%20Official%20Boards/RP2040%20Advanced%20Breakout%20Board/RP2040%20Advanced%20Breakout%20Board%20-%20Passthrough/Vendor%20resources/Advanced%20ordering%20from%20JLC/README.md) to get more information about the best way to make your order and try to get the best yield possible.
+
 1 - Go to JLCPCB.com<br/>
 
 2 - Click on `Instant Quote`<br/>
