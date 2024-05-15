@@ -114,7 +114,7 @@ If something goes wrong and you want to upload the firmware again (or if you hav
 
 To get into web-config you can put it back in bootsel mode and put the `force_webconfig.uf2` on.
 
-Pin mapping:
+Pin mapping:<br/>
 GPIO00 - RGB
 GPIO01 - P1
 GPIO02 - K4
