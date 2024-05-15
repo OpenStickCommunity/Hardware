@@ -115,26 +115,26 @@ If something goes wrong and you want to upload the firmware again (or if you hav
 To get into web-config you can put it back in bootsel mode and put the `force_webconfig.uf2` on.
 
 Pin mapping:<br/>
-GPIO00 - RGB
-GPIO01 - P1
-GPIO02 - K4
-GPIO03 - P3
-GPIO04 - K3
-GPIO05 - P4
-GPIO06 - P2
-GPIO07 - Capture
-GPIO08 - Home
-GPIO09 - Select
-GPIO10 - Start
-GPIO11 - K2
-GPIO12 - SDA
-GPIO13 - SLC
-GPIO14 - Right
-GPIO15 - Down
-GPIO26 - Up
-GPIO27 - Left
-GPIO28 - K1
-GPIO29 - FN
+GPIO00 - RGB<br/>
+GPIO01 - P1<br/>
+GPIO02 - K4<br/>
+GPIO03 - P3<br/>
+GPIO04 - K3<br/>
+GPIO05 - P4<br/>
+GPIO06 - P2<br/>
+GPIO07 - Capture<br/>
+GPIO08 - Home<br/>
+GPIO09 - Select<br/>
+GPIO10 - Start<br/>
+GPIO11 - K2<br/>
+GPIO12 - SDA<br/>
+GPIO13 - SLC<br/>
+GPIO14 - Right<br/>
+GPIO15 - Down<br/>
+GPIO26 - Up<br/>
+GPIO27 - Left<br/>
+GPIO28 - K1<br/>
+GPIO29 - FN<br/>
 
 
 ## Sales recommendations
