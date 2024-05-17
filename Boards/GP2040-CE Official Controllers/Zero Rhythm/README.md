@@ -21,9 +21,10 @@ The Zero_Rhythm was an idea I had while playing through the Theatrhythm demo on 
 
 A few immediate notes:
 1 - The screen layout is not complete.  If I get around to making one I will update here and make a proper config for this.
-2 - There ia no config for this, you will need to map the buttons yourself, they are listed here.
 
 Zero_Rhythm is based around a soldered on Waveshare RP2040 Zero or the newer RP2040 Super Mini.  It is designed to be hand soldered and as such no BOM or CPL files are included.  It works with hot swap sockets, Choc v1 switches and caps and you can add LEDs if you like.
+
+Currently the hosted configuration for this maps the right WASD section to A/B/X/Y for use with various Switch games.  You can update this to RS via the DDI add-on if you like.
 
 We have a small but passionate Discord group which you can access here, if interested: https://discord.com/invite/k2pxhke7q8
 
@@ -108,33 +109,30 @@ If all looks well here you can click on the `SAVE TO CART` button.
 
 ## How to upload firmware
 
-If uploading the firmware before assembly you can hold the BootSel button on the Zero / Super Mini and plug the device into your computer.  It will show up as an external device.  Copy the `GP2040-CE_X.X.X_Pico.uf2` file to it from the prerelase firmware section and wait for the device to disconnect after copying completes.  
+If uploading the firmware before assembly you can hold the BootSel button on the Zero / Super Mini and plug the device into your computer.  It will show up as an external device.  Copy the `GP2040-CE_X.X.X_ZeroRhythm.uf2` file to it from the firmware section and wait for the device to disconnect after copying completes.  
 
-If something goes wrong and you want to upload the firmware again (or if you have tested out the configuration tool and made a mistake) you can enter BootSel mode via either of the methods above and drag over the included `flash_nuke.uf2` file.  This file will take a moment to write to the Pico, once completed you will see the device disconnect and then re-connect as an external device.  After it has shown up again you can copy the same `GP2040-CE_X.X.X_Pico.uf2` firmware over to it again.
+If something goes wrong and you want to upload the firmware again (or if you have tested out the configuration tool and made a mistake) you can enter BootSel mode via either of the methods above and drag over the included `flash_nuke.uf2` file.  This file will take a moment to write to the Pico, once completed you will see the device disconnect and then re-connect as an external device.  After it has shown up again you can copy the same `GP2040-CE_X.X.X_ZeroRhythm.uf2` firmware over to it again.
 
 To get into web-config you can put it back in bootsel mode and put the `force_webconfig.uf2` on.
 
-Pin mapping:<br/>
-GPIO00 - RGB<br/>
-GPIO01 - P1<br/>
-GPIO02 - K4<br/>
-GPIO03 - P3<br/>
-GPIO04 - K3<br/>
-GPIO05 - P4<br/>
-GPIO06 - P2<br/>
-GPIO07 - Capture<br/>
-GPIO08 - Home<br/>
-GPIO09 - Select<br/>
-GPIO10 - Start<br/>
-GPIO11 - K2<br/>
-GPIO12 - SDA<br/>
-GPIO13 - SLC<br/>
-GPIO14 - Right<br/>
-GPIO15 - Down<br/>
-GPIO26 - Up<br/>
-GPIO27 - Left<br/>
-GPIO28 - K1<br/>
-GPIO29 - FN<br/>
+// Main pin mapping Configuration<br/>
+//                                                  // GP2040 | Xinput | Switch  | PS3/4/5  | Dinput | Arcade |<br/>
+#define GPIO_PIN_01 GpioAction::BUTTON_PRESS_R2     // R2     | RT     | ZR      | R2       | 8      | K3     |<br/>
+#define GPIO_PIN_02 GpioAction::BUTTON_PRESS_B2     // B2     | B      | A       | Circle   | 3      | K2     |<br/>
+#define GPIO_PIN_03 GpioAction::BUTTON_PRESS_B4     // B4     | Y      | X       | Triangle | 4      | P2     |<br/>
+#define GPIO_PIN_04 GpioAction::BUTTON_PRESS_B1     // B1     | A      | B       | Cross    | 2      | K1     |<br/>
+#define GPIO_PIN_05 GpioAction::BUTTON_PRESS_B3     // B3     | X      | Y       | Square   | 1      | P1     |<br/>
+#define GPIO_PIN_06 GpioAction::BUTTON_PRESS_R1     // R1     | RB     | R       | R1       | 6      | P3     |<br/>
+#define GPIO_PIN_07 GpioAction::BUTTON_PRESS_A2     // A2     | ~      | Capture | ~        | 14     | ~      |<br/>
+#define GPIO_PIN_08 GpioAction::BUTTON_PRESS_A1     // A1     | Guide  | Home    | PS       | 13     | ~      |<br/>
+#define GPIO_PIN_09 GpioAction::BUTTON_PRESS_S1     // S1     | Back   | Minus   | Select   | 9      | Coin   |<br/>
+#define GPIO_PIN_10 GpioAction::BUTTON_PRESS_S2     // S2     | Start  | Plus    | Start    | 10     | Start  |<br/>
+#define GPIO_PIN_11 GpioAction::BUTTON_PRESS_L1     // L1     | LB     | L       | L1       | 5      | P4     |<br/>
+#define GPIO_PIN_14 GpioAction::BUTTON_PRESS_RIGHT  // RIGHT  | RIGHT  | RIGHT   | RIGHT    | RIGHT  | RIGHT  |<br/>
+#define GPIO_PIN_15 GpioAction::BUTTON_PRESS_DOWN   // DOWN   | DOWN   | DOWN    | DOWN     | DOWN   | DOWN   |<br/>
+#define GPIO_PIN_26 GpioAction::BUTTON_PRESS_UP     // UP     | UP     | UP      | UP       | UP     | UP     |<br/>
+#define GPIO_PIN_27 GpioAction::BUTTON_PRESS_LEFT   // LEFT   | LEFT   | LEFT    | LEFT     | LEFT   | LEFT   |<br/>
+#define GPIO_PIN_28 GpioAction::BUTTON_PRESS_L2     // L2     | LT     | ZL      | L2       | 7      | K4     |<br/>
 
 
 ## Sales recommendations
