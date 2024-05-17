@@ -6,7 +6,7 @@
 
 The following text must be included in any distribution of derivatives of this board. All links must also be included.
 
-Based on the ARC Controller board from the GP2040-CE project located at https://github.com/OpenStickCommunity/Hardware/tree/main/Boards/GP2040-CE%20Official%20Controllers/Open_Core0
+Based on the ARC Controller board from the GP2040-CE project located at https://github.com/OpenStickCommunity/Hardware/tree/main/Boards/GP2040-CE%20Official%20Controllers/ARC%20Accessibility%20Controller
 
 Copyright 2024 [TheTrain](https://github.com/TheTrainGoes)
 
