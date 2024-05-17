@@ -54,10 +54,16 @@ These boards have been designed to be fully assembled by JLC PCB less the OLED a
 
 Please note that we are not responsible for issues that arise from the manufacturing of these boards done through JLC PCB or any other manufacturer.  These board files have been ordered and tested for functionality.  
 
-You will also need the following hardware components to assembe the Open_Core0:
+You will also need the following hardware components to assembe the ARC:
 - 0.96" OLED [AliExpress Link](https://www.aliexpress.com/item/1005003749784158.html) (make sure you get the module version)
 Note: You will need to take off the plastic part of the header on it otherwise the plexi will not lay flush!  You will also need to snip the legs after soldered on.
-- 6x M2x8mm buttonhead bolts [AliExpress Link](https://www.aliexpress.com/item/32967225441.html)
+
+Optionally you can get the following parts done to make a little stand-alone unit:
+- 3x M2x8mm buttonhead bolts [AliExpress Link](https://www.aliexpress.com/item/32967225441.html)
+- 3D printed body for 3D printing [HERE](3D%20print%20files/ARC%20v1.0%20-%20Base.stl)
+- 3D printed spacers for 3D printing [HERE](3D%20print%20files/ARC%20v1.0%20-%20Spacer.stl)
+- Top plexi files for laser cutting [HERE](Laser%20cut%20files/ARC%20v1.0%20-%20PT%20-%20Top%20Plexi.svg)
+- Bottom foam files for laser cutting [HERE](Laser%20cut%20files/ARC%20v1.0%20-%20PT%20-%20Bottom%20Foam.svg)
 
 ## How to order a board
 
