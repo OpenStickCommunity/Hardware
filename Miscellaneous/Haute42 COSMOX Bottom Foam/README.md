@@ -37,6 +37,8 @@ It is recommended to use adhesive back foam for these.
 [Haute42 Mini Series Bottom Foam](Cut%20Files/Haute42%20Mini%20Series%20Bottom%20Foam.svg) - 158mm x 71.2mm<br/>
 [Haute42 S Series Bottom Foam](Cut%20Files/Haute42%20S%20Series%20Bottom%20Foam.svg) - 194mm x 123mm<br/>
 [Haute42 T Series Bottom Foam](Cut%20Files/Haute42%20T%20Series%20Bottom%20Foam.svg) - 291mm x 191mm<br/>
+[Haute42 T Series Bottom Foam (Updated T Clear)](Cut%20Files/Haute42%20T%20Series%20Bottom%20Foam%20(Updated%20T%20Clear).svg) - 291mm x 191mm<br/>
+[Haute42 R Series Bottom Foam](Cut%20Files/Haute42%20R%20Series%20Bottom%20Foam.svg) - 291mm x 191mm<br/>
 
 NOTE 1 - The new M+ Seres is larger than most A4 sized foam sheets.  I have made a slightly smaller cut that will fit an A4 sheet.
 NOTE 2 - There is an older verison of the Mini that does not have a passthrough USB port on it.  
@@ -57,4 +59,4 @@ v1.0
 ## Acknowledgments
 
 - [TheTrain](https://github.com/TheTrainGoes) for doing the foam design
-- Haute42 : COSMOX for providing the reference files
+- Haute42/COSMOX for providing the reference files
