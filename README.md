@@ -44,7 +44,7 @@ Supported Boards
 
 Miscellaneous
 
-- [Haute42 / COSMOX Bottom Foam](/Miscellaneous/Haute42%20%3A%20COSMOX%20Bottom%20Foam/README.md) - Designed by TheTrain
+- [Haute42/COSMOX Bottom Foam](/Miscellaneous/Haute42%20COSMOX%20Bottom%20Foam/README.md) - Designed by TheTrain
 - [Sanjuks V3 AM5 Adapter Plate](/Miscellaneous/Sanjuks%20V3%20AM5%20Adapter%20Plate/README.md) - Designed by TheTrain
 
 Tutorials
