@@ -7,7 +7,7 @@
 
 The following text must be included in any distribution of derivatives of this board. All links must also be included.
 
-Based on the Flatbox Rev 5 PAssthrough from the GP2040-CE project located at https://github.com/OpenStickCommunity/Hardware/tree/main/Flatbox%20Rev%205%20RGB%20v2.0
+Based on the Flatbox Rev 5 Passthrough from the GP2040-CE project located at https://github.com/OpenStickCommunity/Hardware/tree/main/Boards/GP2040-CE%20Official%20Controllers/Flatbox%20Rev%205%20Passthrough
 Based on the original Flatbox Flatbox Rev 5 project located at https://github.com/jfedor2/flatbox/tree/master/hardware-rev5
 
 Copyright 2024 [TheTrain](https://github.com/TheTrainGoes)
