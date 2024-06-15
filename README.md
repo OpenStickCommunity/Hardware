@@ -26,6 +26,7 @@ GP2040-CE Official Controllers
 
 - [ARC Accessibility Controller](/Boards/GP2040-CE%20Official%20Controllers/ARC%20Accessibility%20Controller/README.md) - Designed by TheTrain
 - [Flatbox Rev 5 RGB](/Boards/GP2040-CE%20Official%20Controllers/Flatbox%20Rev%205%20RGB/README.md) - Remixed by TheTrain from the Flatbox Rev 5 by Jfedor
+- [Flatbox Rev 5 Passthrough](/Boards/GP2040-CE%20Official%20Controllers/Flatbox%20Rev%205%20Passthrough/README.md) - Remixed by TheTrain from the Flatbox Rev 5 by Jfedor
 - [Open_Core0 v2.0](/Boards/GP2040-CE%20Official%20Controllers/Open_Core0/README.md) - Designed by TheTrain
 - [Open_Core0 WASD v2.0](/Boards/GP2040-CE%20Official%20Controllers/Open_Core0%20WASD/README.md) - Designed by TheTrain
 - [Zero_Rhythm v1.0](/Boards/GP2040-CE%20Official%20Controllers/Zero%20Rhythm/README.md) - Designed by TheTrain
