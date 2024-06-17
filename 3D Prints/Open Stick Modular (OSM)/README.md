@@ -24,6 +24,7 @@ Please note the following warnings / disclaimer:
 - This is designed specificially for the Sanwa JLF lever.  It will not work with other levers.  It should work with the JLX but has not been tested.
 - I am not responcible for prints that fail or do not turn out as intended.
 - I am not responcible for any damage that happens to your printer or parts of your printer as a result of printing these files.
+- You should place and slice all parts to check total filament use before beginning this project to ensure you have enough.  You should be able to make this entire case with under 1kg of filament.
 - If you make and sell these units you are responcible for supporting your own customers.
 
 ## Summary:
@@ -45,7 +46,7 @@ This case was printed on a Bambu Labs X1C and P1S printer with the following cha
 
 Please note that only one part needs supports printed, the `OSM - Front Middle Bracket`.  All other parts can be printed without supports.
 
-Based on my prints the entire case takes around 950 grams of filament so you should be able to easily get a case out of a single 1kg roll.
+You should be able to print this entire stick with under 1kg of filament / 1 normal roll.  All necessary parts added up on my end was about 750g with default settings however your slicer and settings may change this number.  With some modified settings it is easy to reach 900g or more.  I would recommend placing all parts and checking total filament use before starting this project.
 
 This case was printed using Bambu Labs matte, normal and marble PLA filament.
 
@@ -72,6 +73,18 @@ Assembly:
 Please note that if you are planning on using acorn nuts for the JLF lever it is recommended to use the included [Support Brackets](3D%20Print%20Files/OSM%20-%20Back%20JLF%20Support%20Bracket.stl).
 
 ---
+
+## Additional Configurations and Community Submissions
+
+Along with the standard parts neesed to make the case you can also find a section for `Additional Configurations` and `Community Submissions`.  
+
+Additional Configurations:
+- [OSM - Inside Plate 1x24mm](3D%20Print%20Files/Additional%20Configurations/OSM%20-%20Inside%20Plate%201x24mm.stl) - An inside plate with 1x centered 24mm button hole.
+- [OSM - Outside Plate 1x24mm](3D%20Print%20Files/Additional%20Configurations/OSM%20-%20Outside%20Plate%201x24mm.stl) - An outside plate with 1x centered 24mm button hole.
+- [OSM - Inside Plate 2x24mm](3D%20Print%20Files/Additional%20Configurations/OSM%20-%20Inside%20Plate%202x24mm.stl) - An inside plate with 2x centered 24mm button hole.
+- [OSM - Outside Plate 2x24mm](3D%20Print%20Files/Additional%20Configurations/OSM%20-%20Outside%20Plate%202x24mm.stl) - An outside plate with 2x centered 24mm button hole.
+- [OSM - Top Left Plate - Blank](3D%20Print%20Files/Additional%20Configurations/OSM%20-%20Top%20Left%20Plate%20-%20Blank.stl) - A blank top left plate.
+- [OSM - Top Right Plate - Blank](3D%20Print%20Files/Additional%20Configurations/OSM%20-%20Top%20Right%20Plate%20-%20Blank.stl) - A blank top right plate.
 
 ## Donations and Support
 
