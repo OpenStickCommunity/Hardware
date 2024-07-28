@@ -2,6 +2,8 @@
 
 ![Stickless Layout](OSM_MINI_Leverless_TOP_1.step)
 ![Multi-button Layout](osm-mini-top-miragent10x24.stl)
+![TMNT Custom Case](/TMNT%20Case/Assets/OSM-Mini%20-%20TMNT%20-%20Complete%20Front.JPG)
+
 ---
 
 ## Summary: 
@@ -19,6 +21,4 @@ Description - Talk about what you are adding, why, how to print, etc.
 
 ## Donations and Support
 
-These files are not posted with the intention of making money.  If you enjoy them and want to toss me a few bucks it will go toward filament and parts that will be used to make more cool stuff that gets posted.  
-
-All donations or tips will be split evenly between myself and [Dash n'Mash](https://twitter.com/Dash_xx_Mash?s=20).
+These files are not posted with the intention of making money.  If you enjoy them and want to toss me a few bucks it will go toward filament and parts that will be used to make more cool stuff that gets posted.
