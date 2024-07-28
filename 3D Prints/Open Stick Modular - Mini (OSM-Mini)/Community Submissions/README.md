@@ -2,7 +2,7 @@
 
 ![Stickless Layout](OSM_MINI_Leverless_TOP_1.step)
 ![Multi-button Layout](osm-mini-top-miragent10x24.stl)
-![TMNT Custom Case](/TMNT%20Case/Assets/OSM-Mini%20-%20TMNT%20-%20Complete%20Front.JPG)
+[TMNT Custom Case](/TMNT%20Case/Assets/OSM-Mini%20-%20TMNT%20-%20Complete%20Front.JPG)
 
 ---
 
