@@ -4,7 +4,59 @@ This repository is a collection of open-source hardware designs which have been 
 
 # Designs
 
-- RP2040 Advanced Breakout Board (CC-BY) - [EasyEDA](https://oshwlab.com/open-stick-community/rp2040-advanced-breakout-board) Gerbers
+3D Prints
+
+- [3D Printable Stand - Small](/3D%20Prints/3D%20Printable%20Stand/README.md) - Designed by TheTrain
+- [3D Printable Stand - Large](/3D%20Prints/3D%20Printable%20Stand/README.md) - Designed by TheTrain
+- [3D Printable Fightstick Case](/3D%20Prints/Fightstick%20Case/README.md) - Designed by TheTrain
+- [3D Printable Fightstick Case XL](/3D%20Prints/Fightstick%20Case/Community%20submissions/3D%20print%20files/Fightstick%20XL/Open%20Stick%20XL%20-%20Main%20Frame%20(x4%20Buttons).stl) - Designed by Lucipher
+- [3D Printable Open Stick Modular](/3D%20Prints/Open%20Stick%20Modular%20(OSM)/README.md) - Designed by TheTrain
+- [3D Printable Open Stick Modular - Mini](/3D%20Prints/Open%20Stick%20Modular%20-%20Mini%20(OSM-Mini)/README.md) - Designed by TheTrain
+- [3D Printable OSBMX Buttons](/3D%20Prints/OSBMX/README.md) - Designed by TheTrain & Ranalabs
+
+GP2040-CE Official Boards
+
+- [RP2040 Advanced Breakout Board v5.6E with USB Passthrough](/Boards/GP2040-CE%20Official%20Boards/RP2040%20Advanced%20Breakout%20Board/RP2040%20Advanced%20Breakout%20Board%20-%20Passthrough/README.md) - Designed by TheTrain
+- [RP2040 Advanced Breakout Board v5.2E (no USB Passthrough)](/Boards/GP2040-CE%20Official%20Boards/RP2040%20Advanced%20Breakout%20Board/RP2040%20Advanced%20Breakout%20Board/README.md) - Designed by TheTrain
+- [RP2040 Basic Breakout Board v5.4E with USB Passthrough](/Boards/GP2040-CE%20Official%20Boards/RP2040%20Basic%20Breakout%20Board/RP2040%20Basic%20Breakout%20Board%20-%20Passthrough/README.md) - Designed by TheTrain
+- [RP2040 Basic Breakout Board v5.4E (no USB Passthrough)](/Boards/GP2040-CE%20Official%20Boards/RP2040%20Basic%20Breakout%20Board/RP2040%20Basic%20Breakout%20Board/README.md) - Designed by TheTrain
+- [RP2040 Mini Breakout Board v7.5E with USB Passthrough](/Boards/GP2040-CE%20Official%20Boards/RP2040%20Mini%20Breakout%20Board/RP2040%20Mini%20Breakout%20Board%20-%20Passthrough/README.md) - Designed by TheTrain
+- [RP2040 Mini Breakout Board v7.3E (no USB Passthrough)](/Boards/GP2040-CE%20Official%20Boards/RP2040%20Mini%20Breakout%20Board/RP2040%20Mini%20Breakout%20Board/README.md) - Designed by TheTrain
+
+GP2040-CE Official Controllers
+
+- [ARC Accessibility Controller](/Boards/GP2040-CE%20Official%20Controllers/ARC%20Accessibility%20Controller/README.md) - Designed by TheTrain
+- [Flatbox Rev 5 RGB](/Boards/GP2040-CE%20Official%20Controllers/Flatbox%20Rev%205%20RGB/README.md) - Remixed by TheTrain from the Flatbox Rev 5 by Jfedor
+- [Flatbox Rev 5 Passthrough](/Boards/GP2040-CE%20Official%20Controllers/Flatbox%20Rev%205%20Passthrough/README.md) - Remixed by TheTrain from the Flatbox Rev 5 by Jfedor
+- [Open_Core0 v2.0](/Boards/GP2040-CE%20Official%20Controllers/Open_Core0/README.md) - Designed by TheTrain
+- [Open_Core0 WASD v2.0](/Boards/GP2040-CE%20Official%20Controllers/Open_Core0%20WASD/README.md) - Designed by TheTrain
+- [Zero_Rhythm v1.0](/Boards/GP2040-CE%20Official%20Controllers/Zero%20Rhythm/README.md) - Designed by TheTrain
+
+Retail Stick Replacement Boards
+
+- [Hori Fighting Edge PS3 (FE PS3)](/Boards/Retail%20Stick%20Replacement%20Boards/Hori%20Fighting%20Edge%20PS3%20(FE%20PS3)/README.md) - Designed by TheTrain
+- [Hori Fighting Edge PS4 (FE PS4)](/Boards/Retail%20Stick%20Replacement%20Boards/Hori%20Fighting%20Edge%20PS4%20(FE%20PS4)/README.md) - Designed by TheTrain
+- [Hori Real Arcade Pro N PS4 (RAP N PS4)](/Boards/Retail%20Stick%20Replacement%20Boards/Hori%20Real%20Arcade%20Pro%20N%20PS4%20(RAP%20N%20PS4)/README.md) - Designed by TheTrain
+- [Hori Real Arcade Pro VLX PS3 (RAP VLX PS3)](/Boards/Retail%20Stick%20Replacement%20Boards/Hori%20Real%20Arcade%20Pro%20VLX%20PS3%20(RAP%20VLX%20PS3)/README.md) - Designed by TheTrain
+
+Supported Boards
+
+- [Ghost Auth v2.0](/Boards/Supported%20Boards/Ghost%20Auth/README.md) - Designed by TheTrain
+- [GP2040 Keyboard converter](/Boards/Supported%20Boards/GP2040%20Keyboard%20Converter/Waveshare%20Zero-PCB/README.md) - Designed by Infraredaces
+- [USB Pasthrough Add-on Board](/Boards/Supported%20Boards/USB%20Passthrough%20Board/README.md) - Designed by TheTrain
+
+Miscellaneous
+
+- [Haute42/COSMOX Bottom Foam](/Miscellaneous/Haute42%20COSMOX%20Bottom%20Foam/README.md) - Designed by TheTrain
+- [Sanjuks V3 AM5 Adapter Plate](/Miscellaneous/Sanjuks%20V3%20AM5%20Adapter%20Plate/README.md) - Designed by TheTrain
+
+Tutorials
+
+- [Focus Attack RGB LED Board Configuration](/Tutorials/Focus%20Attack%20LED%20Board%20Configuration/README.md) for the [RP2040 Advanced Breakout Board v5.6](/Boards/GP2040-CE%20Official%20Boards/RP2040%20Advanced%20Breakout%20Board/RP2040%20Advanced%20Breakout%20Board%20-%20Passthrough/README.md) - Written by TheTrain
+- [USB Passthrough Add-on Board Installation](/Tutorials/USB%20Passthrough%20Board%20Installation/README.md) - Written by TheTrain
+
+Vendor Resources
+- [GP2040-CE Logo Files](/Vendor%20Resources/GP2040-CE%20Logo%20files/README.md)
 
 # Contributing
 
@@ -17,29 +69,3 @@ All copyrights are retained by the original author(s) unless the copyright is ex
 # Licensing
 
 Check the LICENSE of each design for details on how the design can be used.
-
-Hardware in this repository should generally be one of the following:
-
-<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png" width="88"> CC-BY: This license allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the creator. The license allows for commercial use.
-
-<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png" width="88"> CC BY-SA: This license allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the creator. The license allows for commercial use. If you remix, adapt, or build upon the material, you must license the modified material under identical terms.
-
-<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc.png" width="88"> CC BY-NC: This license allows reusers to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator.
-
-<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" width="88"> CC BY-NC-SA: This license allows reusers to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator. If you remix, adapt, or build upon the material, you must license the modified material under identical terms.
-
-<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/cc-zero.png" width="88"> CC0 (aka CC Zero) is a public dedication tool, which allows creators to give up their copyright and put their works into the worldwide public domain. CC0 allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, with no conditions.
-
-If your design requires a specific license and cannot use one of the Creative Commons licenses, we'd love to know why! Join the [OpenStick GP2040-CE Discord](https://discord.gg/k2pxhke7q8) hardware-development channel and start a discussion with us.
-
-# Definition of "NonCommercial"
-
-For the purposes of all hardware submitted to this repository, the definition of NonCommercial is “in any manner that is primarily intended for or directed toward commercial advantage or monetary compensation.”. 
-
-NonCommercial designs may be "sold" in a "group buy" to help individuals lower costs under the following conditions:
-- There is a single organizer of the "group buy" who does not represent a commercial entity
-- The "group buy" is not facilitated on a website through any cart-based mechanism
-- The costs of the "group buy" (including all shipping fees) are shared with the group before the PCBs are manufactured
-- The PCBs are not sold for profit. Profit is defined as any additional money over actual costs. "Donations" and/or "tips" are considered profit under this definition.
-
-In order to adhere to the rules of the "group buy" exception, group buys should account for (and split equally) the cost of additional PCBs needed to account for manufacturing defects. The amount of extra PCBs ordered to account for defects must be shared with, and agreed to, by the entire group. The group is free to decide amongst themselves how to distribute the "extra" PCBs, they cannot be resold for profit.
