@@ -1,8 +1,8 @@
 # 3D Printable Fightstick Case
 
-![3D Printable Fightstick Case - 3D Runder](https://raw.githubusercontent.com/OpenStickCommunity/Hardware/main/Fightstick%20Case/Images/3D%20render.png)
-![3D Printable Fightstick Case - Fully Assembled Case](https://raw.githubusercontent.com/OpenStickCommunity/Hardware/main/Fightstick%20Case/Images/Fully%20assembled%20case.jpg)
-![3D Printable Fightstick Case - Inside - Wired](https://raw.githubusercontent.com/OpenStickCommunity/Hardware/main/Fightstick%20Case/Images/Inside%20-%20Wired.JPG)
+![3D Printable Fightstick Case - 3D Render](https://raw.githubusercontent.com/OpenStickCommunity/Hardware/main/3D%20Prints/Fightstick%20Case/Images/3D%20render.png)
+![3D Printable Fightstick Case - Fully Assembled Case](https://raw.githubusercontent.com/OpenStickCommunity/Hardware/main/3D%20Prints/Fightstick%20Case/Images/Fully%20assembled%20case.jpg)
+![3D Printable Fightstick Case - Inside - Wired](https://raw.githubusercontent.com/OpenStickCommunity/Hardware/main/3D%20Prints/Fightstick%20Case/Images/Inside%20-%20Wired.JPG)
 ---
 
 ## Attribution
