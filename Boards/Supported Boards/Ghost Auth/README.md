@@ -1,5 +1,5 @@
 # Ghost Auth
-![Ghost Auth](https://github.com/OpenStickCommunity/Hardware/blob/main/Ghost%20Auth/Images/Ghost%20Auth%20v1.0.jpg)
+![Ghost Auth](https://github.com/OpenStickCommunity/Hardware/blob/main/Boards/Supported%20Boards/Ghost%20Auth/Assets/Ghost%20Auth%20v1.0.jpg)
 ---
 
 ## Attribution

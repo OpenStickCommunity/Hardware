@@ -1,5 +1,5 @@
 # USB Passthrough Board
-![usb_passthrough_board](https://github.com/OpenStickCommunity/Hardware/blob/main/USB%20Passthrough%20Board/Images/USB_Passthrough_Kit.JPG)
+![usb_passthrough_board](https://github.com/OpenStickCommunity/Hardware/blob/main/Boards/Supported%20Boards/USB%20Passthrough%20Board/Assets/USB_Passthrough_Kit.JPG)
 ---
 
 ## Attribution
