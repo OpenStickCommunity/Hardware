@@ -1,0 +1,15 @@
+Posted by: domaug (Discord)
+File List: osm-mini-top-plate_sega2p8x30mm.stl; osm-mini-back-plate_passthru-pos2.stl
+
+This mod to the OSM-Mini allows for a Sega 2P layout with 8x 30mm buttons. 
+
+The top plate has 8x 30mm button cutouts in a Sega 2P layout and a repositioned joystick cutout hole. It also does away with the support hex pillar because of space, but in my experience, it is sturdy enough without the pillar anyway. 
+
+I also added a modified back plate with a repositioned Neutrik passthrough hole. It is now the second cutout from the left (when viewing from the top side of the controller). This was done to ensure there was enough space to fit the passthrough without interfering with the buttons. Along with the repositioned passthrough hole, there are also backside counterbores for snap-in buttons and counterbore pockets for the M3 nuts when installing the passthrough. 
+
+Every other component stays the same with this mod. Thank you for checking it out!
+
+Print Instructions: 
+- Print the top plate with the topmost face against the build plate. Inner walls: 3; infill shape: hex/honeycomb; infill percentage: 15% or higher.
+- Print the back side plate with the outer face against the build plate. Supports are not necessary. Use the same settings outlined in the previous step.
+- Install both components as directed in the instructions and install your components.
