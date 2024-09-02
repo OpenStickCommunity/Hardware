@@ -27,8 +27,8 @@ It is recommended to have this done in Aluminum and have it both bead blasted an
 
 Please note that this is heavier than a standard Sanjuks Nobi style topper (made from machined delrin).
 
-Actual Sanjuks Nobi topper = 33 grams
-Aluminum Sanjuks style Nobi topper = 61 grams
+Actual Sanjuks Nobi topper = 33 grams<br/>
+Aluminum Sanjuks style Nobi topper = 61 grams<br/>
 
 
 ## How to order one
