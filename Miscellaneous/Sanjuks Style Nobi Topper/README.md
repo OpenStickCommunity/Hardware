@@ -7,7 +7,7 @@
 
 The following text must be included in any distribution of derivatives of this board. All links must also be included.
 
-Based on the Sanjuks Style Nobi Topper designed by TheTrain.
+Based on the Sanjuks Style Nobi Topper designed by TheTrain located [HERE](https://github.com/OpenStickCommunity/Hardware/tree/main/Miscellaneous/Sanjuks%20Style%20Nobi%20Topper)
 
 The Sanjuks Nobi Topper was designed by Bandit (maker and owner of the Sanjuks brand)
 
