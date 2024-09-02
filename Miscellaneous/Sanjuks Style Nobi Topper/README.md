@@ -25,6 +25,11 @@ This is a Sanjuks style Nobi topper for JLF/JLX type sticks.  This should be com
 
 It is recommended to have this done in Aluminum and have it both bead blasted and anodized.  I have not tested other materials or finishes.
 
+Please note that this is heavier than a standard Sanjuks Nobi style topper (made from machined delrin).
+
+Actual Sanjuks Nobi topper = 33 grams
+Aluminum Sanjuks style Nobi topper = 61 grams
+
 
 ## How to order one
 
