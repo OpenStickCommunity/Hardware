@@ -53,7 +53,7 @@ Miscellaneous
 
 Trains Vewlix Stuff
 
-- [Vewlix Coin Return Adapter](/Hardware/Trains%20Vewlix%20Stuff/Vewlix%20Coin%20Return%20Adapter/README.md) - Designed by TheTrain
+- [Vewlix Coin Return Adapter](/Trains%20Vewlix%20Stuff/Vewlix%20Coin%20Return%20Adapter/README.md) - Designed by TheTrain
 
 Tutorials
 
