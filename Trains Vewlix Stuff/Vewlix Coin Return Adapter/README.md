@@ -1,6 +1,6 @@
 # Vewlix Coin Return Adapter
 ![Vewlix Coin Return Adapter 01](Assets/Vewlix_Coin_Return_Adapter_01.jpg)
-![Vewlix Coin Return Adapter 02](Assets/Vewlix_Coin_Return_Adapter_02.jpg)
+![Vewlix Coin Return Adapter 02](Assets/Vewlix_Coin_Return_Adapter_02.png)
 
 ---
 
