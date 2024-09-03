@@ -51,6 +51,10 @@ Miscellaneous
 - [Sanjuks V3 AM5 Adapter Plate](/Miscellaneous/Sanjuks%20V3%20AM5%20Adapter%20Plate/README.md) - Designed by TheTrain
 - [Sanjuks Style Nobi Topper](/Miscellaneous/Sanjuks%20Style%20Nobi%20Topper/README.md) - Designed by TheTrain
 
+Trains Vewlix Stuff
+
+- [Vewlix Coin Return Adapter](/Hardware/Trains%20Vewlix%20Stuff/Vewlix%20Coin%20Return%20Adapter/README.md) - Designed by TheTrain
+
 Tutorials
 
 - [Focus Attack RGB LED Board Configuration](/Tutorials/Focus%20Attack%20LED%20Board%20Configuration/README.md) for the [RP2040 Advanced Breakout Board v5.6](/Boards/GP2040-CE%20Official%20Boards/RP2040%20Advanced%20Breakout%20Board/RP2040%20Advanced%20Breakout%20Board%20-%20Passthrough/README.md) - Written by TheTrain
