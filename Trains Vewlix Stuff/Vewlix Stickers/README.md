@@ -24,7 +24,7 @@ This is a collection of stickers for Vewlix and Chewlix arcade machines.  It is 
 
 ## NESiCA Label
 
-![Vewlix Stickers - NESiCA Label - Black](NESiCA/Nesica%20Label%20-%20Black%20-%20Art.png)
+![Vewlix Stickers - NESiCA Label - Black](/NESiCA%20Label/Nesica%20Label%20-%20Black%20-%20Art.png)
 
 The NESiCA Label is based on the original design from user `jermz1` on https://www.arcade-projects.com/.  You can find a link to the originally posted assets [HERE](https://www.arcade-projects.com/threads/vewlix-all-decals-for-your-vewlix-chewlix-cab.12706/).
 
