@@ -23,9 +23,9 @@ Changes from the original design:
 This is a collection of different Vewlix / Chewlix Coin Return Slots.  
 
 There are three different versions included here:
-1 - `Vewlix Coin Return Slot - Original` - Copy of hte original design.
-2 - `Vewlix Coin Return Slot - Extended` - Extended version of the original with a sloped back, good if you want to have a bunch of coins in there at any given moment.
-3 - `Vewlix Coin Return Slot - Push in flap` - Extended and has a push in flap so coins are easier to get. The flap on this one will not swing forward like in the others.
+1 - `Vewlix Coin Return Slot - Original` - Copy of hte original design.</br>
+2 - `Vewlix Coin Return Slot - Extended` - Extended version of the original with a sloped back, good if you want to have a bunch of coins in there at any given moment.</br>
+3 - `Vewlix Coin Return Slot - Push in flap` - Extended and has a push in flap so coins are easier to get. The flap on this one will not swing forward like in the others.</br>
 
 
 ## Printing tips
