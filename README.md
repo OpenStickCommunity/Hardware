@@ -54,6 +54,7 @@ Miscellaneous
 Trains Vewlix Stuff
 
 - [Vewlix Coin Return Adapter](/Trains%20Vewlix%20Stuff/Vewlix%20Coin%20Return%20Adapter/README.md) - Designed by TheTrain
+- [Vewlix Coin Return Slot](/Trains%20Vewlix%20Stuff/Vewlix%20Coin%20Return%20Slot/README.md) - Designed by TheTrain
 - [Vewlix Coin Mech](/Trains%20Vewlix%20Stuff/Vewlix%20Coin%20Mech/README.md) - Designed by TheTrain
 - [Vewlix Stickers](/Trains%20Vewlix%20Stuff/Vewlix%20Stickers/README.md) - Remixes and customs by TheTrain
 
