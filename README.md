@@ -57,6 +57,7 @@ Trains Vewlix Stuff
 - [Vewlix Coin Return Slot](/Trains%20Vewlix%20Stuff/Vewlix%20Coin%20Return%20Slot/README.md) - Designed by TheTrain
 - [Vewlix Coin Mech](/Trains%20Vewlix%20Stuff/Vewlix%20Coin%20Mech/README.md) - Designed by TheTrain
 - [Vewlix Stickers](/Trains%20Vewlix%20Stuff/Vewlix%20Stickers/README.md) - Remixes and customs by TheTrain
+- [Vewlix Control Panel SiTong Adapter Rings](/Trains%20Vewlix%20Stuff/Vewlix%20Control%20Panel%20SiTong%20Adapter%20Rings/README.md) - Designed by TheTrain
 
 Tutorials
 
