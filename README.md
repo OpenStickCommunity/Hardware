@@ -50,6 +50,7 @@ Miscellaneous
 - [Haute42/COSMOX Bottom Foam](/Miscellaneous/Haute42%20COSMOX%20Bottom%20Foam/README.md) - Designed by TheTrain
 - [Sanjuks V3 AM5 Adapter Plate](/Miscellaneous/Sanjuks%20V3%20AM5%20Adapter%20Plate/README.md) - Designed by TheTrain
 - [Sanjuks Style Nobi Topper](/Miscellaneous/Sanjuks%20Style%20Nobi%20Topper/README.md) - Designed by TheTrain
+- [Open LED Project - Sanwa 30mm RGB LEDs](/Miscellaneous/Open%20LED%20Project%20-%20Sanwa%2030mm%20RGB%20LED/README.md) - Designed by TheTrain
 
 Trains Vewlix Stuff
 
