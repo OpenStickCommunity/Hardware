@@ -23,7 +23,7 @@ This is a collection of stickers for Vewlix and Chewlix arcade machines.  It is 
 
 ## Coin Label - Custom Black
 
-![Coin Label - Custom Black](/Coin%20Label%20-%20Custom%20Black/Black%20-%20100y.png)
+![Coin Label - Custom Black](Coin%20Label%20-%20Custom%20Black/Coin%20Label%20-%20Custom%20Black%20-%20100y.png)
 
 The Coin Label is based on the original design from user `Huey Le`.  I will update the original work when I finish getting the rest of the stickers done.
 
@@ -51,7 +51,7 @@ It is recommended to use Cricut brand white sticker paper (with laminate overlay
 
 ## NESiCA Label
 
-![Vewlix Stickers - NESiCA Label - Black](/NESiCA%20Label/Nesica_Label_-_Black_-_Art.png)
+![Vewlix Stickers - NESiCA Label - Black](NESiCA%20Label/Nesica_Label_-_Black_-_Art.png)
 
 The NESiCA Label is based on the original design from user `jermz1` on https://www.arcade-projects.com/.  You can find a link to the originally posted assets [HERE](https://www.arcade-projects.com/threads/vewlix-all-decals-for-your-vewlix-chewlix-cab.12706/).
 
