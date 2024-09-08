@@ -21,6 +21,33 @@ Changes from the original design:
 
 This is a collection of stickers for Vewlix and Chewlix arcade machines.  It is designed to offer high quality and, in come cases, custom designs to add to your arcade.
 
+## Coin Label - Custom Black
+
+![Coin Label - Custom Black](/Coin%20Label%20-%20Custom%20Black/Black%20-%20100y.png)
+
+The Coin Label is based on the original design from user `Huey Le`.  I will update the original work when I finish getting the rest of the stickers done.
+
+This is my custom black version of the coin label.
+
+Files are as follows:
+- `Coin Label - Custom Black - 100y - Cut file.afdesign` - Working file for the cut lines on the 100y sticker in Affinity Designer 2 format
+- `Coin Label - Custom Black - 100y - Cut file.svg` - Cut file for the sticker set (sized at 100mm x 72mm)
+- `Coin Label - Custom Black - 100y.afdesign` - Original working file for the single 100y sticker in Affinity Designer 2 format
+- `Coin Label - Custom Black - 100y.png` - Art print file (sized at 100mm x 72mm)
+- `Coin Label - Custom Black - Cut layer.afdesign` - Working file for the cut lines on the sticker set in Affinity Designer 2 format
+- `Coin Label - Custom Black - Cut layer.svg` - Cut file for the sticker set (sized at 100mm x 220mm)
+- `Coin Label - Custom Black - Print layer.afdesign` - Original working file for the print layer of the sticker set in Affinity Designer 2 format
+- `Coin Label - Custom Black - Print layer.png` - Art print file (sized at 100mm x 220mm)
+- `Coin Label - Custom Black.afdesign` - Original working file for the sticker set in Affinity Designer 2 format
+
+To cut these on a plot cutter like the Cricut:
+1 - Import the `Coin Label - Custom Black - 100y.png` file and size to 100mm x 72mm, placing at a static position on the workspace
+2 - Import the `Coin Label - Custom Black - 100y - Cut file.svg` file and size to 100mm x 72mm, placing at the same static position on the workspace as the art file
+3 - Attach both files
+4 - Print and then cut
+
+It is recommended to use Cricut brand white sticker paper (with laminate overlay).
+
 
 ## NESiCA Label
 
