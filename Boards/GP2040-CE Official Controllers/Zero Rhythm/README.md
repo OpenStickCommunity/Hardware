@@ -8,7 +8,7 @@ The following text must be included in any distribution of derivatives of this b
 
 Based on the Zero_Rhythm board from the GP2040-CE project located at https://github.com/OpenStickCommunity/Hardware/tree/main/Boards/GP2040-CE%20Official%20Controllers/Zero_Rhythm
 
-Copyright 2023 [TheTrain](https://github.com/TheTrainGoes)
+Copyright 2024 [TheTrain](https://github.com/TheTrainGoes)
 
 [Licensed under CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
