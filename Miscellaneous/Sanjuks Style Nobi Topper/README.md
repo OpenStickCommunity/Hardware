@@ -60,7 +60,7 @@ A new box will pop up and ask you to upload a PDF, DWG, DXF, JPG or PNG.  Upload
 
 On the right hand side you will see a `Build time` selection.  It should default to `Standard: 7 days`.  You can save a few bucks by moving that to `Economic: 12 days`.<br/>
 
-Note 1 - There is a small difference in price between Aluminum 6061 and 7075, please choose what is best for you - there is mo major benifit to either of these for this model.
+Note 1 - There is a small difference in price between Aluminum 6061 and 7075, please choose what is best for you - there is no major benefit to either of these for this model.
 
 If all looks well here you can check off `I agree to JLCCNC's terms of use` and then click on the `Submit Order` button.
 
@@ -78,7 +78,7 @@ You are free to set your own price as you see fit.
 
 ## Donations
 
-Donations are not necessary but always welcome!  All donations recieved go towards making more cool stuff.
+Donations are not necessary but always welcome!  All donations received go towards making more cool stuff.
 
 https://www.paypal.com/donate/?hosted_button_id=2JMTZVCGLDYC2
 

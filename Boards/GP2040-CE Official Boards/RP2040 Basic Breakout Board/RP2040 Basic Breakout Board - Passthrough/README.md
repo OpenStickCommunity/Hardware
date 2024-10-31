@@ -20,15 +20,15 @@ Changes from the original design:
 
 The RP2040 Basic Breakout Board - Passthrough is designed to be an affordable option to get going with the GP2040-CE firmware.  On orders of 50+ units the landed costs per unit through JLC can be less than $4.50 each!
 
-The Passthrough version adds a USB port to the side so that it can be used to autheticate on PS4, PS5 and Xbox via passthrough authentication.  Please read more on PS5 compatibility via our website.
+The Passthrough version adds a USB port to the side so that it can be used to authenticate on PS4, PS5 and Xbox via passthrough authentication.  Please read more on PS5 compatibility via our website.
 
-You can find a pre-compiled .UF2 firmware file for the RP2040 Basic Breakout Board in the GP2040-CE release section under `GP2040-CE_0.X.X_RP2040AdvancedBreakoutBoardUSBPassthrough.uf2`.  This configuration will be maintained as long as the project is active and the pinout will not change.  Should there be another version of the board, it will be kept as a seperate hardware entry.  Since this uses the same pinout as the Advanced Breakout Board you can use that .UF2.
+You can find a pre-compiled .UF2 firmware file for the RP2040 Basic Breakout Board in the GP2040-CE release section under `GP2040-CE_0.X.X_RP2040AdvancedBreakoutBoardUSBPassthrough.uf2`.  This configuration will be maintained as long as the project is active and the pinout will not change.  Should there be another version of the board, it will be kept as a separate hardware entry.  Since this uses the same pinout as the Advanced Breakout Board you can use that .UF2.
 
-The RP2040 Baisc Breakout Board - Passthrough is an embedded design based on the original Pico Fighting Board (https://github.com/FeralAI/PicoFightingBoard) by FeralAI.
+The RP2040 Basic Breakout Board - Passthrough is an embedded design based on the original Pico Fighting Board (https://github.com/FeralAI/PicoFightingBoard) by FeralAI.
 
 The RP2040 Basic Breakout Board - Passthrough is an embedded SMD design with through hole components.  It is not recommended to assemble these yourself unless you have a setup to do SMD assembly.
 
-With the RP2040 Basic Breakout Board - Passthrough using an embedded RP2040 chip, we are able to access all of the additional GPIO pins that are not easily accessible on the standard Raspberry Pi Pico board.  This allows us to have many more options on the board so that people can make truly unique and custom contollers.  Costs are reduced as much as possible on the Basic Breakout Board by only including a 20pin header and 4pin connector.
+With the RP2040 Basic Breakout Board - Passthrough using an embedded RP2040 chip, we are able to access all of the additional GPIO pins that are not easily accessible on the standard Raspberry Pi Pico board.  This allows us to have many more options on the board so that people can make truly unique and custom controllers.  Costs are reduced as much as possible on the Basic Breakout Board by only including a 20pin header and 4pin connector.
 
 We have a small but passionate Discord group which you can access here if interested: https://discord.com/invite/k2pxhke7q8
 
@@ -43,7 +43,7 @@ A 20pin (2x10pin) 2.54mm connector is located in the bottom left of the board, m
 
 A 4pin (1x4pin) JST 2.00mm connector is located beside the 20pin connector which can be used with the standard Brook 4-pin harness allowing for access to A2, L3 and R3.  
 
-A female USB A port is located on the left side of the board which allows for the RP2040 Advanced Breakout Board - USB Passthrough edition to be used with an appropiate controller or dongle to authenticate for PS4 or PS5 (as a PS4 fightstick). Please see the above note about GPIO pins in the SMD switch section.
+A female USB A port is located on the left side of the board which allows for the RP2040 Advanced Breakout Board - USB Passthrough edition to be used with an appropriate controller or dongle to authenticate for PS4 or PS5 (as a PS4 fightstick). Please see the above note about GPIO pins in the SMD switch section.
 
 A USB-C port can be found on the right side of the board.  USB-C was chosen as it is the current industry standard and can allow for very low profile builds should you choose to make a version of the board with depopulated headers.  
 
@@ -128,15 +128,15 @@ Note 5 - This adds around $1 to the total cost of the order and is 100% worth do
 7 - The Bill of Materials page will show you a render of the board without parts.  You can click the `NEXT` button here unless you see any issues with the board<br/>
 
 8 - You will now have the option to upload two files:
-- For the `Add BOM File` you will need to choose the `BOM - RP2040 Baisc Breakout Board - Passthrough v5.3E.csv` file that is located in the Hardware files folder
+- For the `Add BOM File` you will need to choose the `BOM - RP2040 Basic Breakout Board - Passthrough v5.3E.csv` file that is located in the Hardware files folder
 - For the `Add CPL File` you will need to choose the `CPL - RP2040 Basic Breakout Board - Passthrough v5.3E.csv` file that is located in the Hardware files folder<br/>
 Once these two files have been uploaded you can press the `Process BOM & CPL` button.
 
-9 - You will now see a list of components that will be used to assemble the boards.  If there are not listed issues here you can click on on the `NEXT` button. (note 6), (note 7)
+9 - You will now see a list of components that will be used to assemble the boards.  If there are not listed issues here you can click on the `NEXT` button. (note 6), (note 7)
 
 Note 6 - You can also use this page to omit parts from the assembly.  This can primarily be used to not include specific headers or the screw terminals.  Please only do this if you understand what you are doing as omitting main parts of the design will lead to non-functioning boards.  We are not responsible for any boards that are non-functioning. 
 
-Note 7 - We have spent extensive time to ensure that the parts chosen will work for this board.  If there are any parts that are out of stock, or you get warnings about anything we would recommend you not proceed unless you understand how to find replacmeent parts.  If you are unsure, please feel free to join up in the Discord and ask us.  It is not uncommon for JLCPCB to have part shortages.  Most of the parts listed here come back in stock in a few days.  If that is the case, you may need to wait to place your order until all needed parts are in stock.
+Note 7 - We have spent extensive time to ensure that the parts chosen will work for this board.  If there are any parts that are out of stock, or you get warnings about anything we would recommend you not proceed unless you understand how to find replacement parts.  If you are unsure, please feel free to join up in the Discord and ask us.  It is not uncommon for JLCPCB to have part shortages.  Most of the parts listed here come back in stock in a few days.  If that is the case, you may need to wait to place your order until all needed parts are in stock.
 
 10 - There will now be a render of the board with parts on the Component Placements page.  Check this page to make sure that all parts are in the correct spots and orientation.  We have ordered based on these files before and they are known good.  If all looks well press the `NEXT` button. (note 8)
 
@@ -165,7 +165,7 @@ Through the licensing you are free to make and sell these boards in group buys o
 
 The intended purpose of this board, as well as the overall GP2040-CE project is to get low cost boards into the hands of as many people as possible so everyone can enjoy the project.  
 
-As such, we have a recommend MSRP of $15 USD for the RP2040 Advanced Breakout Board or $20 USD with free shipping within the USA or Canada.
+As such, we have a recommended MSRP of $15 USD for the RP2040 Advanced Breakout Board or $20 USD with free shipping within the USA or Canada.
 
 You are free to set your own price as you see fit. 
 

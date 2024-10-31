@@ -20,10 +20,10 @@ Changes from the original design:
 ## Warnings / Disclaimer:
 
 Please note the following warnings / disclaimer:
-- This is designed specificially for the Sanwa JLF lever.  It will not work with other levers.  It should work with the JLX but has not been tested.
-- I am not responcible for prints that fail or do not turn out as intended.
-- I am not responcible for any damage that happens to your printer or parts of your printer as a result of printing these files.
-- If you make and sell these units you are responcible for supporting your own customers.
+- This is designed specifically for the Sanwa JLF lever.  It will not work with other levers.  It should work with the JLX but has not been tested.
+- I am not responsible for prints that fail or do not turn out as intended.
+- I am not responsible for any damage that happens to your printer or parts of your printer as a result of printing these files.
+- If you make and sell these units you are responsible for supporting your own customers.
 
 ## Summary:
 

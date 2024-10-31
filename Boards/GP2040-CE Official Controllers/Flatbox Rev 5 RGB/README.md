@@ -30,7 +30,7 @@ There are three version of the Flatbox Rev 5 RGB v2.0:
 
 Please note that all three of these versions use the same PCB.
 
-The `basic` verion is a remake of the Flatbox Rev 5 PCB that has a modified case to include Player LEDs as well as cutouts for tactile switch caps over the flaps that are present on the basic Rev 4 and Rev 5 cases.
+The `basic` verison is a remake of the Flatbox Rev 5 PCB that has a modified case to include Player LEDs as well as cutouts for tactile switch caps over the flaps that are present on the basic Rev 4 and Rev 5 cases.
 The `art case` version goes a step further and offers a unique case design that uses a mid-frame drop in (idea taken from Mavercade and their line of Keebfighters) as well as a top plexi layer.
 The `Premium Art Case` version adds a bottom aluminum plate and foam to the `art case` version while also removing some height from the main body of the `art case` version.
 
@@ -104,12 +104,12 @@ Note 5 - This adds around $1 to the total cost of the order and is 100% worth do
 
 Once these two files have been uploaded you can press the `Process BOM & CPL` button.
 
-9 - You will now see a list of components that will be used to assemble the boards.  If there are not listed issues here you can click on on the `NEXT` button. (note 6), (note 7)
+9 - You will now see a list of components that will be used to assemble the boards.  If there are not listed issues here you can click on the `NEXT` button. (note 6), (note 7)
 
 
 Note 6 - You can also use this page to omit parts from the assembly.  Please only do this if you understand what you are doing as omitting main parts of the design will lead to non-functioning boards.  We are not responsible for any boards that are non-functioning. 
 
-Note 7 - We have spent extensive time to ensure that the parts chosen will work for this board.  If there are any parts that are out of stock, or you get warnings about anything we would recommend you not proceed unless you understand how to do find replacmeent parts.  If you are unsure, please feel free to join the Discord and ask us.  It is not uncommon for JLCPCB to have part shortages.  Most of the parts listed here come back in stock in a few days.  If that is the case, you may need to wait to place your order until all needed parts are in stock.
+Note 7 - We have spent extensive time to ensure that the parts chosen will work for this board.  If there are any parts that are out of stock, or you get warnings about anything we would recommend you not proceed unless you understand how to find replacement parts.  If you are unsure, please feel free to join the Discord and ask us.  It is not uncommon for JLCPCB to have part shortages.  Most of the parts listed here come back in stock in a few days.  If that is the case, you may need to wait to place your order until all needed parts are in stock.
 
 10 - There will now be a render of the board with parts on the Component Placements page.  Check this page to make sure that all parts are in the correct spots and orientation.  We have ordered based on these files before and they are known good.  If all looks well press the `NEXT` button. (note 8)
 
@@ -136,4 +136,3 @@ The case files were designed by myself (TheTrain) from scratch.  They were based
 The buttons were designed from scratch by SGFDevices: https://github.com/sgfdevices/Bridget/tree/main/Buttons
 
 ---
-

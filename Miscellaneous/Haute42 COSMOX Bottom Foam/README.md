@@ -40,8 +40,8 @@ It is recommended to use adhesive back foam for these.
 [Haute42 T Series Bottom Foam (Updated T Clear)](Cut%20Files/Haute42%20T%20Series%20Bottom%20Foam%20(Updated%20T%20Clear).svg) - 291mm x 191mm<br/>
 [Haute42 R Series Bottom Foam](Cut%20Files/Haute42%20R%20Series%20Bottom%20Foam.svg) - 291mm x 191mm<br/>
 
-NOTE 1 - The new M+ Seres is larger than most A4 sized foam sheets.  I have made a slightly smaller cut that will fit an A4 sheet.
-NOTE 2 - There is an older verison of the Mini that does not have a passthrough USB port on it.  
+NOTE 1 - The new M+ Series is larger than most A4 sized foam sheets.  I have made a slightly smaller cut that will fit an A4 sheet.
+NOTE 2 - There is an older version of the Mini that does not have a passthrough USB port on it.  
 
 All source files were made in Affinity Designer 2 based off of reference files that were provided to me directly by Haute42 : COSMOX.  The source files for Affinity Designer 2 can be found in the [Source](Source%20Files/) folder.  The files provided by Haute42 : COSMOX are not available.
 

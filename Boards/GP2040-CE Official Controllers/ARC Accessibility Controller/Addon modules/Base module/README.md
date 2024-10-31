@@ -23,7 +23,7 @@ We have a small but passionate Discord group which you can access here, if inter
 
 ## Board design choices
 
-These assembled board here simply takes the headhone jacks and breaks them out to screw terminals with a common ground.
+These assembled board here simply takes the headphone jacks and breaks them out to screw terminals with a common ground.
 
 ## Assembly
 
@@ -105,7 +105,7 @@ Once these two files have been uploaded you can press the `Process BOM & CPL` bu
 
 You will likely get an error message here saying that one of the below parts won't be assembled due to missing date.  If this pops up and the part in question is `NONE1` then you can press `Continue` because `NONE1` is the OLED module and JLC cannot assemble those.
 
-9 - You will now see a list of components that will be used to assemble the boards.  If there are no listed issues here you can click on on the `NEXT` button. (note 6), (note 7)
+9 - You will now see a list of components that will be used to assemble the boards.  If there are no listed issues here you can click on the `NEXT` button. (note 6), (note 7)
 
 Note 6 - You can also use this page to omit parts from the assembly.  
 
@@ -160,9 +160,9 @@ Note 1 - The bottom plates can be done in aluminum for a few dollars more.  This
 
 ## Sales recommendations
 
-Through the licencing you are free to make and sell these boards in group buys or even commercial applications.  
+Through the licensing you are free to make and sell these boards in group buys or even commercial applications.  
 
-The intended purpose of this board, as well as the overall GP2040-CE project is to get low cost boards into the hands of as many people as possible to everyone can enjoy the project.  
+The intended purpose of this board, as well as the overall GP2040-CE project is to get low cost boards into the hands of as many people as possible so everyone can enjoy the project.  
 
 I would like to see these boards offered at cost or as close to at cost as possible.  
 
@@ -173,14 +173,14 @@ You are free to set your own price as you see fit.
 
 Every part of this project is open source, from the GP2040-CE firmware to the original Pico Fighting Board design and also this Open_Core0 design.  
 
-Donations are not necessary but always welcome!  I typicly use donations to pay for Discord boosts and try out new designs or send boards to people for testing, iterations and helping people get board setups that might not be in an economic position to get one themselves.
+Donations are not necessary but always welcome!  I typically use donations to pay for Discord boosts and try out new designs or send boards to people for testing, iterations and helping people get board setups that might not be in an economic position to get one themselves.
 
 https://www.paypal.com/donate/?hosted_button_id=2JMTZVCGLDYC2
 
 ## Revision History
 
 v1.0
-- Innitial design
+- Initial design
 
 ## Acknowledgements
 

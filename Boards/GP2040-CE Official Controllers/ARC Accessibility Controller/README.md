@@ -25,7 +25,7 @@ A few immediate notes:
 
 The ARC is an embedded SMD design with through hole components.  It is not recommended to assemble these yourself unless you have a setup to do SMD assembly.
 
-With the ARC using an embedded RP2040 chip, we are able to access all of the additional GPIO pins that are not easily accessible on the standard Raspberry Pi Pico board.  This allows us to have many more options on the board so that people can make truly unique and custom contollers.
+With the ARC using an embedded RP2040 chip, we are able to access all of the additional GPIO pins that are not easily accessible on the standard Raspberry Pi Pico board.  This allows us to have many more options on the board so that people can make truly unique and custom controllers.
 
 We have a small but passionate Discord group which you can access here, if interested: https://discord.com/invite/k2pxhke7q8
 
@@ -33,7 +33,7 @@ We have a small but passionate Discord group which you can access here, if inter
 
 The ARC has a number of pins that can be accessed by different connectors.  The addition of a 20pin + 4pin headers will allow for easy connection to more traditional wiring looms.  
 
-An 0.96" OLED has beed added to allow visibility into current controller settings.
+An 0.96" OLED has been added to allow visibility into current controller settings.
 
 The ARC also features a USB passthrough port which will allow you to use an authentication device for play on PS5 games that support legacy controllers (like Street Fighter 6 and Mortal Kombat 11) and Xbox One or Series X/S.
 
@@ -54,7 +54,7 @@ These boards have been designed to be fully assembled by JLC PCB less the OLED a
 
 Please note that we are not responsible for issues that arise from the manufacturing of these boards done through JLC PCB or any other manufacturer.  These board files have been ordered and tested for functionality.  
 
-You will also need the following hardware components to assembe the ARC:
+You will also need the following hardware components to assemble the ARC:
 - 0.96" OLED [AliExpress Link](https://www.aliexpress.com/item/1005003749784158.html) (make sure you get the module version)
 Note: You will need to take off the plastic part of the header on it otherwise the plexi will not lay flush!  You will also need to snip the legs after soldered on.
 
@@ -124,7 +124,7 @@ Once these two files have been uploaded you can press the `Process BOM & CPL` bu
 
 You will likely get an error message here saying that one of the below parts won't be assembled due to missing date.  If this pops up and the part in question is `NONE1` then you can press `Continue` because `NONE1` is the OLED module and JLC cannot assemble those.
 
-9 - You will now see a list of components that will be used to assemble the boards.  If there are no listed issues here you can click on on the `NEXT` button. (note 6), (note 7)
+9 - You will now see a list of components that will be used to assemble the boards.  If there are no listed issues here you can click on the `NEXT` button. (note 6), (note 7)
 
 Note 6 - You can also use this page to omit parts from the assembly.  
 
@@ -150,9 +150,9 @@ If something goes wrong and you want to upload the firmware again (or if you hav
 
 ## Sales recommendations
 
-Through the licencing you are free to make and sell these boards in group buys or even commercial applications.  
+Through the licensing you are free to make and sell these boards in group buys or even commercial applications.  
 
-The intended purpose of this board, as well as the overall GP2040-CE project is to get low cost boards into the hands of as many people as possible to everyone can enjoy the project.  
+The intended purpose of this board, as well as the overall GP2040-CE project is to get low cost boards into the hands of as many people as possible so everyone can enjoy the project.  
 
 I would like to see these boards offered at cost or as close to at cost as possible.  
 
@@ -163,14 +163,14 @@ You are free to set your own price as you see fit.
 
 Every part of this project is open source, from the GP2040-CE firmware to the original Pico Fighting Board design and also this Open_Core0 design.  
 
-Donations are not necessary but always welcome!  I typicly use donations to pay for Discord boosts and try out new designs or send boards to people for testing, iterations and helping people get board setups that might not be in an economic position to get one themselves.
+Donations are not necessary but always welcome!  I typically use donations to pay for Discord boosts and try out new designs or send boards to people for testing, iterations and helping people get board setups that might not be in an economic position to get one themselves.
 
 https://www.paypal.com/donate/?hosted_button_id=2JMTZVCGLDYC2
 
 ## Revision History
 
 v1.0
-- Innitial design
+- Initial design
 
 ## Acknowledgements
 

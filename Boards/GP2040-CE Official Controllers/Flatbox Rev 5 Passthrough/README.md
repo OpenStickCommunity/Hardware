@@ -29,7 +29,7 @@ While BOM and CPL files are provided, it is recommended to order and assemble th
 
 ## How to order a board
 
-All of the boards so far have been ordered though JLCPCB.  Due to minimum order numbers you would get five of these at a time.  It is not recommended to have these assembed by JLC due to cost.  If you are looking to have them assembled you should check out another project that has an embedded RP2040.
+All of the boards so far have been ordered though JLCPCB.  Due to minimum order numbers you would get five of these at a time.  It is not recommended to have these assembled by JLC due to cost.  If you are looking to have them assembled you should check out another project that has an embedded RP2040.
 
 Please note that you will need to source and solder your own Waveshare RP2040-Zero board (or similar), passthrough port, tactile switches and hotswap sockets.
 
@@ -89,4 +89,3 @@ The case files are a modified version of the Flatbox Rev5 case remix by Additive
 The buttons were designed from scratch by SGFDevices located [HERE](https://github.com/sgfdevices/Bridget/tree/main/Buttons).
 
 ---
-

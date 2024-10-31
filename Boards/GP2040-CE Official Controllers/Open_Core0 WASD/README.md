@@ -27,7 +27,7 @@ A few immediate notes:
 
 The Open_Core0 WASD is an embedded SMD design with through hole components.  It is not recommended to assemble these yourself unless you have a setup to do SMD assembly.
 
-With the Open_Core0 WASD using an embedded RP2040 chip, we are able to access all of the additional GPIO pins that are not easily accessible on the standard Raspberry Pi Pico board.  This allows us to have many more options on the board so that people can make truly unique and custom contollers.
+With the Open_Core0 WASD using an embedded RP2040 chip, we are able to access all of the additional GPIO pins that are not easily accessible on the standard Raspberry Pi Pico board.  This allows us to have many more options on the board so that people can make truly unique and custom controllers.
 
 We have a small but passionate Discord group which you can access here, if interested: https://discord.com/invite/k2pxhke7q8
 
@@ -37,15 +37,15 @@ A massive thank you to FeralAI who made most of this possible!
 
 The Open_Core0 WADS has a new layout that was modified based on feedback from the community and pro level players.  It may not be the perfect layout for you and I encourage everyone to make whatever changes they want.  At this time I am not taking requests for changes to the layout.
 
-The Open_Core0 WASD also features an additonal `Up` button located between the left and right sets of keys.  This can be remapped via our web-config to any button you like.
+The Open_Core0 WASD also features an additional `Up` button located between the left and right sets of keys.  This can be remapped via our web-config to any button you like.
 
-Six auxillary buttons are located on the top left side of the board.  These represent Start / Select / Home / Capture / L3 / R3.
+Six auxiliary buttons are located on the top left side of the board.  These represent Start / Select / Home / Capture / L3 / R3.
 
-An 0.96" OLED has beed added to allow visibility into current controller settings.
+An 0.96" OLED has been added to allow visibility into current controller settings.
 
-There is an additional aux button located to the right of the OLED that is mapped to Turbo by defualt.  
+There is an additional aux button located to the right of the OLED that is mapped to Turbo by default.  
 
-There are two three position slide switches that are mapped by defualt as a LS/DP/RS slider and as a SOCD mode slider.
+There are two three position slide switches that are mapped by default as a LS/DP/RS slider and as a SOCD mode slider.
 
 There is a single two position slider that is set as a firmware based lockout switch.  This was done to allow you to customize what gets locked out when enabled.  This can be modified in the web-conifg app further to meet your needs.
 
@@ -78,12 +78,12 @@ Please note that we are not responsible for issues that arise from the manufactu
 
 Please note that I have gotten reports that JLC may not make the cutout for the USB passthrough properly, please check their files and ensure the board cutout is where it needs to be.
 
-You will also need the following hardware components to assembe the Open_Core0 WASD:
+You will also need the following hardware components to assemble the Open_Core0 WASD:
 - 0.96" OLED [AliExpress Link](https://www.aliexpress.com/item/1005003749784158.html) (make sure you get the module version)
 Note: You will need to take off the plastic part of the header on it otherwise the plexi will not lay flush!  You will also need to snip the legs after soldered on.
 - 7x M2x6mm spacer standoffs [AliExpress Link](https://www.aliexpress.com/item/1005003106030065.html)
 - 8x M2x5mm countersunk bolts [AliExpress Link](https://www.aliexpress.com/item/32968097507.html)
-- 6x M2x8mm buttonhead bolts [AliExpress Link](https://www.aliexpress.com/item/32967225441.html)
+- 6x M2x8mm button head bolts [AliExpress Link](https://www.aliexpress.com/item/32967225441.html)
 - 13x Choc v1 or Choc v2 switches
 - 12x Choc v1 or Choc v2 keycaps (normal 1U)
 - 1x Choc v1 or Choc v2 keycap (larger 2U)
@@ -149,7 +149,7 @@ Once these two files have been uploaded you can press the `Process BOM & CPL` bu
 
 You will likely get an error message here saying that one of the below parts won't be assembled due to missing date.  If this pops up and the part in question is `NONE1` then you can press `Continue` because `NONE1` is the OLED module and JLC cannot assemble those.
 
-9 - You will now see a list of components that will be used to assemble the boards.  If there are no listed issues here you can click on on the `NEXT` button. (note 6), (note 7)
+9 - You will now see a list of components that will be used to assemble the boards.  If there are no listed issues here you can click on the `NEXT` button. (note 6), (note 7)
 
 Note 6 - You can also use this page to omit parts from the assembly.  This can primarily be used to not include case side LEDs if you don't plan on offering the LED case in the future.  Please only do this if you understand what you are doing as omitting main parts of the design will lead to non-functioning boards.  We are not responsible for any boards that are non-functioning. 
 
@@ -200,7 +200,7 @@ All of the boards so far have been ordered though JLCPCB.  Due to minimum order 
 
 Note 1 - The size will come up as larger than the actual board due to how I designed the texture on it.  This is OK.
 
-Note 2 - There are only two current color choices for aluminum - white and black.  Black currently adds around $20 to the order while there is no additioanl charge for white.
+Note 2 - There are only two current color choices for aluminum - white and black.  Black currently adds around $20 to the order while there is no additional charge for white.
 
 Note 3 - This adds around $1 to the total cost of the order and is 100% worth doing as it will allow you one last chance to catch any issues that may have popped up.
 
@@ -213,20 +213,20 @@ If all looks well here you can click on the `SAVE TO CART` button.
 
 ## How to upload firmware
 
-If uploading the firmware before assembly you can hold the BootSel button on the Pico and plug the device into your computer.  It will show up as an external device.  Copy the `GP2040-CE_X.X.X_OPEN_CORE0.uf2` file to it from the prerelase firmware section and wait for the device to disconnect after copying completes.  
+If uploading the firmware before assembly you can hold the BootSel button on the Pico and plug the device into your computer.  It will show up as an external device.  Copy the `GP2040-CE_X.X.X_OPEN_CORE0.uf2` file to it from the prerelease firmware section and wait for the device to disconnect after copying completes.  
 
 If something goes wrong and you want to upload the firmware again (or if you have tested out the configuration tool and made a mistake) you can enter BootSel mode via either of the methods above and drag over the included `flash_nuke.uf2` file.  This file will take a moment to write to the Pico, once completed you will see the device disconnect and then re-connect as an external device.  After it has shown up again you can copy the same `GP2040-CE_X.X.X_OPEN_CORE0_WASD.uf2` firmware over to it again.
 
 
 ## Sales recommendations
 
-Through the licencing you are free to make and sell these boards in group buys or even commercial applications.  
+Through the licensing you are free to make and sell these boards in group buys or even commercial applications.  
 
-The intended purpose of this board, as well as the overall GP2040-CE project is to get low cost boards into the hands of as many people as possible to everyone can enjoy the project.  
+The intended purpose of this board, as well as the overall GP2040-CE project is to get low cost boards into the hands of as many people as possible so everyone can enjoy the project.  
 
 As this is a more premium product that will involve a large amount of manual labor to assemble there are some expected profits for those that are making them.
 
-As such, we have a recommend MSRP of $150 USD for the Open_Core0 WASD or $180 for the Open_Core0 with an included Mayflash MagicBoots v1.1 (for PS5 play on compatible titles).  This can be rounded to $165 USD or $195 USD shipped.  
+As such, we have a recommended MSRP of $150 USD for the Open_Core0 WASD or $180 for the Open_Core0 with an included Mayflash MagicBoots v1.1 (for PS5 play on compatible titles).  This can be rounded to $165 USD or $195 USD shipped.  
 
 You are free to set your own price as you see fit. 
 
@@ -235,7 +235,7 @@ You are free to set your own price as you see fit.
 
 Every part of this project is open source, from the GP2040-CE firmware to the original Pico Fighting Board design and also this Open_Core0 design.  
 
-Donations are not necessary but always welcome!  I typicly use donations to pay for Discord boosts and try out new designs or send boards to people for testing, iterations and helping people get board setups that might not be in an economic position to get one themselves.
+Donations are not necessary but always welcome!  I typically use donations to pay for Discord boosts and try out new designs or send boards to people for testing, iterations and helping people get board setups that might not be in an economic position to get one themselves.
 
 https://www.paypal.com/donate/?hosted_button_id=2JMTZVCGLDYC2
 
@@ -248,7 +248,7 @@ v2.0
 - Added stabilizer bar cutout for additional button (may or may not work)
 
 v1.0
-- Innitial design
+- Initial design
 
 
 ## Acknowledgements

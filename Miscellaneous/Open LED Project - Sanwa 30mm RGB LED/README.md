@@ -20,17 +20,17 @@ Changes from the original design:
 
 ## Summary
 
-The `Open LED Project` aims to offer open source RGB LEDs for various popular buttons.  These will be worked on over time, but there are no guarntees that all buttons will get an RGB LED board.  Please do not ask for specific buttons to be made.
+The `Open LED Project` aims to offer open source RGB LEDs for various popular buttons.  These will be worked on over time, but there are no guarantees that all buttons will get an RGB LED board.  Please do not ask for specific buttons to be made.
 
-These boards are deisgned to be hand soldered, not assembled.  An assembly version may be made in the future.  Due to the fact that these are double sided assembly costs will be high if those plans are released.
+These boards are designed to be hand soldered, not assembled.  An assembly version may be made in the future.  Due to the fact that these are double sided assembly costs will be high if those plans are released.
 
 These boards use standard WS2812B (5050) RGB LEDs.
 
 Notes:
 - These boards are only compatible with Sanwa 30mm buttons, not 24mm buttons.  
-- These boards are only comaptibe with clear Sanwa 30mm buttons
+- These boards are only compatible with clear Sanwa 30mm buttons
 - These boards are only compatible with genuine Sanwa 30mm buttons, they may not fit on clone buttons
-- There may be manufacturing variances from JLC between batches due to the small overall size and tight tolerences.  It is recommended to test fit before assembling.
+- There may be manufacturing variances from JLC between batches due to the small overall size and tight tolerances.  It is recommended to test fit before assembling.
 
 
 ## Board design choices
@@ -57,7 +57,7 @@ These parts can be sourced from AliExpress or most part sellers.
 
 ## How to order a board
 
-All of the boards so far have been ordered though JLCPCB.  Due to the small size it is recommened to order these in batches.  
+All of the boards so far have been ordered though JLCPCB.  Due to the small size it is recommended to order these in batches.  
 
 1 - Go to JLCPCB.com<br/>
 

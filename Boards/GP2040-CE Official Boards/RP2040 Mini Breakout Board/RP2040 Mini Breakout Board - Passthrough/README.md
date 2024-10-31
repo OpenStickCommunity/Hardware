@@ -5,7 +5,7 @@
 
 ## Attribution
 
-The following text must be included in any distribution of derivitives of this board. All links must also be included.
+The following text must be included in any distribution of derivatives of this board. All links must also be included.
 
 Based on RP2040 Advanced Breakout board from the GP2040-CE project located [HERE](https://github.com/OpenStickCommunity/Hardware/tree/main/Boards/GP2040-CE%20Official%20Boards/RP2040%20Advanced%20Breakout%20Board/RP2040%20Advanced%20Breakout%20Board%20-%20Passthrough)
 
@@ -20,11 +20,11 @@ Changes from the original design:
 
 The RP2040 Mini Breakout Board with USB Passthrough is a further spin off of the official embedded embedded design for the GP2040-CE project.  The Mini version with USB passthrough cuts down on a number of extras and offers a basic fightstick solution in a small form factor and a lower overall cost compared to the Advanced Breakout Board.
 
-You can find a pre-compiled .UF2 firmware file for the RP2040 Mini Breakout Board in the GP2040-CE release section under `GP2040-CE_0.X.X_RP2040MiniBreakoutBoard.uf2`.  This configuration will be maintained as long as the project is active and the pinout will not change.  Should there be another version of the board, it will be kept as a seperate hardware entry.
+You can find a pre-compiled .UF2 firmware file for the RP2040 Mini Breakout Board in the GP2040-CE release section under `GP2040-CE_0.X.X_RP2040MiniBreakoutBoard.uf2`.  This configuration will be maintained as long as the project is active and the pinout will not change.  Should there be another version of the board, it will be kept as a separate hardware entry.
 
 The RP2040 Mini Breakout Board with USB Passthrough is an embedded design based on the [RP2040 Advanced Breakout Board with USB Passthrough](https://github.com/OpenStickCommunity/Hardware/tree/main/Boards/GP2040-CE%20Official%20Boards/RP2040%20Advanced%20Breakout%20Board/RP2040%20Advanced%20Breakout%20Board%20-%20Passthrough) by TheTrain
 
-The RP2040 Mini Breakout Board with USB Passthrough is an embedded SMD design with through hole components.  It is not recommened to assemble these yourself unless you have a setup to do SMD assembly.
+The RP2040 Mini Breakout Board with USB Passthrough is an embedded SMD design with through hole components.  It is not recommended to assemble these yourself unless you have a setup to do SMD assembly.
 
 We have a small but passionate Discord group which you can access here if interested: https://discord.com/invite/k2pxhke7q8
 
@@ -34,7 +34,7 @@ I also now include a .STEP file for any 3D modeling that you may want to do with
 
 ## Board design choices
 
-The Mini Breakout Board with USB Passthrough uses a non-standard form factor.  This was not based on anything directly, rather just me playing around with sizes.  I am currently working on a micro versino of this as well.  Also included with this repo are some 3D print files to make a nice little box for it.  
+The Mini Breakout Board with USB Passthrough uses a non-standard form factor.  This was not based on anything directly, rather just me playing around with sizes.  I am currently working on a micro version of this as well.  Also included with this repo are some 3D print files to make a nice little box for it.  
 
 A 3pin (1x3pin) JST 2.00mm connector labeled can be found on the top side that allows for the connection of addressable RGB LEDs.  A list of compatible RGB LED types can be found HERE.
 
@@ -46,7 +46,7 @@ A 3pin (1x3pin) JST 2.00mm connector is located on the top side which allows for
 
 A USB-C port can be found on the top left side of the board.  USB-C was chosen as it is the current industry standard and can allow for very low profile builds should you choose to make a version of the board with depopulated headers.  
 
-A USB-A female port on can be found on the left side of the board which can be used for authentication in various modes or to connect external modules with.
+A USB-A female port can be found on the left side of the board which can be used for authentication in various modes or to connect external modules with.
 
 There are three buttons on the board:
   - A BootSel button, which can be held on plug-in to enter BootSel mode which is used to flash the device with firmware. 
@@ -128,11 +128,11 @@ Note 5 - This adds around $1 to the total cost of the order and is 100% worth do
 - For the `Add CPL File` you will need to choose the [CPL FILE](/Hardware%20files/CPL%20-%20RP2040%20Mini%20Breakout%20Board%20v7.5E%20-%20PT.csv) file that is located in the Hardware files folder<br/>
 Once these two files have been uploaded you can press the `Process BOM & CPL` button.
 
-9 - You will now see a list of components that will be used to assemble the boards.  If there are not listed issues here you can click on on the `NEXT` button. (note 6), (note 7)
+9 - You will now see a list of components that will be used to assemble the boards.  If there are not listed issues here you can click on the `NEXT` button. (note 6), (note 7)
 
-Note 6 - You can also use this page to omit parts from the assembly.  This can primarily be used to not include specific headers or the screw terminals.  Please only do this if you understand what you are doing as omiting main parts of the design will lead to non-functioning boards.  We are not responsible for any boards that are non-functioning. 
+Note 6 - You can also use this page to omit parts from the assembly.  This can primarily be used to not include specific headers or the screw terminals.  Please only do this if you understand what you are doing as omitting main parts of the design will lead to non-functioning boards.  We are not responsible for any boards that are non-functioning. 
 
-Note 7 - We have spent extensive time to ensure that the parts chosen will work for this board.  If there are any parts that are out of stock, or you get warnings about anything, we would recommend you not proceed unless you understand how to find replacmeent parts.  If you are unsure, please feel free to join up in the Discord and ask us.  It is not uncommon for JLCPCB to have part shortages.  Most of the parts listed here come back in stock in a few days.  If that is the case, you may need to wait to place your order until all needed parts are in stock.
+Note 7 - We have spent extensive time to ensure that the parts chosen will work for this board.  If there are any parts that are out of stock, or you get warnings about anything, we would recommend you not proceed unless you understand how to find replacement parts.  If you are unsure, please feel free to join up in the Discord and ask us.  It is not uncommon for JLCPCB to have part shortages.  Most of the parts listed here come back in stock in a few days.  If that is the case, you may need to wait to place your order until all needed parts are in stock.
 
 10 - There will now be a render of the board with parts on the Component Placements page.  Check this page to make sure that all parts are in the correct spots and orientation.  We have ordered based on these files before and they are known good.  If all looks well press the `NEXT` button. (note 8)
 
