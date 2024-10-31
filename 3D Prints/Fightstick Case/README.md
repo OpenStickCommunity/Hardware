@@ -57,7 +57,7 @@ Assembly:
 - The M4 45mm brass standoffs slide into the 8x hex sockets in the left and right main frame.  If these are tight please use a camp to force them in.  Do not heat them for inserting.  Future revisions will use an M4 heat insert.
 - The M3 bolts are used to secure the PCB to the right top panel.  Currently these just screw directly into the plate.  Future revisions will use an M3 heat insert on the top plate.
 - Four of the M4 12-16mm countersunk hex bolts are used to secure a Sanwa JLF or similar type joystick to the left top panel.  This has space in it for a second JLF type dust washer.  The JLF is then secured with 4x M4 flange nuts.
-- The two case halves are secured with 8x M4 25mm button top hex bolts and 8x M4 flang nuts.  The direction of these bolts is not important.  While normal nuts can be used flange nuts are recommend.
+- The two case halves are secured with 8x M4 25mm button top hex bolts and 8x M4 flange nuts.  The direction of these bolts is not important.  While normal nuts can be used, flange nuts are recommended.
 - The remaining 16 M4 12-16mm bolts are used to secure the top and bottom plates to the unit.  You can use many sizes here due to the 45mm standoffs being used.  It is possible to convert this to an art case.  To do that you can replace 8x or 4x of the top plate countersunk bolts with button top bolts.  Doing this would also require modifications to the top plate files to make the holes non-countersunk.
 - To mount a Neutrik passthrough you will need the 2x M3 12mm countersunk hex bolts and 2x M3 nuts.  The Neutrik passthrough will be a tight fit and may need to be clamped into place.
 

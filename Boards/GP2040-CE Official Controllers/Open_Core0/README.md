@@ -26,7 +26,7 @@ A few immediate notes:
 
 The Open_Core0 is an embedded SMD design with through hole components.  It is not recommended to assemble these yourself unless you have a setup to do SMD assembly.
 
-With the Open_Core0 using an embedded RP2040 chip, we are able to access all of the additional GPIO pins that are not easily accessible on the standard Raspberry Pi Pico board.  This allows us to have many more options on the board so that people can make truly unique and custom contollers.
+With the Open_Core0 using an embedded RP2040 chip, we are able to access all of the additional GPIO pins that are not easily accessible on the standard Raspberry Pi Pico board.  This allows us to have many more options on the board so that people can make truly unique and custom controllers.
 
 We have a small but passionate Discord group which you can access here, if interested: https://discord.com/invite/k2pxhke7q8
 
@@ -36,13 +36,13 @@ A massive thank you to FeralAI who made most of this possible!
 
 The Open_Core0 has a new layout that was modified based on feedback from the community and pro level players.  It may not be the perfect layout for you and I encourage everyone to make whatever changes they want.  At this time I am not taking requests for changes to the layout.
 
-Six auxillary buttons are located on the top left side of the board.  These represent Start / Select / Home / Capture / L3 / R3.
+Six auxiliary buttons are located on the top left side of the board.  These represent Start / Select / Home / Capture / L3 / R3.
 
-An 0.96" OLED has beed added to allow visibility into current controller settings.
+An 0.96" OLED has been added to allow visibility into current controller settings.
 
 There are two additional aux buttons located to the right of the OLED that are currently unmapped.  These are designed to be used with addons in GP2040-CE like turbo, functions, macros (coming soon) etc.
 
-There are two three position slide switches that are mapped by defualt as a LS/DP/RS slider and as a SOCD mode slider.
+There are two three position slide switches that are mapped by default as a LS/DP/RS slider and as a SOCD mode slider.
 
 There is a single two position slider that is set as a firmware based lockout switch.  This was done to allow you to customize what gets locked out when enabled.  This can be modified in the web-conifg app further to meet your needs.
 
@@ -73,7 +73,7 @@ These boards have been designed to be fully assembled by JLC PCB less the OLED a
 
 Please note that we are not responsible for issues that arise from the manufacturing of these boards done through JLC PCB or any other manufacturer.  These board files have been ordered and tested for functionality.  
 
-You will also need the following hardware components to assembe the Open_Core0:
+You will also need the following hardware components to assemble the Open_Core0:
 - 0.96" OLED [AliExpress Link](https://www.aliexpress.com/item/1005003749784158.html) (make sure you get the module version)
 Note: You will need to take off the plastic part of the header on it otherwise the plexi will not lay flush!  You will also need to snip the legs after soldered on.
 - 7x M2x6mm spacer standoffs [AliExpress Link](https://www.aliexpress.com/item/1005003106030065.html)
@@ -193,7 +193,7 @@ All of the boards so far have been ordered though JLCPCB.  Due to minimum order 
 
 Note 1 - The size will come up as larger than the actual board due to how I designed the texture on it.  This is OK.
 
-Note 2 - There are only two current color choices for aluminum - white and black.  Black currently adds around $20 to the order while there is no additioanl charge for white.
+Note 2 - There are only two current color choices for aluminum - white and black.  Black currently adds around $20 to the order while there is no additional charge for white.
 
 Note 3 - This adds around $1 to the total cost of the order and is 100% worth doing as it will allow you one last chance to catch any issues that may have popped up.
 
@@ -213,13 +213,13 @@ If something goes wrong and you want to upload the firmware again (or if you hav
 
 ## Sales recommendations
 
-Through the licencing you are free to make and sell these boards in group buys or even commercial applications.  
+Through the licensing you are free to make and sell these boards in group buys or even commercial applications.  
 
-The intended purpose of this board, as well as the overall GP2040-CE project is to get low cost boards into the hands of as many people as possible to everyone can enjoy the project.  
+The intended purpose of this board, as well as the overall GP2040-CE project is to get low cost boards into the hands of as many people as possible so everyone can enjoy the project.  
 
 As this is a more premium product that will involve a large amount of manual labor to assemble there are some expected profits for those that are making them.
 
-As such, we have a recommend MSRP of $150 USD for the Open_Core0 or $180 for the Open_Core0 with an included Mayflash MagicBoots v1.1 (for PS5 play on compatible titles).  This can be rounded to $165 USD or $195 USD shipped.  
+As such, we have a recommended MSRP of $150 USD for the Open_Core0 or $180 for the Open_Core0 with an included Mayflash MagicBoots v1.1 (for PS5 play on compatible titles).  This can be rounded to $165 USD or $195 USD shipped.  
 
 You are free to set your own price as you see fit. 
 
@@ -228,7 +228,7 @@ You are free to set your own price as you see fit.
 
 Every part of this project is open source, from the GP2040-CE firmware to the original Pico Fighting Board design and also this Open_Core0 design.  
 
-Donations are not necessary but always welcome!  I typicly use donations to pay for Discord boosts and try out new designs or send boards to people for testing, iterations and helping people get board setups that might not be in an economic position to get one themselves.
+Donations are not necessary but always welcome!  I typically use donations to pay for Discord boosts and try out new designs or send boards to people for testing, iterations and helping people get board setups that might not be in an economic position to get one themselves.
 
 https://www.paypal.com/donate/?hosted_button_id=2JMTZVCGLDYC2
 

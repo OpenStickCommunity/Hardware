@@ -19,9 +19,9 @@ Changes from the original design:
 
 ## Summary
 
-If you are planning to order a larger amount of boards (100+) and want to maxalize quality while minimizing defect rates please follow these order steps and not the ones on the main RP2040 Advanced Breakout Board v5.6 page.
+If you are planning to order a larger amount of boards (100+) and want to maximize quality while minimizing defect rates please follow these order steps and not the ones on the main RP2040 Advanced Breakout Board v5.6 page.
 
-If you are intested in having JLC do some or all of the testing and setup for you they can do these additional services for extra money.  I needed to contact `support@jlcpcb.com` with my list of requests and then note it on my order.  This resulted in an additional supplemental charge being added to my order that had to be paid before they proceeded with the order.  Through my experiences this added around $1.50 to each board but they have stated this may go up in the future.
+If you are interested in having JLC do some or all of the testing and setup for you they can do these additional services for extra money.  I needed to contact `support@jlcpcb.com` with my list of requests and then note it on my order.  This resulted in an additional supplemental charge being added to my order that had to be paid before they proceeded with the order.  Through my experiences this added around $1.50 to each board but they have stated this may go up in the future.
 
 Here was the process that I asked them to follow:<br/>
 "1 - Plug in via USB-C<br/>
@@ -88,7 +88,7 @@ Under PCB Assembly `Advanced Options`<br/>
 - Add paste for unpopulated pad & step stencil opening = No<br/>
 - Remark = *Note 3<br/>
 
-Note 1 - It is recommended to have board cleaning done on larger batches.  Board cleaning is $0.15 per board and will be charged to you after you have paid you innitial bill.  This will be sent as a supplimental bill that must be paid before production begins on your order.
+Note 1 - It is recommended to have board cleaning done on larger batches.  Board cleaning is $0.15 per board and will be charged to you after you have paid you initial bill.  This will be sent as a supplemental bill that must be paid before production begins on your order.
 
 Note 2 - It is recommended to have board & edge rails depaneled before delivery.  The cost to have this done is $1.40 per order + $0.30 per board.  I assure you that you do not want to depanel 100x boards on your own.  
 
@@ -105,21 +105,21 @@ Once these two files have been uploaded you can press the `Process BOM & CPL` bu
 
 Note 4 - You will likely get an error about H3 and H4 not existing in the BOM.  These are the two optional headers for the debug and USB direct ports.  You can click `Continue`.
 
-9 - You will now see a list of components that will be used to assemble the boards.  If there are not listed issues here and there are no shortfalls on any parts you can click on on the `NEXT` button. (*Note 5), (*Note 6), (*Note 7), (note 8), (note10)
+9 - You will now see a list of components that will be used to assemble the boards.  If there are not listed issues here and there are no shortfalls on any parts you can click on the `NEXT` button. (*Note 5), (*Note 6), (*Note 7), (note 8), (note10)
 
 Note 5 - You can also use this page to omit parts from the assembly.  This can primarily be used to not include specific headers or the screw terminals.  Please only do this if you understand what you are doing as omitting main parts of the design will lead to non-functioning boards.  We are not responsible for any boards that are non-functioning. 
 
-Note 6 - We have spent extensive time to ensure that the parts chosen will work for this board.  If there are any parts that are out of stock, or you get warnings about anything we would recommend you not proceed unless you understand how to find replacmeent parts.  If you are unsure, please feel free to join up in the Discord and ask us.  It is not uncommon for JLCPCB to have part shortages.  Most of the parts listed here come back in stock in a few days.  If that is the case, you may need to wait to place your order until all needed parts are in stock.
+Note 6 - We have spent extensive time to ensure that the parts chosen will work for this board.  If there are any parts that are out of stock, or you get warnings about anything we would recommend you not proceed unless you understand how to find replacement parts.  If you are unsure, please feel free to join up in the Discord and ask us.  It is not uncommon for JLCPCB to have part shortages.  Most of the parts listed here come back in stock in a few days.  If that is the case, you may need to wait to place your order until all needed parts are in stock.
 
 Note 7 - Occasionally JLC will not correctly load the BOM file and there will be parts that are not linked to their proper part number.  You can either reference the BOM file directly and update these or try loading the BOM file again into JLC.  Please note that we are not responsible for board made by JLCPCB or any other manufacturer that do note work due to incorrect parts being entered into the parts selector.
 
-Note 8 - Some of the basic LEDs are being phased out by JLC.  Unless you have stock of them already the 0603 yellow LED (part number C72038) can be used.  If you want a different color you can explore other 0603 footprint LEDs that will meet your needs.  To replece the LED click on the magnifying glass image for the line with `LED3` on it.  In the `search` field put in `C72038` and click `search`.  Check the stock of this part listed under `JLCPCB Stock` and if there are enough you can click on the `Select` button at the end of the line.
+Note 8 - Some of the basic LEDs are being phased out by JLC.  Unless you have stock of them already the 0603 yellow LED (part number C72038) can be used.  If you want a different color you can explore other 0603 footprint LEDs that will meet your needs.  To replace the LED click on the magnifying glass image for the line with `LED3` on it.  In the `search` field put in `C72038` and click `search`.  Check the stock of this part listed under `JLCPCB Stock` and if there are enough you can click on the `Select` button at the end of the line.
 
 10 - There will now be a render of the board with parts on the Component Placements page.  Check this page to make sure that all parts are in the correct spots and orientation.  We have ordered based on these files before and they are known good.  If all looks well press the `NEXT` button. (*Note 11)(*Note 12)
 
 Note 11 - Please note that we are not responsible for boards made by JLCPCB or any other manufacturer that do not work.
 
-Note 12 - In some cases you will get a pop up box called `Confirm Parts Placement` letting you know they are force adding the `Confirm PArts Placement` and `Confirm PCB Production File` options.  This is OK, we have already selected them.  You can click on `OK`.
+Note 12 - In some cases you will get a pop up box called `Confirm Parts Placement` letting you know they are force adding the `Confirm Parts Placement` and `Confirm PCB Production File` options.  This is OK, we have already selected them.  You can click on `OK`.
 
 11 - The quote & order page will give you a breakdown of the costs associated with the boards and assembly parts based on the quantity you have chosen. This does not include shipping.  Shipping will be calculated at a further step. 
 - For Product Description I typically choose `Other` `Other` and type in `Controller board`.
@@ -128,4 +128,4 @@ If all looks well here you can click on the `SAVE TO CART` button.
 
 12 - The `Secure Checkout` process will be different based on your location in the world.  We recommend researching your shipping options to choose the one that is right for your application. 
 
-Please remember that if you selected the `board cleaning`, `depaneling` and are having additinoal services done like flashing etc you may get additinoal supplementry bills that must also be paid before prduction is started.
+Please remember that if you selected the `board cleaning`, `depaneling` and are having additional services done like flashing etc you may get additional supplementary bills that must also be paid before production is started.

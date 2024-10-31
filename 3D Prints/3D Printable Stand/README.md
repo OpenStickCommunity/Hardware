@@ -23,7 +23,7 @@ Changes from the original design:
 
 ## Summary
 
-These are two 3D Printable Stands in small (and large), but well balanaced, designs for holding sticks like the Open_Core0, Flatbox and other small (and large) board designs. 
+These are two 3D Printable Stands in small (and large), but well balanced, designs for holding sticks like the Open_Core0, Flatbox and other small (and large) board designs. 
 
 
 ### Printing tips
@@ -34,11 +34,11 @@ Nozzle: 0.2mm steel
 Sheet: Textured PEI
 Filament: Bambu Lab Matte Black PLA
 Layer height: 0.1mm
-Outter walls: 6
+Outer walls: 6
 Infill percentage: 15%
 Infill type: Honeycomb
 
-If printing on a larger nozzle like the 0.4mm you can do 3 outter walls.
+If printing on a larger nozzle like the 0.4mm you can do 3 outer walls.
 
 
 ## Sales recommendations

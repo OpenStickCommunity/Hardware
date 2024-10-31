@@ -5,7 +5,7 @@
 ## Summary
 This is the installation guide for the USB passthrough kit.  Please make sure that you follow all steps here!  If you run into any trouble and need more help please join the OpenStick [Discord](https://discord.gg/k2pxhke7q8).
 
-This kit is primarily designed to work with the RP2040 Advanced Breakout Board although it can be used with most RP2040 devices as long as you have appropiate pins available.  If you do not have a RP2040 Advanced Breakout Board you can jump to THIS section where I go over install on a Raspberry Pi Pico.
+This kit is primarily designed to work with the RP2040 Advanced Breakout Board although it can be used with most RP2040 devices as long as you have appropriate pins available.  If you do not have a RP2040 Advanced Breakout Board you can jump to THIS section where I go over install on a Raspberry Pi Pico.
 
 ![RP2040 Advanced Breakout Board](Assets/RP2040_Advanced_Breakout_Boards.JPG)
 
@@ -14,7 +14,7 @@ This kit is primarily designed to work with the RP2040 Advanced Breakout Board a
 ## Installation Guide
 
 Workspace Setup:
-Prepare a clean work surface and get your RP2040 ADvanced Breakout Board, USB passthough board and cables ready.
+Prepare a clean work surface and get your RP2040 ADvanced Breakout Board, USB passthrough board and cables ready.
 
 ![USB Passthrough Board](Assets/USB_Passthrough_Kit_with_RP2040_Advanced_Breakout_Board.JPG)
 
@@ -22,7 +22,7 @@ Prepare a clean work surface and get your RP2040 ADvanced Breakout Board, USB pa
 
 Step 1:
 
-Take the USB passthough board and place it on a clean surface.
+Take the USB passthrough board and place it on a clean surface.
 
 ![Step_01](Assets/Step_01.JPG)
 
@@ -96,7 +96,7 @@ Firmware update and web-configuration:
 
 In the following steps we will be updating the firmware on your RP2040 Advanced Breakout Board and then making the necessary changes to web-configuration get you up and running.  If you prefer to not play around in the web-configuration, I have created a special version of the firmware with all of the necessary changes already made which can be found [HERE](https://github.com/OpenStickCommunity/Hardware/blob/main/USB%20Passthrough%20Board/Vendor%20resources/Firmware/GP2040-CE_0.7.4_RP2040ADVANCEDBREAKOUTBOARD_USBPASSTHROUGH_ENABLED.uf2). 
 
-If you download the linked file you can skip to Step 12.  Follow Step 12, skip Step 13 beacuse you have already downloaded the needed file and then follow Step 14.  Once that is finished you are setup and ready to go.
+If you download the linked file you can skip to Step 12.  Follow Step 12, skip Step 13 because you have already downloaded the needed file and then follow Step 14.  Once that is finished you are setup and ready to go.
 
 If you do not want to download the pre-compiled firmware please read on!
 
@@ -274,14 +274,3 @@ Congratulations!
 You have successfully updated your RP2040 Advanced Breakout Board, connected the USB passthrough board, made the necessary changes in web-config to get everything working and plugged in a device to authenticate with.
 
 Go play some PS5 fighting games :)
-
-
-
-
-
-
-
-
-
-
-
