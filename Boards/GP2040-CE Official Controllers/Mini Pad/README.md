@@ -60,7 +60,7 @@ Optionally, you can also print the second design of the fram:
 - 1x [Main Body (type 2)](3D%20print%20files/Mini%20Pad%20-%20Main%20Body%20(type%202).stl)
 
 You can also try one of two different designs for side inserts:
-- 1x [Side Insert (type 1)](3D%20print%20files/Mini%20Pad%20-%20Side%20Insert%20(type%201).stl
+- 1x [Side Insert (type 1)](3D%20print%20files/Mini%20Pad%20-%20Side%20Insert%20(type%201).stl)
 - 1x [Side Insert (type 2)](3D%20print%20files/Mini%20Pad%20-%20Side%20Insert%20(type%202).stl)
 
 
