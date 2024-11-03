@@ -33,6 +33,7 @@ GP2040-CE Official Controllers
 - [Zero_Rhythm v1.0](/Boards/GP2040-CE%20Official%20Controllers/Zero%20Rhythm/README.md) - Designed by TheTrain
 - [Pocket Pad](/Boards/GP2040-CE%20Official%20Controllers/Pocket%20Pad/README.md) - Designed by TheTrain
 - [Pocket Pad WASD](/Boards/GP2040-CE%20Official%20Controllers/Pocket%20Pad%20WASD/README.md) - Designed by TheTrain
+- [Mini Pad](/Boards/GP2040-CE%20Official%20Controllers/Mini%20Pad/README.md) - Designed by TheTrain
 
 Retail Stick Replacement Boards
 
