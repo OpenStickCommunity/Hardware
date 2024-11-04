@@ -30,9 +30,9 @@ There are two versions of this, one with RGB LED and one without.
 
 The reason I made this was to allow me to launch Nintendo Switch games at the tap of a card and not have to navigate to them manually.  It also allows me to hide buttons like `Home`, `Capture` and `- (select / insert coin)` from the main control panel.
 
-Please note that I am not very strong in code writing so there are likely a number of optamizations which could be done.  
+Please note that I am not very strong in code writing so there are likely a number of optimizations which could be done.  
 
-For this to work, you will need to write the include Arduino code to an RP2040 based device like the Pico or the Waveshare RP2040 Zero and then connect the pins on the boards directly to your RP2040 based board running GP2040-CE.  In my case I have the Ardunio code running on a Waveshare RP2040 Zero which is connected to an RP2040 Advanced Breakout Board.
+For this to work, you will need to write the included Arduino code to an RP2040 based device like the Pico or the Waveshare RP2040 Zero and then connect the pins on the boards directly to your RP2040 based board running GP2040-CE.  In my case I have the Arduino code running on a Waveshare RP2040 Zero which is connected to an RP2040 Advanced Breakout Board.
 
 I would not consider this project finished, but it is currently in a good working state.  
 
@@ -78,7 +78,7 @@ The Arduino sketch allows you to read the UID of NFC cards and stickers that are
 
 There is a good amount of documentation inside the sketch about what everything does and how to use it.
 
-As a summart, when you tap a card or sticker the sketch will check the UID.  If the UID is in the allowed list it will make the LEDs (if you have them connected) turn green and do the inputs you have specified in the sketch.  If the UID is not in the allowed list it will make the LEDs (if you have them connected) turn red.  When an allowed UID is tapped it will process a series of inputs that can be used to do many things on a connected controller.
+As a summary, when you tap a card or sticker the sketch will check the UID.  If the UID is in the allowed list it will make the LEDs (if you have them connected) turn green and do the inputs you have specified in the sketch.  If the UID is not in the allowed list it will make the LEDs (if you have them connected) turn red.  When an allowed UID is tapped it will process a series of inputs that can be used to do many things on a connected controller.
 
 My examples are simple and allow you to input single buttons but you can also do a series of buttons to launch a game, press a combination of buttons for a shortcut or even press buttons that are not otherwise connected to your setup.
 

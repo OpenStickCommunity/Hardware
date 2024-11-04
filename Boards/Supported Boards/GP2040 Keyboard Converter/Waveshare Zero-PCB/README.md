@@ -77,12 +77,15 @@ If something goes wrong and you want to upload the firmware again (or if you hav
 
 Through the licensing, you are free to make and sell these boards in group buys or even commercial applications.  
 
-The intended purpose of this board, as well as the overall GP2040-CE project is to get low cost boards into the hands of as many people as possible to everyone can enjoy the project.  
+The intended purpose of this board, as well as the overall GP2040-CE project is to get low cost boards into the hands of as many people as possible so everyone can enjoy the project.  
 
-As such, we have a recommend MSRP of $20 USD for the GP2040-CE Keyboard Converter or $30 USD with free shipping within the USA or Canada.
+As such, we have a recommended MSRP of $20 USD for the GP2040-CE Keyboard Converter or $30 USD with free shipping within the USA or Canada.
 
 You are free to set your own price as you see fit. 
 ## Acknowledgements
 
 - [FeralAI](https://github.com/FeralAI) for starting the GP2040 project and the original design of the Pico Fighting Board
 - Everyone that works on the GP2040-CE project to make it the best controller firmware around
+
+
+

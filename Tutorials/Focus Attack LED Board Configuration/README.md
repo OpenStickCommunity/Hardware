@@ -6,13 +6,13 @@
 
 This is the unofficial installation guide for the Focus Attack LED kit.  Please make sure that you read this guide fully before asking questions on our Discord server.  
 
-** Please note that the GP2040-CE / Open Stick Community is not responsible for any damages that happen to the LED modules, your board or any other pcrephials from incorrect instillation or configuration. **
+** Please note that the GP2040-CE / Open Stick Community is not responsible for any damages that happen to the LED modules, your board or any other peripherals from incorrect installation or configuration. **
 
 If you have read this fully and are still running into trouble and need more help please join the OpenStick [Discord](https://discord.gg/k2pxhke7q8).
 
 ** Please note that you will need to contact Focus Attack if there are any hardware based issues with your LED kit. **
 
-This kit is primarily designed to work with the RP2040 Advanced Breakout Board although it can be used with most RP2040 devices as long as you have appropiate pins available.  This guide has been centered around the RP2040 Advanced Breakout Board v5.6 which is also sold at Focus Attack.
+This kit is primarily designed to work with the RP2040 Advanced Breakout Board although it can be used with most RP2040 devices as long as you have appropriate pins available.  This guide has been centered around the RP2040 Advanced Breakout Board v5.6 which is also sold at Focus Attack.
 
 The LED kits can be found on Focus Attack [HERE](https://focusattack.com/fa-30mm-button-rgb-led-8-pak-for-gp-2040-ce/).
 Focus Attack also has a dedicated website section where individual parts can be purchased [HERE](https://focusattack.com/hardware-pcb/by-interest/led-lighting/).
@@ -46,7 +46,7 @@ Step 1:
 
 Take the short `Straight` cable and plug it into the side marked `IN` on the LED adapter board.  
 
-Note: This may have come connected to your LED adapter board already.  If so, plese check the cable to ensure it is the proper `Straight` cable.  If it is not, please replace it with a `Straight` cable.
+Note: This may have come connected to your LED adapter board already.  If so, please check the cable to ensure it is the proper `Straight` cable.  If it is not, please replace it with a `Straight` cable.
 
 ![FA_LED_06](Assets/FA_LED_06.JPG)
 
@@ -54,7 +54,7 @@ Note: This may have come connected to your LED adapter board already.  If so, pl
 
 Step 2:
 
-Plught the  other end of the `Straight` cable into the RP2040 Advanced Breakout Board v5.6 in the slot labeled `RGB LEDs`.
+Plug the  other end of the `Straight` cable into the RP2040 Advanced Breakout Board v5.6 in the slot labeled `RGB LEDs`.
 
 Note: If you have another version of the RP2040 Advanced Breakout Board or a board by a different maker the location and label may be different.  If you are having trouble finding this on another board please contact the board maker.
 
@@ -85,7 +85,7 @@ Plug in your RP2040 Advanced Breakout Board v5.6 to ensure that you are seeing t
 
 Note: If they are not, please go back to the beginning of this tutorial and ensure you have connected the correct wires to the correct places.  If you are still having issues try connecting to a different LED satellite.  If that satellite works but the first one does not ensure you are connecting to the right connector on the satellite.  If you are sure you are connecting to the correct connector on the satellite and you are still not getting anything on one satellite but are getting something on another you may have a bad satellite and should contact Focus Attack.
 
-Note 2: You can take this as an opportunity to test all of your satellites before doing a full install.  Please ensure that you unplug the RP2040 Advanced Breakout Board v5.6 inbetween each test.
+Note 2: You can take this as an opportunity to test all of your satellites before doing a full install.  Please ensure that you unplug the RP2040 Advanced Breakout Board v5.6 in between each test.
 
 ![FA_LED_11](Assets/FA_LED_11.JPG)
 
@@ -101,7 +101,7 @@ Locate the connector marked `out` on the first LED satellite and the connector m
 
 ![FA_LED_13](Assets/FA_LED_13.JPG)
 
-Once connected your LED satellites should look somehthing like this.
+Once connected your LED satellites should look something like this.
 
 ![FA_LED_14](Assets/FA_LED_14.JPG)
 
@@ -113,9 +113,9 @@ Here is what your setup may look like after you have connected 5 LED satellites.
 
 ![FA_LED_16](Assets/FA_LED_16.JPG)
 
-And here is what it looks like when you have 5 LED satelites set to show solid green.
+And here is what it looks like when you have 5 LED satellites set to show solid green.
 
-Note: By default you will see a chasing rainbow animation.  This can be change via a hot-key configuration.  Please consult the main GP2040-CE website for more information on this.
+Note: By default you will see a chasing rainbow animation.  This can be changed via a hot-key configuration.  Please consult the main GP2040-CE website for more information on this.
 
 ![FA_LED_17](Assets/FA_LED_17.JPG)
 
@@ -130,7 +130,7 @@ Now that your LEDs are connected you will notice that pressing a button only res
 We will need to go into the GP2040-CE web-config to change that.  In order to access web-config you do one of the following:
 
 1 - Hold the `web-config` button on the RP2040 Advanced Breakout Board while plugging it into the computer.
-2 - Hold your `start` button while while plugging it into the computer.
+2 - Hold your `start` button while plugging it into the computer.
 3 - Hold your `start`, `P1` and `P2` buttons for 5 seconds while the RP2040 Advanced Breakout Board is already plugged in.
 
 ![FA_LED_19](Assets/FA_LED_19.JPG)
@@ -159,7 +159,7 @@ Scroll down to the bottom of the page and click on the `Save` button.
 
 ![FA_LED_24](Assets/FA_LED_24.png)
 
-You should see the following message pop up indicating that the save was sucessful.
+You should see the following message pop up indicating that the save was successful.
 
 ![FA_LED_25](Assets/FA_LED_25.png)
 
@@ -173,7 +173,7 @@ This order needs to match the order that you have installed the LED satellites i
 
 As an example, if you connected your LED satellites as `P1` -> `K1` -> `P2` -> `K2` etc you will need to drag the `Assigned Buttons` into that order as well.
 
-Note: If you do not have any LED satellites connected to the main direcitons `Up`, `Down`, `Left` or `Right` you cna drag those from the right column to the left one.
+Note: If you do not have any LED satellites connected to the main directions `Up`, `Down`, `Left` or `Right` you can drag those from the right column to the left one.
 
 ![FA_LED_26](Assets/FA_LED_26.png)
 

@@ -40,7 +40,7 @@ These boards are designed to be hand assembled after you get the boards from JLC
 
 This design includes both SMD and through hole parts. 
 
-You will also need the following hardware components to assembe the Zero_Rhythm:
+You will also need the following hardware components to assemble the Zero_Rhythm:
 - Waveshare RP2040 Zero or RP2040 Super Mini board (found commonly on Amazon and AliExpress)
 - 0.96" OLED [AliExpress Link](https://www.aliexpress.com/item/1005003749784158.html) (make sure you get the module version)
 Note: You will need to take off the plastic part of the header on it otherwise the plexi will not lay flush!  You will also need to snip the legs after soldered on.
@@ -137,11 +137,11 @@ To get into web-config you can put it back in bootsel mode and put the `force_we
 
 ## Sales recommendations
 
-Through the licencing you are free to make and sell these boards in group buys or even commercial applications.  
+Through the licensing you are free to make and sell these boards in group buys or even commercial applications.  
 
-The intended purpose of this board, as well as the overall GP2040-CE project is to get low cost boards into the hands of as many people as possible to everyone can enjoy the project.  
+The intended purpose of this board, as well as the overall GP2040-CE project is to get low cost boards into the hands of as many people as possible so everyone can enjoy the project.  
 
-I have a recommend MSRP of $100 USD shipped for the Zero_Rhythm. 
+I have a recommended MSRP of $100 USD shipped for the Zero_Rhythm. 
 
 You are free to set your own price as you see fit. 
 
@@ -150,14 +150,14 @@ You are free to set your own price as you see fit.
 
 Every part of this project is open source, from the GP2040-CE firmware to the original Pico Fighting Board design and also this Open_Core0 design.  
 
-Donations are not necessary but always welcome!  I typicly use donations to pay for Discord boosts and try out new designs or send boards to people for testing, iterations and helping people get board setups that might not be in an economic position to get one themselves.
+Donations are not necessary but always welcome!  I typically use donations to pay for Discord boosts and try out new designs or send boards to people for testing, iterations and helping people get board setups that might not be in an economic position to get one themselves.
 
 https://www.paypal.com/donate/?hosted_button_id=2JMTZVCGLDYC2
 
 ## Revision History
 
 v1.0
-- Innitial design
+- Initial design
 
 
 ## Acknowledgements

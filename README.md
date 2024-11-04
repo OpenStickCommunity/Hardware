@@ -78,7 +78,7 @@ Any design submitted to this repository must be submitted by the original copyri
 
 # Copyright
 
-All copyrights are retained by the original author(s) unless the copyright is explicity transferred to the Open Stick Community.
+All copyrights are retained by the original author(s) unless the copyright is explicitly transferred to the Open Stick Community.
 
 # Licensing
 

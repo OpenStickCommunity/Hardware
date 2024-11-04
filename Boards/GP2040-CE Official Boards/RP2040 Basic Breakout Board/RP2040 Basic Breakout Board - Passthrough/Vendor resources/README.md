@@ -4,7 +4,7 @@
 
 ## Attribution
 
-The following text must be included in any distribution of derivitives of this board. All links must also be included.
+The following text must be included in any distribution of derivatives of this board. All links must also be included.
 
 Based on RP2040 Advanced Breakout board from the GP2040-CE project located at https://github.com/OpenStickCommunity/Hardware/tree/main/RP2040%20Advanced%20Breakout%20Board
 
@@ -22,6 +22,6 @@ The GP2040-CE team heavily recommends that you include a printout of the `GP2040
 
 - This has been formatted so that it will print on normal 4x6 thermal stickers (which I presume most vendors will have).
 
-There is also an included `GP2040-CE - Quick Refernce Card` which includes the default GP2040-CE shortcuts, LED hotkeys and a table of the button mappings.
+There is also an included `GP2040-CE - Quick Reference Card` which includes the default GP2040-CE shortcuts, LED hotkeys and a table of the button mappings.
 
 - This has been sized at 80mm x 51mm to fit within the safe area of most business card printing providers, and a batch from Moo UK has been tested successfully. It can also be scaled up as needed due to the high resolution of the PDF.  

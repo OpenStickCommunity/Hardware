@@ -19,13 +19,13 @@ Changes from the original design:
 
 The RP2040 Advanced Breakout Board is the official embedded design for the GP2040-CE project.
 
-You can find a pre-compiled .UF2 firmware file for the RP2040 Advanced Breakout Board in the GP2040-CE release section under `GP2040-CE_0.X.X_RP2040AdvancedBreakoutBoard.uf2`.  This configuration will be maintained as long as the project is active and the pinout will not change.  Should there be another version of the board, it will be kept as a seperate hardware entry.
+You can find a pre-compiled .UF2 firmware file for the RP2040 Advanced Breakout Board in the GP2040-CE release section under `GP2040-CE_0.X.X_RP2040AdvancedBreakoutBoard.uf2`.  This configuration will be maintained as long as the project is active and the pinout will not change.  Should there be another version of the board, it will be kept as a separate hardware entry.
 
 The RP2040 Advanced Breakout Board is an embedded design based on the original Pico Fighting Board (https://github.com/FeralAI/PicoFightingBoard) by FeralAI.
 
 The RP2040 Advanced Breakout Board is an embedded SMD design with through hole components.  It is not recommended to assemble these yourself unless you have a setup to do SMD assembly.
 
-With the RP2040 Advanced Breakout Board using an embedded RP2040 chip, we are able to access all of the additional GPIO pins that are not easily accessible on the standard Raspberry Pi Pico board.  This allows us to have many more options on the board so that people can make truly unique and custom contollers.
+With the RP2040 Advanced Breakout Board using an embedded RP2040 chip, we are able to access all of the additional GPIO pins that are not easily accessible on the standard Raspberry Pi Pico board.  This allows us to have many more options on the board so that people can make truly unique and custom controllers.
 
 We have a small but passionate Discord group which you can access here if interested: https://discord.com/invite/k2pxhke7q8
 
@@ -37,9 +37,9 @@ The Brook form factor was chosen due to its compatibility with a number of exist
 
 A 4pin (1x4pin) JST 2.00mm connector labeled `expansion` can be found on the left side that allows for either a compatible OLED display to be connected or general I2C expansion add-ons.
 
-A 4pin (1x4pin) 2.54mm connector labeled `toggle` can be found on the left side that allows for the connection of common toggle switches found on some arcade sticks.  These are generally used to actions like a LS/DP/RS or SOCD toggle.  As these are normal GPIO pins they can be mapped to anything you wish via the web-config.
+A 4pin (1x4pin) 2.54mm connector labeled `toggle` can be found on the left side that allows for the connection of common toggle switches found on some arcade sticks.  These are generally used for actions like a LS/DP/RS or SOCD toggle.  As these are normal GPIO pins they can be mapped to anything you wish via the web-config.
 
-A 3pin (1x3pin) JST 2.00mm connector labeled `RGB LED` can be found on the left side that allows for the connection of addressible RGB LEDs.  Our code is compatible with most WS2812B and SK6812 LEDs.
+A 3pin (1x3pin) JST 2.00mm connector labeled `RGB LED` can be found on the left side that allows for the connection of addressable RGB LEDs.  Our code is compatible with most WS2812B and SK6812 LEDs.
 
 
 A 20pin (2x10pin) 2.54mm connector is located in the bottom left of the board, matching the location and pinout of standard Brook boards.  If you are planning to use the 20pin connector you do not need to use the screw terminals on the board, and vice versa if you prefer to wire a stick yourself.
@@ -48,7 +48,7 @@ A 4pin (1x4pin) JST 2.00mm connector is located beside the 20pin connector which
 
 Six 2pin (1x2pin) JST 2.00mm connectors labeled `option X` can be found along the bottom of the board.  These can be used via the web-config to set up any number of combinations of features such as dual directional, turbo, reverse direction etc.
 
-A 2pin (1x2pin) JST 2.00mm connector labeled `5v out` can be found on the right side of the board which can be used for connecting additinoal devices which need to be powered via 5v such as an additional board like the Antagonist v2.0 or a strip of remote controlled LEDs.  Please take note of the power draw these connected devices will have and ensure you are not drawing too much power.
+A 2pin (1x2pin) JST 2.00mm connector labeled `5v out` can be found on the right side of the board which can be used for connecting additional devices which need to be powered via 5v such as an additional board like the Antagonist v2.0 or a strip of remote controlled LEDs.  Please take note of the power draw these connected devices will have and ensure you are not drawing too much power.
 
 A 20pin (1x20pin [5x4pin]) 3.5mm screw terminal row can be found along the top of the board which allows for an additional way to connect joysticks and buttons to the board should you not want to use the 20pin harness.  This screw terminal row also has access to `option 1`.  
 
@@ -138,11 +138,11 @@ Note 5 - This adds around $1 to the total cost of the order and is 100% worth do
 - For the `Add CPL File` you will need to choose the `CPL - RP2040 Advanced Breakout Board v5.3E.csv` file that is located in the Hardware files folder<br/>
 Once these two files have been uploaded you can press the `Process BOM & CPL` button.
 
-9 - You will now see a list of components that will be used to assemble the boards.  If there are not listed issues here you can click on on the `NEXT` button. (note 6), (note 7)
+9 - You will now see a list of components that will be used to assemble the boards.  If there are not listed issues here you can click on the `NEXT` button. (note 6), (note 7)
 
 Note 6 - You can also use this page to omit parts from the assembly.  This can primarily be used to not include specific headers or the screw terminals.  Please only do this if you understand what you are doing as omitting main parts of the design will lead to non-functioning boards.  We are not responsible for any boards that are non-functioning. 
 
-Note 7 - We have spent extensive time to ensure that the parts chosen will work for this board.  If there are any parts that are out of stock, or you get warnings about anything we would recommend you not proceed unless you understand how to find replacmeent parts.  If you are unsure, please feel free to join up in the Discord and ask us.  It is not uncommon for JLCPCB to have part shortages.  Most of the parts listed here come back in stock in a few days.  If that is the case, you may need to wait to place your order until all needed parts are in stock.
+Note 7 - We have spent extensive time to ensure that the parts chosen will work for this board.  If there are any parts that are out of stock, or you get warnings about anything we would recommend you not proceed unless you understand how to find replacement parts.  If you are unsure, please feel free to join up in the Discord and ask us.  It is not uncommon for JLCPCB to have part shortages.  Most of the parts listed here come back in stock in a few days.  If that is the case, you may need to wait to place your order until all needed parts are in stock.
 
 10 - There will now be a render of the board with parts on the Component Placements page.  Check this page to make sure that all parts are in the correct spots and orientation.  We have ordered based on these files before and they are known good.  If all looks well press the `NEXT` button. (note 8)
 
@@ -169,14 +169,14 @@ Through the licensing you are free to make and sell these boards in group buys o
 
 The intended purpose of this board, as well as the overall GP2040-CE project is to get low cost boards into the hands of as many people as possible so everyone can enjoy the project.  
 
-As such, we have a recommend MSRP of $20 USD for the RP2040 Advanced Breakout Board or $30 USD with free shipping within the USA or Canada.
+As such, we have a recommended MSRP of $20 USD for the RP2040 Advanced Breakout Board or $30 USD with free shipping within the USA or Canada.
 
 You are free to set your own price as you see fit. 
 
 
 Also, a note about failure rates on boards from JLCPCB.
 
-I (TheTrain) have ordered just over 160 of these boards in various color and design variaitions with another 20 on the way.  Here are my current failure rates from orders:
+I (TheTrain) have ordered just over 160 of these boards in various color and design variations with another 20 on the way.  Here are my current failure rates from orders:
 - 20x Black, 2x dead = Failure rate of 10%
 - 30x Black, 3x dead = Failure tate of 10%
 - 20x Red, no dead = Failure rate of 0%
