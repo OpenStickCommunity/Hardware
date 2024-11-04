@@ -117,6 +117,8 @@ Note 3 - This adds around $1 to the total cost of the order and is 100% worth do
 - For the `Add CPL File` you will need to choose the `CPL - Mini Pad v1.0.csv` file that is located in the Hardware files folder<br/>
 Once these two files have been uploaded you can press the `Process BOM & CPL` button. 
 
+You will likely get an error stating that "The below parts won't be assembled due to data missing. CN1 designator don't exist in the BOM file."  CN1 is the WaveShare RP2040 Zero and you can click on `continue` since there is no need to have it placed.
+
 9 - You will now see a list of components that will be used to assemble the boards.  If there are no listed issues here you can click on on the `NEXT` button. 
 
 10 - There will now be a render of the board with parts on the Component Placements page.  Check this page to make sure that all parts are in the correct spots and orientation.  We have ordered based on these files before and they are known to be good.  If all looks well press the `NEXT` button. (note 8)
