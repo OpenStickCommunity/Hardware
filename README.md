@@ -22,6 +22,7 @@ GP2040-CE Official Boards
 - [RP2040 Basic Breakout Board v5.4E (no USB Passthrough)](/Boards/GP2040-CE%20Official%20Boards/RP2040%20Basic%20Breakout%20Board/RP2040%20Basic%20Breakout%20Board/README.md) - Designed by TheTrain
 - [RP2040 Mini Breakout Board v7.5E with USB Passthrough](/Boards/GP2040-CE%20Official%20Boards/RP2040%20Mini%20Breakout%20Board/RP2040%20Mini%20Breakout%20Board%20-%20Passthrough/README.md) - Designed by TheTrain
 - [RP2040 Mini Breakout Board v7.3E (no USB Passthrough)](/Boards/GP2040-CE%20Official%20Boards/RP2040%20Mini%20Breakout%20Board/RP2040%20Mini%20Breakout%20Board/README.md) - Designed by TheTrain
+- [RP2040 Quick Solder Breakout Board v1.0 (no USB Passthrough)](/Boards/GP2040-CE%20Official%20Boards/RP2040%20Quick%20Solder%20Breakout%20Board/README.md) - Designed by TheTrain
 
 GP2040-CE Official Controllers
 
