@@ -1,7 +1,7 @@
 # Logitech G PRO RS Wheel Hub wall mount
 ![Logitech G PRO RS Wheel Hub wall mount 01](Assets/Logitech%20G%20PRO%20RS%20Wheel%20Hub%20wall%20mount%201.jpg)
 ![Logitech G PRO RS Wheel Hub wall mount 02](Assets/Logitech%20G%20PRO%20RS%20Wheel%20Hub%20wall%20mount%202.JPG)
-![Logitech G PRO RS Wheel Hub wall mount 03](Assets/Logitech%20G%20PRO%20RS%20Wheel%20Hub%20wall%20mount%203.jpg)
+![Logitech G PRO RS Wheel Hub wall mount 03](Assets/Logitech%20G%20PRO%20RS%20Wheel%20Hub%20wall%20mount%203.png)
 
 
 ---
