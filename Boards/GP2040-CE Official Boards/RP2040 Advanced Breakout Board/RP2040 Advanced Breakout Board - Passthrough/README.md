@@ -207,6 +207,11 @@ https://www.paypal.com/donate/?hosted_button_id=2JMTZVCGLDYC2
 ## Revision History
 
 v5.6E - PT
+- Changed the 4P SH connector to something that is in stock on a more regular basis from JLC
+- Changed the 10k resistor on the RGB data line to a 330Ω one for compatibility with the Qanba
+- Added a redundant 3v3 trace on the bottom side of the board
+
+v5.6E - PT (OLD)
 - Added USB-B along side the USB-C to merge both branches of this board back into one
 - Added the 4pin XH 2.54mm connector back beside the 3pin screw terminal for use with most standard three position rocker switches
 
