@@ -69,12 +69,13 @@ Trains Logitech G PRO RS Racing Stuff
 
 - [Logitech G PRO RS Wheel Hub wall mount](/Trains%20Logitech%20G%20PRO%20RS%20Racing%20Stuff/Logitech%20G%20PRO%20RS%20Wheel%20Hub%20wall%20mount/README.md) - Designed by TheTrain
 - [Logitech G PRO RS Wheel Hub 4040 mount](/Trains%20Logitech%20G%20PRO%20RS%20Racing%20Stuff/Logitech%20G%20PRO%20RS%20Wheel%20Hub%204040%20mount/README.md) - Designed by TheTrain
+- [Logitech G PRO RS Wheel Hub Shifter Pad Mod](/Tutorials/Logitech%20RS%20Wheel%20Hub%20Shifter%20Pad%20Mod/README.md) - Written by TheTrain
 
 Tutorials
 
 - [Focus Attack RGB LED Board Configuration](/Tutorials/Focus%20Attack%20LED%20Board%20Configuration/README.md) for the [RP2040 Advanced Breakout Board v5.6](/Boards/GP2040-CE%20Official%20Boards/RP2040%20Advanced%20Breakout%20Board/RP2040%20Advanced%20Breakout%20Board%20-%20Passthrough/README.md) - Written by TheTrain
 - [USB Passthrough Add-on Board Installation](/Tutorials/USB%20Passthrough%20Board%20Installation/README.md) - Written by TheTrain
-- [Logitech RS Wheel Hub Shifter Pad Mod](/Tutorials/Logitech%20RS%20Wheel%20Hub%20Shifter%20Pad%20Mod/README.md) - Written by TheTrain
+
 
 Vendor Resources
 - [GP2040-CE Logo Files](/Vendor%20Resources/GP2040-CE%20Logo%20files/README.md)
