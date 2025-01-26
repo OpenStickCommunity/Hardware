@@ -76,8 +76,8 @@ Tutorials
 - [Focus Attack RGB LED Board Configuration](/Tutorials/Focus%20Attack%20LED%20Board%20Configuration/README.md) for the [RP2040 Advanced Breakout Board v5.6](/Boards/GP2040-CE%20Official%20Boards/RP2040%20Advanced%20Breakout%20Board/RP2040%20Advanced%20Breakout%20Board%20-%20Passthrough/README.md) - Written by TheTrain
 - [USB Passthrough Add-on Board Installation](/Tutorials/USB%20Passthrough%20Board%20Installation/README.md) - Written by TheTrain
 
-
 Vendor Resources
+
 - [GP2040-CE Logo Files](/Vendor%20Resources/GP2040-CE%20Logo%20files/README.md)
 
 # Contributing
