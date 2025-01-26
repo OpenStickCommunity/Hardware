@@ -23,8 +23,11 @@ It is recommended that you use 1mm thick adhesive foam for this.  Using anything
 
 If you would like to see how this sounds before and after, check out the following videos:
 
-![Logitech RS Wheel Hub Shifter Pad Mod - Before](Assets/RS_Hub_Before.MOV)
-![Logitech RS Wheel Hub Shifter Pad Mod - After](Assets/RS_Hub_After.MOV)
+![Logitech RS Wheel Hub Shifter Pad Mod - Before](Assets/RS_Hub_Before.MOV) </br>
+![Logitech RS Wheel Hub Shifter Pad Mod - After](Assets/RS_Hub_After.MOV) </br>
+
+The foam I used for this mod was purchased from Amazon.  It can be found here:
+![1mm Thich Self-Adhesive Foam Sheet](https://www.amazon.ca/gp/product/B07T5L7756/) </br>
 
 ---
 ## Logitech RS Wheel Hub Disassembly, Foam Install and Re-assembly
