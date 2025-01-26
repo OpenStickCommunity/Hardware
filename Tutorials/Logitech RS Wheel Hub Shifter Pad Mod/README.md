@@ -11,9 +11,9 @@ They will do a few different things:
 2 - Make the shifts a little softer
 3 - Reduce the total amount of movement needed to actuate a shift
 
-** Note 1: I am not responsible for any damage that happen to yourself or any of your equipment as a result of attempting this guide. **
-** Note 2: You can only use 1mm foam for this mod, using anything thicker will result in inconsistent shifts or shifts that do not register at all. **
-** Note 3: I am not responcible if this voids your warranty with Logitech or the retailer you purchased this from. **
+** Note 1: I am not responsible for any damage that happen to yourself or any of your equipment as a result of attempting this guide. ** </br>
+** Note 2: You can only use 1mm foam for this mod, using anything thicker will result in inconsistent shifts or shifts that do not register at all. ** </br>
+** Note 3: I am not responcible if this voids your warranty with Logitech or the retailer you purchased this from. ** </br>
 
 You can find an .SVG cut file in the Source Files folder [HERE](Source%20Files/Logitech%20RS%20Wheel%20Hub%20Shifter%20Pad%20Mod.svg).
 
@@ -21,6 +21,10 @@ This can be loaded into the plot cutter of your choosing, or you can simply prin
 
 It is recommended that you use 1mm thick adhesive foam for this.  Using anything thicker may result in inconsistent shifts or shifts that do not register at all.
 
+If you would like to see how this sounds before and after, check out the following videos:
+
+![Logitech RS Wheel Hub Shifter Pad Mod - Before](Assets/RS_Hub_Before.MOV)
+![Logitech RS Wheel Hub Shifter Pad Mod - After](Assets/RS_Hub_After.MOV)
 
 ---
 ## Logitech RS Wheel Hub Disassembly, Foam Install and Re-assembly
@@ -68,8 +72,8 @@ Using some hex keys, remove the 6 bolts holding on the quick disconnect assembly
 
 You will notice that one of the bolts is longer than the other ones.
 
-** Note 4: It is recommened to apply some pressure to the back of the quick disconnect assembly while you do this as it will be under spring pressure.  Not doing this could result in damage or injury. **
-** Note 5: I am not responcible for any damage or injury that results from the attempted disassembly and reassembly of this Hub. **
+** Note 4: It is recommened to apply some pressure to the back of the quick disconnect assembly while you do this as it will be under spring pressure.  Not doing this could result in damage or injury. ** </br>
+** Note 5: I am not responcible for any damage or injury that results from the attempted disassembly and reassembly of this Hub. ** </br>
 
 ![RS_Hub_10](Assets/RS_Hub_10.JPG)
 ![RS_Hub_11](Assets/RS_Hub_11.JPG)
@@ -104,7 +108,7 @@ Slide out the left and right paddel shifter retaining bars.
 
 These must be slide out from the bottom side.  The bottom side is the opposite side from the screws you removed in Step 6 above.
 
-N** Note 6: It is recommended to use a long and skinny screwdriver to push the left and right paddel shifter retaining bars out. **
+N** Note 6: It is recommended to use a long and skinny screwdriver to push the left and right paddel shifter retaining bars out. ** </br>
 
 ![RS_Hub_17](Assets/RS_Hub_17.JPG)
 ![RS_Hub_18](Assets/RS_Hub_18.JPG)
@@ -119,7 +123,7 @@ Now that the left and right paddel shifter retaining bars have been taken our yo
 
 Once those modules are out take your 1mm foam pads and install them overtop of the existing stickers.
 
-** Note 7: It is not recommended to remove the factory stickers. **
+** Note 7: It is not recommended to remove the factory stickers. ** </br>
 
 ![RS_Hub_20](Assets/RS_Hub_20.JPG)
 ![RS_Hub_21](Assets/RS_Hub_21.JPG)
@@ -134,7 +138,7 @@ Follow the previous steps backwards to start putting the Hub back together.
 
 When you get back to Step 4 it is recommended to compress the spring down on a flat surface and then install the top and bottom bolt securly before you put the others in.
 
-** Note 8: I am not responcible for any damage or injury that results from the attempted disassembly and reassembly of this Hub. **
+** Note 8: I am not responcible for any damage or injury that results from the attempted disassembly and reassembly of this Hub. ** </br>
 
 ![RS_Hub_23](Assets/RS_Hub_23.JPG)
 
@@ -147,4 +151,4 @@ You have successfully modded your Logitech RS Wheel Hub!
 
 Go play some games!!!
 
-![RS_Hub_24](Assets/RS_Hub_24.JPG)
+![RS_Hub_24](Assets/RS_Hub_24.jpg)
