@@ -69,6 +69,7 @@ Trains Logitech G PRO RS Racing Stuff
 
 - [Logitech G PRO RS Wheel Hub wall mount](/Trains%20Logitech%20G%20PRO%20RS%20Racing%20Stuff/Logitech%20G%20PRO%20RS%20Wheel%20Hub%20wall%20mount/README.md) - Designed by TheTrain
 - [Logitech G PRO RS Wheel Hub 4040 mount](/Trains%20Logitech%20G%20PRO%20RS%20Racing%20Stuff/Logitech%20G%20PRO%20RS%20Wheel%20Hub%204040%20mount/README.md) - Designed by TheTrain
+- [Logitech G PRO RS Wheel Hub Shifter Pad Mod](/Tutorials/Logitech%20RS%20Wheel%20Hub%20Shifter%20Pad%20Mod/README.md) - Written by TheTrain
 
 Tutorials
 
@@ -77,6 +78,7 @@ Tutorials
 - [Logitech RS Wheel Hub Shifter Pad Mod](/Tutorials/Logitech%20RS%20Wheel%20Hub%20Shifter%20Pad%20Mod/README.md) - Written by TheTrain
 
 Vendor Resources
+
 - [GP2040-CE Logo Files](/Vendor%20Resources/GP2040-CE%20Logo%20files/README.md)
 
 # Contributing
