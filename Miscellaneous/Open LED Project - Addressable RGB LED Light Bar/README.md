@@ -12,8 +12,8 @@ The following text must be included in any distribution of derivatives of this b
 
 Based on the Open LED Project - Addressable RGB LED Light Bar by TheTrain in collaboration with AFS (AllFightSticks).
 
-Copyright © 2025 [TheTrain](https://github.com/TheTrainGoes)
-Copyright © 2025 [AllFightSticks](https://allfightsticks.com/)
+Copyright © 2025 [TheTrain](https://github.com/TheTrainGoes)<br/>
+Copyright © 2025 [AllFightSticks](https://allfightsticks.com/)<br/>
 
 [Licensed under CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
