@@ -25,7 +25,9 @@ This is a Wind Sim project I made for racing sim.
 
 I play on an Xbox Series X and mainly play Forza Motorsport (2023).  Outside of using a program like SimHub there are not many options for telemetry based accessories available for the Xbox.
 
-Found here are just the 3D print files, coming soon will be the custom code for the Pico W that will allow you to connect to Forza Motorsport (2023) and have the fans spin in accordance to the car speed.
+Found here are just the 3D print files and the code for a Pico W that will allow you to connect to Forza Motorsport (2023) and have the fans spin in accordance to the car speed.
+
+There is currently no custom board for this but I will have one added when I have some time to make it up.
 
 While some inspiration was taken from various paid models that I saw online, all measurements were taken by myself and the 3D models created from scratch in Fusion360.
 
@@ -34,6 +36,15 @@ A full set of printing STLs, a 3MF as well as source STEP files are provided wit
 This project was done around the Noctua NF-P12 Redux-1700 PWM fan (https://noctua.at/en/nf-p12-redux-1700-pwm).
 
 !!! This may not work with other fans, proceed at your own risk !!!
+
+
+## Code
+
+You will find an Arduino sketch that can be loaded onto your Pico W in the Arduino folder [HERE](/Arduino%20Sketch/Xbox_Wind_Sim_with_OLED.ino).
+
+You will need to make some changes to the sketch based on your network. 
+
+I have tried to make as many notes in it as I can but please note that I am unable to help with code related issues on this.
 
 
 ## Assembly
