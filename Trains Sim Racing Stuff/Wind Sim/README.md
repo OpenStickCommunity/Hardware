@@ -40,7 +40,7 @@ This project was done around the Noctua NF-P12 Redux-1700 PWM fan (https://noctu
 
 ## Code
 
-You will find an Arduino sketch that can be loaded onto your Pico W in the Arduino folder [HERE](/Arduino%20Sketch/Xbox_Wind_Sim_with_OLED.ino).
+You will find an Arduino sketch that can be loaded onto your Pico W in the Arduino folder [HERE](Arduino%20Sketch/Xbox_Wind_Sim_with_OLED.ino).
 
 You will need to make some changes to the sketch based on your network. 
 
