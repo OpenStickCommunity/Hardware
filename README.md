@@ -66,7 +66,7 @@ Trains Vewlix Stuff
 - [Vewlix Control Panel SiTong Adapter Rings](/Trains%20Vewlix%20Stuff/Vewlix%20Control%20Panel%20SiTong%20Adapter%20Rings/README.md) - Designed by TheTrain
 - [Vewlix NESiCA NFC Reader](/Trains%20Vewlix%20Stuff/Vewlix%20NESiCA%20NFC%20Reader/README.md) - Designed by TheTrain
 
-Trains Logitech G PRO RS Racing Stuff
+Trains Sim Racing Stuff
 
 - [Logitech G PRO RS Wheel Hub wall mount](/Trains%20Logitech%20G%20PRO%20RS%20Racing%20Stuff/Logitech%20G%20PRO%20RS%20Wheel%20Hub%20wall%20mount/README.md) - Designed by TheTrain
 - [Logitech G PRO RS Wheel Hub 4040 mount](/Trains%20Logitech%20G%20PRO%20RS%20Racing%20Stuff/Logitech%20G%20PRO%20RS%20Wheel%20Hub%204040%20mount/README.md) - Designed by TheTrain
