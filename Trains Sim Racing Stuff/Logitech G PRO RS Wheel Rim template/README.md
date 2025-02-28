@@ -8,7 +8,7 @@
 
 ## Attribution
 
-The following text must be included in any distribution of derivatives of these models, the custom board or the code for it. All links must also be included.
+The following text must be included in any distribution of derivatives of these models. All links must also be included.
 
 Based on the Logitech G PRO RS Wheel Rim template project by TheTrain
 
