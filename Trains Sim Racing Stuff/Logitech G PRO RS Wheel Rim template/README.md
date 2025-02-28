@@ -35,12 +35,12 @@ The `Logitech G PRO RS Wheel Rim template - Full` adds to the above template and
 
 There are several types of files included in the various folders.
 
-![Logitech G PRO RS Wheel Rim template.stl](/3D%20Print%20Files/Logitech%20G%20PRO%20RS%20Wheel%20Rim%20template.stl) - STL for 3D printing (set at 3mm height to match the Logitech RS Round Wheel)
-![Logitech G PRO RS Wheel Rim template.step](/Source%20files/Logitech%20G%20PRO%20RS%20Wheel%20Rim%20template.step) - STEP file for further modeling (set at 3mm height to match the Logitech RS Round Wheel))
-![Logitech G PRO RS Wheel Rim template.dxf](/DXF%20files/Logitech%20G%20PRO%20RS%20Wheel%20Rim%20template.dxf) - DXF file, commonly used for cutting and CNC (please note that the bolts are not countersunk)
-![Logitech G PRO RS Wheel Rim template - Full.stl](/3D%20Print%20Files/Logitech%20G%20PRO%20RS%20Wheel%20Rim%20template%20-%20Full.stl) - STL for 3D printing (set at 3mm height to match the Logitech RS Round Wheel)
-![Logitech G PRO RS Wheel Rim template - Full.step](/Source%20files/Logitech%20G%20PRO%20RS%20Wheel%20Rim%20template%20-%20Full.step) - STEP file for further modeling (set at 3mm height to match the Logitech RS Round Wheel))
-![Logitech G PRO RS Wheel Rim template - Full.dxf](/DXF%20files/Logitech%20G%20PRO%20RS%20Wheel%20Rim%20template%20-%20Full.dxf) - DXF file, commonly used for cutting and CNC (please note that the bolts are not countersunk)
+[Logitech G PRO RS Wheel Rim template.stl](/3D%20Print%20Files/Logitech%20G%20PRO%20RS%20Wheel%20Rim%20template.stl) - STL for 3D printing (set at 3mm height to match the Logitech RS Round Wheel)</br>
+[Logitech G PRO RS Wheel Rim template.step](/Source%20files/Logitech%20G%20PRO%20RS%20Wheel%20Rim%20template.step) - STEP file for further modeling (set at 3mm height to match the Logitech RS Round Wheel)</br>
+[Logitech G PRO RS Wheel Rim template.dxf](/DXF%20files/Logitech%20G%20PRO%20RS%20Wheel%20Rim%20template.dxf) - DXF file, commonly used for cutting and CNC (please note that the bolts are not countersunk)</br>
+[Logitech G PRO RS Wheel Rim template - Full.stl](/3D%20Print%20Files/Logitech%20G%20PRO%20RS%20Wheel%20Rim%20template%20-%20Full.stl) - STL for 3D printing (set at 3mm height to match the Logitech RS Round Wheel)</br>
+[Logitech G PRO RS Wheel Rim template - Full.step](/Source%20files/Logitech%20G%20PRO%20RS%20Wheel%20Rim%20template%20-%20Full.step) - STEP file for further modeling (set at 3mm height to match the Logitech RS Round Wheel)</br>
+[Logitech G PRO RS Wheel Rim template - Full.dxf](/DXF%20files/Logitech%20G%20PRO%20RS%20Wheel%20Rim%20template%20-%20Full.dxf) - DXF file, commonly used for cutting and CNC (please note that the bolts are not countersunk)</br>
 
 
 ## Donations
