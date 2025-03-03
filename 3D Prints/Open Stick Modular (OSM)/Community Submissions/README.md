@@ -1,8 +1,5 @@
 # 3D Printable Fightstick Case - Community Submissions
 
-![3D Printable Fightstick Case - 3D Runder](https://raw.githubusercontent.com/OpenStickCommunity/Hardware/main/Fightstick%20Case/Images/3D%20render.png)
-![3D Printable Fightstick Case - Fully Assembled Case](https://raw.githubusercontent.com/OpenStickCommunity/Hardware/main/Fightstick%20Case/Images/Fully%20assembled%20case.jpg)
-![3D Printable Fightstick Case - Inside - Wired](https://raw.githubusercontent.com/OpenStickCommunity/Hardware/main/Fightstick%20Case/Images/Inside%20-%20Wired.JPG)
 ---
 
 ## Attribution
@@ -32,12 +29,12 @@ File(s) uploaded - List all the files you are uploading (please place these in t
 Images - Add a few images of the render and print for the parts if you have them (please place these in the assets folder and link to them)
 Description - Talk about what you are adding, why, how to print, etc.
 
-![OSM - Stickless](/Assets/OSM%20-%20Stickless.png)
+[OSM - Stickless](/Assets/OSM%20-%20Stickless.png)
 
-[OSM - Left Stickless STL](/OSM%20-%20Left%20Stickless.stl) - A split stickless design with dual thumb buttons, dual up and a left pinky button - Designed by TheTrain
-[OSM - Left Stickless STEP](/OSM%20-%20Left%20Stickless.step) - A split stickless design with dual thumb buttons, dual up and a left pinky button - Designed by TheTrain
-[OSM - Right Stickless STL](/OSM%20-%20Right%20Stickless.stl) - A split stickless design with dual thumb buttons and two extra buttons - Designed by TheTrain
-[OSM - Right Stickless STEP](/OSM%20-%20Right%20Stickless.step) - A split stickless design with dual thumb buttons and two extra buttons - Designed by TheTrain
+[OSM - Left Stickless STL](/OSM%20-%20Left%20Stickless.stl) - A split stickless design with dual thumb buttons, dual up and a left pinky button - Designed by TheTrain</br>
+[OSM - Left Stickless STEP](/OSM%20-%20Left%20Stickless.step) - A split stickless design with dual thumb buttons, dual up and a left pinky button - Designed by TheTrain</br>
+[OSM - Right Stickless STL](/OSM%20-%20Right%20Stickless.stl) - A split stickless design with dual thumb buttons and two extra buttons - Designed by TheTrain</br>
+[OSM - Right Stickless STEP](/OSM%20-%20Right%20Stickless.step) - A split stickless design with dual thumb buttons and two extra buttons - Designed by TheTrain</br>
 
 
 ---
