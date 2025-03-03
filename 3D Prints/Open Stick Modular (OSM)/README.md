@@ -29,7 +29,7 @@ Please note the following warnings / disclaimer:
 
 ## Summary:
 
-The goal of this project was to create a high quality fightstick case that could be printed on a 250mm x 250mm print bed in parts.  The Open Stick Modular (OSM) is a continuation of the original Open Stick Case design to allow for greater flexibility and customization of individual parts while reducing the chances of print failures on the main frame.
+The goal of this project was to create a high quality fightstick case that could be printed on a 250mm x 250mm print bed in parts.  The largest part of the Open Stick Modular (OSM) is 200mm x 185mm on its own.  At a minimum you will need a printer that can print 200mm x 185mm parts to complete this project.  The Open Stick Modular (OSM) is a continuation of the original Open Stick Case design to allow for greater flexibility and customization of individual parts while reducing the chances of print failures on the main frame.
 
 ---
 
