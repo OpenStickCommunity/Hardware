@@ -88,7 +88,7 @@ Parts necessary for assembly of the PCBs:
 1 x PCB<br/>
 1 x MX hot swap socket (https://www.aliexpress.com/item/4001051840976.html)<br/>
 1 x PH2.00mm 2pin SMD connector (if connecting that way) (https://www.aliexpress.com/item/1005006027334406.html)<br/>
-2 x 2.8mm prong connectors (if connecting that way) (https://www.aliexpress.com/item/1005002539360973.html) (Type: DJ610-2.8-6)<br/>
+2 x 2.8mm prong connectors (if connecting that way) (https://www.aliexpress.com/item/1005002539360973.html) (Type: DJ610-2.8-2)<br/>
 2 x M2 5mm Hex Hexagon Socket Cap Head Self Tapping Screws (https://www.aliexpress.com/item/10000350027047.html)<br/>
 
 Parts necessary for assembly of 3D printed button:
