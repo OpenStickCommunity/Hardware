@@ -12,6 +12,7 @@ This repository is a collection of open-source hardware designs which have been 
 - [3D Printable Fightstick Case XL](/3D%20Prints/Fightstick%20Case/Community%20submissions/3D%20print%20files/Fightstick%20XL/Open%20Stick%20XL%20-%20Main%20Frame%20(x4%20Buttons).stl) - Designed by Lucipher
 - [3D Printable Open Stick Modular](/3D%20Prints/Open%20Stick%20Modular%20(OSM)/README.md) - Designed by TheTrain
 - [3D Printable Open Stick Modular - Mini](/3D%20Prints/Open%20Stick%20Modular%20-%20Mini%20(OSM-Mini)/README.md) - Designed by TheTrain
+- [3D Printable Open Stick Modular - Slim](/3D%20Prints/Open%20Stick%20Modular%20-%20Slim%20(OSM-Slim)/README.md) - Designed by TheTrain
 - [3D Printable OSBMX v2 Buttons](/3D%20Prints/OSBMX%20v2/README.md) - Designed by TheTrain
 
 GP2040-CE Official Boards
