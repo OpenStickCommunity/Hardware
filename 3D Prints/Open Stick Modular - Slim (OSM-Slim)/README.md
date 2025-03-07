@@ -39,7 +39,7 @@ Although the top plates are 170mm x 160mm, the front and back mid-frame parts ta
 
 The total size of the OSM-Slim is about 340mm x 160mm.
 
-The OSM-Slim is designed to be hand soldered and can take most low profile switches.  It is also designed to take the newer RP2040 SuperMini board.  
+The OSM-Slim is designed to be hand soldered and can take most low profile switches, but mainly designed for Red Dragon low profile switches (other switches may be loose).  It is also designed to take the newer RP2040 SuperMini board.  
 
 The large button holes are 30.05mm.
 
