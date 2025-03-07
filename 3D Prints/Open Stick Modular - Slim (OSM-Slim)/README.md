@@ -41,6 +41,14 @@ The total size of the OSM-Slim is about 340mm x 160mm.
 
 The OSM-Slim is designed to be hand soldered and can take most low profile switches.  It is also designed to take the newer RP2040 SuperMini board.  
 
+The large button holes are 30.05mm.
+
+The small button holes are 24.05mm.
+
+The aux button holes are 22.05mm.
+
+The caps shown in the cover image will be uploaded at a later time.
+
 ---
 
 ## Printing and Construction:
