@@ -74,6 +74,7 @@ Trains Sim Racing Stuff
 - [Logitech G PRO RS Wheel Hub Shifter Pad Mod](/Trains%20Sim%20Racing%20Stuff/Logitech%20RS%20Wheel%20Hub%20Shifter%20Pad%20Mod/README.md) - Designed by TheTrain
 - [Logitech G PRO RS Wheel Rim template](/Trains%20Sim%20Racing%20Stuff/Logitech%20G%20PRO%20RS%20Wheel%20Rim%20template/README.md) - Designed by TheTrain
 - [Wind Sim](/Trains%20Sim%20Racing%20Stuff/Wind%20Sim/README.md) - Designed by TheTrain
+- [LapTimer](/Trains%20Sim%20Racing%20Stuff/Laptimer/README.md) - Designed by TheTrain
 
 Tutorials
 
