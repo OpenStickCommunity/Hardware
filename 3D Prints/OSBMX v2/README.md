@@ -2,6 +2,7 @@
 ![OSBMX v2 01](Assets/OSBMX_v2_01.png)
 ![OSBMX v2 04](Assets/OSBMX_v2_04.jpg)
 ![OSBMX v2 06](Assets/OSBMX_v2_06.png)
+![OSBMX v2 07](Assets/OSBMX_v2_07.JPG)
 
 ---
 
