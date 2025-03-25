@@ -68,7 +68,7 @@ A massive thank you to LayerShift (https://x.com/Layer_Shift) for helping get th
 
 ## Board design choices
 
-There is a new PCB design that will be added to the repo as I get them in from JLC and ensure they function as intended.
+There is a new PCB design for the OSBMX v2.
 
 The original PCBs from the OSBMX v1 will work just fine on the v2 (lets be honest, most of us have 100+ of these kicking around).
 
@@ -112,33 +112,38 @@ Not all switches have been tested, there may be some that do not follow the abov
 
 ## How to order a PCBs:
 
-PLEASE NOTE THAT THIS SECTION WILL BE UPDATED ONCE PCBS HAVE ARRIVED AND ARE TESTED.  UNTIL THEN FEEL FREE TO USE YOUR V1 BOARDS
+All of the boards so far have been ordered though JLCPCB.  Due to the size of the boards you can order quite a lot at very low cost.  I was able to order 125 of them and still meet their minimum shipping cost limits.  You do not need to get this many.  I have also opted not to do a panel for this since it appears to still be cheaper to get these done individually.  Also please note that recently JLCPCB changed some of their prices for the PCB color, ensure you choose a color like black or green to get the lowest possible cost.
 
-// 1 - Go to JLCPCB.com<br/>
-// 2 - Click on `Instant Quote`<br/>
-// 3 - Click on `Add Gerber file` and choose the file named `Gerber_OSBMX_v2.zip` or `Gerber_OSBMX_-_2.4mm.zip<br/>
-// 4 - Choose the following options for the board:<br/>
-// - Base Material = FR-4<br/>
-// - Layers = 2<br/>
-// - Dimensions = (should auto-populate) 21 * 17.3 mm<br/>
-// - PCB Qty = 125<br/>
-// - Product Type = Industrial/Consumer electronics<br/>
-// - Different Design = 1<br/>
-// - Delivery Format = Single PCB<br/>
-// - PCB Thickness = 1.6<br/> (NOTE 1)
-// - PCB Color = (up to you)<br/>
-// - Silkscreen = (defaults to white for all except white boards which is black)<br/>
-// - Surface Finish = HASL(with lead)<br/>
-// - Outer Copper Weight = 1oz<br/>
-// - Gold Fingers = No<br/>
-// - Confirm Production file = No<br/>
-// - Flying Probe Test = Fully Test<br/>
-// -  Castellated Holes = No<br/>
-// - Remove Order Number = Yes<br/>
-// - No advanced options<br/>
-// 
-// 5 - Click on `SAVE TO CART`<br/>
-// 6 - Go through checkout process, ensure to select economic shipping to keep costs low
+1 - Go to JLCPCB.com<br/>
+2 - Click on `Instant Quote`<br/>
+3 - Click on `Add Gerber file` and choose the file named `Gerber - OSBMX v2.0 multi-connector.zip`<br/>
+4 - Choose the following options for the board:<br/>
+- Base Material = FR-4<br/>
+- Layers = 2<br/>
+- Dimensions = (should auto-populate) 22 * 22 mm<br/>
+- PCB Qty = 125<br/>
+- Product Type = Industrial/Consumer electronics<br/>
+- Deburring/Edge Rounding = Yes<br/>
+- Different Design = 1<br/>
+- Delivery Format = Single PCB<br/>
+- PCB Thickness = 1.6<br/>
+- PCB Color = (up to you)<br/>
+- Silkscreen = (defaults to white for all except white boards which is black)<br/>
+- Surface Finish = HASL(with lead)<br/>
+- Outer Copper Weight = 1oz<br/>
+- Via Covering = Tented<br/>
+- Min via hole size/diameter = 0.3mm/(0.4/0.45mm)<br/>
+- Board Outline Tolerance = +/- 0.2mm(Regular)<br/>
+- Confirm Production file = No<br/>
+- Mark on PCB = Remove<br/>
+- Flying Probe Test = Fully Test<br/>
+- Gold Fingers = No<br/>
+- Castellated Holes = No<br/>
+- Edge Plating = No<br/>
+- No advanced options<br/>
+
+5 - Click on `SAVE TO CART`<br/>
+6 - Go through checkout process, ensure to select economic shipping to keep costs low
 
 ---
 
