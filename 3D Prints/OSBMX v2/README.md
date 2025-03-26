@@ -122,7 +122,7 @@ All of the boards so far have been ordered though JLCPCB.  Due to the size of th
 - Base Material = FR-4<br/>
 - Layers = 2<br/>
 - Dimensions = (should auto-populate) 22 * 22 mm<br/>
-- PCB Qty = 125<br/>
+- PCB Qty = 100<br/>
 - Product Type = Industrial/Consumer electronics<br/>
 - Deburring/Edge Rounding = Yes<br/>
 - Different Design = 1<br/>
