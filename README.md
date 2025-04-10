@@ -14,6 +14,7 @@ This repository is a collection of open-source hardware designs which have been 
 - [3D Printable Open Stick Modular - Mini](/3D%20Prints/Open%20Stick%20Modular%20-%20Mini%20(OSM-Mini)/README.md) - Designed by TheTrain
 - [3D Printable Open Stick Modular - Slim](/3D%20Prints/Open%20Stick%20Modular%20-%20Slim%20(OSM-Slim)/README.md) - Designed by TheTrain
 - [3D Printable OSBMX v2 Buttons](/3D%20Prints/OSBMX%20v2/README.md) - Designed by TheTrain
+- [3D Printable OSBLP v2 Buttons](/3D%20Prints/OSBLP%20v2/README.md) - Designed by TheTrain
 
 GP2040-CE Official Boards
 
