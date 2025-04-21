@@ -1,6 +1,6 @@
 # Tiny USB Hub
-![Tiny USB Hub 01](/Assets/Tiny_USB_Hub_01.jpg)
-![Tiny USB Hub 02](/Assets/Tiny_USB_Hub_02.jpg)
+![Tiny USB Hub 01](Assets/Tiny_USB_Hub_01.jpg)
+![Tiny USB Hub 02](Assets/Tiny_USB_Hub_02.jpg)
 ---
 
 ## Attribution
