@@ -50,6 +50,7 @@ Supported Boards
 - [Ghost Auth v2.0](/Boards/Supported%20Boards/Ghost%20Auth/README.md) - Designed by TheTrain
 - [GP2040 Keyboard converter](/Boards/Supported%20Boards/GP2040%20Keyboard%20Converter/Waveshare%20Zero-PCB/README.md) - Designed by Infraredaces
 - [USB Pasthrough Add-on Board](/Boards/Supported%20Boards/USB%20Passthrough%20Board/README.md) - Designed by TheTrain
+- [Tiny USB Hub v1.2](/Boards/Supported%20Boards/USB%20Hubs/Tiny%20USB%20Hub/README.md) - Designed by TheTrain
 
 Miscellaneous
 
@@ -67,6 +68,7 @@ Trains Vewlix Stuff
 - [Vewlix Stickers](/Trains%20Vewlix%20Stuff/Vewlix%20Stickers/README.md) - Remixes and customs by TheTrain
 - [Vewlix Control Panel SiTong Adapter Rings](/Trains%20Vewlix%20Stuff/Vewlix%20Control%20Panel%20SiTong%20Adapter%20Rings/README.md) - Designed by TheTrain
 - [Vewlix NESiCA NFC Reader](/Trains%20Vewlix%20Stuff/Vewlix%20NESiCA%20NFC%20Reader/README.md) - Designed by TheTrain
+- [Vewlix Sub-Panel Art and Cut Files](/Trains%20Vewlix%20Stuff/Vewlix%20Sub-Panel%20Art%20and%20Cut%20Files/README.md) - Designed by Jermaine Davis
 
 Trains Sim Racing Stuff
 
