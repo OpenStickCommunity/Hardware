@@ -121,7 +121,7 @@ There are no supports needed for this print.
 
 It is recommended to print at the lowest print layer height your printer can do.  
 
-I have extensivly printed and tested these on my BambuLabs X1C and P1S using both a 0.4mm and 0.2mm nozzle on normal and matte PLA.  
+I have extensively printed and tested these on my BambuLabs X1C and P1S using both a 0.4mm and 0.2mm nozzle on normal and matte PLA.  
 
 The recommended print settings are to do 4-6 wall loops and then enough top and bottom layers to have solid infill.  
 
