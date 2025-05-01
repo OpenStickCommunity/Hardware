@@ -49,7 +49,7 @@ There is only one way to connect to this board:
 
 ## Assembly
 
-Assembly is quite straight forward on this board.  All that is needed is to solder the hot swap socket on and, if you choose, the 2.4mm or PH2.00mm 2pin connector(s)
+Assembly is quite straight forward on this board.  All that is needed is to solder the module and the ZH 1.50mm 5 pin vertical connector.
 
 Parts necessary for assembly of the PCBs:
 
@@ -73,12 +73,12 @@ All of the boards so far have been ordered though JLCPCB.
 
 1 - Go to JLCPCB.com<br/>
 2 - Click on `Instant Quote`<br/>
-3 - Click on `Add Gerber file` and choose the file named `Gerber - OSBMX v2.0 multi-connector.zip`<br/>
+3 - Click on `Add Gerber file` and choose the file named `Gerber - OSB 30mm Analog Stick.zip`<br/>
 4 - Choose the following options for the board:<br/>
 - Base Material = FR-4<br/>
 - Layers = 2<br/>
 - Dimensions = (should auto-populate) 26 * 26 mm<br/>
-- PCB Qty = 5<br/>
+- PCB Qty = 50<br/>
 - Product Type = Industrial/Consumer electronics<br/>
 - Deburring/Edge Rounding = Yes<br/>
 - Different Design = 1<br/>
@@ -123,11 +123,11 @@ It is recommended to print at the lowest print layer height your printer can do.
 
 I have extensivly printed and tested these on my BambuLabs X1C and P1S using both a 0.4mm and 0.2mm nozzle on normal and matte PLA.  
 
-The recommended print setting are to do 4-6 wall loops and then enough top and bottom laters to have solid infill.  
+The recommended print settings are to do 4-6 wall loops and then enough top and bottom layers to have solid infill.  
 
 You may need to adjust to achieve a good print on your own printer.  
 
-!!!Please note - I am not responcible for missprints or any costs incured from missprints!!!
+!!!Please note - I am not responsible for misprints or any costs incurred from misprints!!!
 
 
 ---
@@ -136,7 +136,7 @@ You may need to adjust to achieve a good print on your own printer.
 
 Every part of this project is open source, all prototyping costs were covered out of pocket.
 
-Donations are not necessary but always welcome!  All received donations go into trying new things and ordering new boards for this and other projects.
+Donations are not necessary but always welcome! All received donations go into trying new things and ordering new boards for this and other projects.
 
 https://www.paypal.com/donate/?hosted_button_id=2JMTZVCGLDYC2
 
