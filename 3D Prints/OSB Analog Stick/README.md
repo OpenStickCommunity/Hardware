@@ -69,7 +69,7 @@ Parts necessary for assembly of 3D printed button:
 
 ## How to order a PCBs:
 
-All of the boards so far have been ordered though JLCPCB.  Due to the size of the boards you can order quite a lot at very low cost.  I was able to order 125 of them and still meet their minimum shipping cost limits.  You do not need to get this many.  I have also opted not to do a panel for this since it appears to still be cheaper to get these done individually.  Also please note that recently JLCPCB changed some of their prices for the PCB color, ensure you choose a color like black or green to get the lowest possible cost.
+All of the boards so far have been ordered though JLCPCB.
 
 1 - Go to JLCPCB.com<br/>
 2 - Click on `Instant Quote`<br/>
