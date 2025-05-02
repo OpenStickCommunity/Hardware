@@ -56,6 +56,7 @@ Parts necessary for assembly of the PCBs:
 1 x PCB<br/>
 1 x Analog Joystick [choose the item name 'black' with vertical pins] (https://www.aliexpress.com/item/1005007402376562.html)<br/>
 4 x M2 5mm Hex Hexagon Socket Cap Head Self Tapping Screws (https://www.aliexpress.com/item/10000350027047.html)<br/>
+1 x ZH 1.50mm 5 pin vertical SMD (https://www.aliexpress.com/item/1005008884434710.html)<br/>
 
 Parts necessary for assembly of 3D printed button:
 
