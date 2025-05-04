@@ -86,6 +86,8 @@ Note: You will need to take off the plastic part of the header on it otherwise t
 - 6x M2x8mm button head bolts [AliExpress Link](https://www.aliexpress.com/item/32967225441.html)
 - 13x Choc v1 or Choc v2 switches
 - 4x Choc v1 or Choc v2 keycaps (normal 1U)
+- 8x Choc v1 or Choc v2 small button caps
+- 1x Choc v1 or Choc v2 large button cap
 
 
 ## How to order a board
