@@ -35,6 +35,7 @@ GP2040-CE Official Controllers
 - [Flatbox Rev 5 Passthrough](/Boards/GP2040-CE%20Official%20Controllers/Flatbox%20Rev%205%20Passthrough/README.md) - Remixed by TheTrain from the Flatbox Rev 5 by Jfedor
 - [Open_Core0 v2.0](/Boards/GP2040-CE%20Official%20Controllers/Open_Core0/README.md) - Designed by TheTrain
 - [Open_Core0 WASD v2.0](/Boards/GP2040-CE%20Official%20Controllers/Open_Core0%20WASD/README.md) - Designed by TheTrain
+- [Open_Core0 MIXUP](/Boards/GP2040-CE%20Official%20Controllers/Open_Core0%20MIXUP/README.md) - Designed by TheTrain
 - [Zero_Rhythm v1.0](/Boards/GP2040-CE%20Official%20Controllers/Zero%20Rhythm/README.md) - Designed by TheTrain
 - [Pocket Pad](/Boards/GP2040-CE%20Official%20Controllers/Pocket%20Pad/README.md) - Designed by TheTrain
 - [Pocket Pad WASD](/Boards/GP2040-CE%20Official%20Controllers/Pocket%20Pad%20WASD/README.md) - Designed by TheTrain
