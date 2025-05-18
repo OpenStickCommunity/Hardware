@@ -70,6 +70,8 @@ The following hardware is needed to assemble the case:
 - 4x M4 35mm brass standoffs
 - 12x M4 14mm countersunk hex bolts
 - 4x M4 flange nuts
+- 2x M3 24mm countersunk hex bolts
+- 2x M3 flange nuts
 
 Assembly:
 - The 35mm brass standoffs will go into the four holes in the side panels
