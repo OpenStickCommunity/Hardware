@@ -28,6 +28,7 @@ Please note the following warnings / disclaimer:
 - I am not responsible for any damage that happens to your printer or parts of your printer as a result of printing these files.
 - If you make and sell these units you are responsible for supporting your own customers.
 - Vertical prints can be challenging and may take multiple prints to get a good one, please factor in the material and cost of this before deciding to do this project
+- Please note that the images are of my unit which is one revision prior to this model.  This model increases the distance between the aux buttons by a little bit.
 
 ## Summary:
 
