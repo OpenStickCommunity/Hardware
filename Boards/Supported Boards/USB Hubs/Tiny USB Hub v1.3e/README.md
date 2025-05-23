@@ -1,6 +1,6 @@
-# Tiny USB Hub
-![Tiny USB Hub 01](Assets/Tiny_USB_Hub_01.jpg)
-![Tiny USB Hub 02](Assets/Tiny_USB_Hub_02.jpg)
+# Tiny USB Hub v1.3E
+![Tiny USB Hub v1.3E 01](Assets/Tiny%20USB%20Hub%20v1.3E%2001.JPG)
+![Tiny USB Hub v1.3E 02](Assets/Tiny%20USB%20Hub%20v1.3E%2002.JPG)
 ---
 
 ## Attribution
@@ -30,7 +30,7 @@ In the future we hope to expand out USB controller host add-on to allow for GP20
 
 ## Board design choices
 
-This is a very simple board.  It has a small CH334R USB hub chip with a minimal implementation along with a USB-C in and two USB-A out.
+This is a very simple board.  It has a small CH334R USB hub chip with a minimal implementation that plugs into a the USB port on the RP2040 Advanced Breakout Board.
 
 
 ## Assembly
@@ -57,11 +57,11 @@ All of the boards so far have been ordered though JLCPCB.  Due to minimum order 
 
 1 - Go to JLCPCB.com<br/>
 2 - Click on `Instant Quote`<br/>
-3 - Click on `Add Gerber file` and choose the file named `Gerber - Tiny USB Hub v1.2E.zip`<br/>
+3 - Click on `Add Gerber file` and choose the file named `Gerber - Tiny USB Hub v1.3E.zip`<br/>
 4 - Choose the following options for the board:<br/>
 - Base Material = FR-4<br/>
 - Layers = 2<br/>
-- Dimensions = (should auto-populate) 22 * 34 mm<br/>
+- Dimensions = (should auto-populate) 23.13 * 45.31 mm<br/>
 - PCB Qty = 5<br/>
 - Product Type = Industrial/Consumer electronics<br/>
 - Deburring/Edge Rounding = Yes<br/>
@@ -97,8 +97,8 @@ Note 1 + 2 - This adds around $1 to the total cost of the order and is 100% wort
 7 - The Bill of Materials page will show you a render of the board without parts.  You can click the `NEXT` button here unless you see any issues with the board<br/>
 
 8 - You will now have the option to upload two files:
-- For the `Add BOM File` you will need to choose the `BOM - Tiny USB Hub v1.2E.csv` file that is located in the Hardware files folder
-- For the `Add CPL File` you will need to choose the `CPL - Tiny USB Hub v1.2E.csv` file that is located in the Hardware files folder<br/>
+- For the `Add BOM File` you will need to choose the `BOM - Tiny USB Hub v1.3E.csv` file that is located in the Hardware files folder
+- For the `Add CPL File` you will need to choose the `CPL - Tiny USB Hub v1.3E.csv` file that is located in the Hardware files folder<br/>
 Once these two files have been uploaded you can press the `Process BOM & CPL` button.
 
 9 - You will now see a list of components that will be used to assemble the boards.  If there are not listed issues here you can click on the `NEXT` button. (note 3), (note 4)
@@ -129,6 +129,9 @@ https://www.paypal.com/donate/?hosted_button_id=2JMTZVCGLDYC2
 
 
 ## Revision History
+
+v1.3
+- Connects directly via male USB A
 
 v1.2
 - Moved to CH334R USB hub chip (first batch that works)
