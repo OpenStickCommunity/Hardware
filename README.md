@@ -54,7 +54,9 @@ Supported Boards
 - [Ghost Auth v2.0](/Boards/Supported%20Boards/Ghost%20Auth/README.md) - Designed by TheTrain
 - [GP2040 Keyboard converter](/Boards/Supported%20Boards/GP2040%20Keyboard%20Converter/Waveshare%20Zero-PCB/README.md) - Designed by Infraredaces
 - [USB Pasthrough Add-on Board](/Boards/Supported%20Boards/USB%20Passthrough%20Board/README.md) - Designed by TheTrain
-- [Tiny USB Hub v1.2](/Boards/Supported%20Boards/USB%20Hubs/Tiny%20USB%20Hub/README.md) - Designed by TheTrain
+- [Tiny USB Hub v1.2 - 2x USB with USB C](/Boards/Supported%20Boards/USB%20Hubs/Tiny%20USB%20Hub%v1.2e/README.md) - Designed by TheTrain
+- [Tiny USB Hub v1.3 - 2x USB Direct Connect](/Boards/Supported%20Boards/USB%20Hubs/Tiny%20USB%20Hub%v1.2e/README.md) - Designed by TheTrain
+- [Tiny USB Hub v1.4 - 4x USB Direct Connect](/Boards/Supported%20Boards/USB%20Hubs/Tiny%20USB%20Hub%v1.2e/README.md) - Designed by TheTrain
 
 Miscellaneous
 
