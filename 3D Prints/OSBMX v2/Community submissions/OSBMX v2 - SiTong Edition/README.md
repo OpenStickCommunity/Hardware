@@ -1,6 +1,5 @@
-## OSBLP v2 SiTong Edition 24mm + 30mm - Open Source Button LP v2
-![OSBLP v2 SiTong Edition 01](Assets/OSBLP%20v2%20-%20SiTong%20Edition%20-%2024mm%2001.jpg)
-![OSBLP v2 SiTong Edition 02](Assets/OSBLP%20v2%20-%20SiTong%20Edition%20-%2024mm%2002.jpg)
+## OSBMX v2 SiTong Edition 24mm + 30mm - Open Source Button MX v2
+![OSBMX v2 SiTong Edition 01](Assets/OSBMX%20v2%20-%20SiTong%20Edition%20-%2001.jpg)
 
 ---
 
@@ -10,15 +9,11 @@ I am not responsible for prints that do not turn out as intended or any damages 
 
 !!!WARNING!!!
 
-There are a growing number of Choc v2 LP switches coming onto the market.  For the purposes of this project I focused on `Kailh Red` switches.  While you may be able to use all sorts of other switches in these, I cannot guarantee that any other switches will work.  It is highly recommended to try a switch or two out to ensure proper operation before buying a ton of them.
+There are a nearly endless number of MX switches floating around out there.  For the purposes of this project I focused on Outemu switches.  While you may be able to use all sorts of other switches in these, I cannot guarantee that any other switches will work.  It is highly recommended to try a switch or two out to ensure proper operation before buying a ton of them.
 
 !!!WARNING!!!
 
-These take brand new boards.  You will not be able to use board from the OSBMX v2.
-
-!!!WARNING!!!
-
-This button requires printed supports.
+The v6 boards from the original OSBMX (with built in connector prongs) are no longer supported due to multiple reports of the connectors breaking (very thin PCBs like to snap)
 
 !!!WARNING!!!
 
@@ -28,7 +23,7 @@ This button requires printed supports.
 
 The following text must be included in any distribution of derivatives of this project or the boards. All links must also be included.
 
-Based on the OSBLP v2 SiTong Edition by TheTrain.
+Based on the OSBMX v2 SiTong Edition by TheTrain.
 
 Copyright © 2025 [TheTrain](http://x.com/thetrain24)<br/>
 
@@ -43,7 +38,7 @@ Anyone selling this commercially must include in the listing that this is an ope
 
 ## Summary
 
-This is a remix of the OSBLP specifically designed for SiTong caps.
+This is a remix of the OSBMX specifically designed for SiTong caps.
 
 Please note that it will not work with the SiTong 24mm or 30mm art caps.
 
@@ -75,9 +70,9 @@ Parts necessary for assembly of the PCBs:
 
 Parts necessary for assembly of 3D printed button:
 
-1 x OSBLP v2 SiTong Edition Plunger<br/>
-1 x OSBLP v2 SiTong Edition Main Body<br/>
-1 x OSBLP v2 SiTong Edition Nut<br/>
+1 x OSBMX v2 SiTong Edition Plunger<br/>
+1 x OSBMX v2 SiTong Edition Main Body<br/>
+1 x OSBMX v2 SiTong Edition Nut<br/>
 
 Optionally you can also print a matching wrench to help with tightning and untighning.
 
@@ -95,11 +90,11 @@ All of the boards so far have been ordered though JLCPCB.  Due to the size of th
 
 1 - Go to JLCPCB.com<br/>
 2 - Click on `Instant Quote`<br/>
-3 - Click on `Add Gerber file` and choose the file named `Gerber - OSBLP v2.0 multi-connector.zip`<br/>
+3 - Click on `Add Gerber file` and choose the file named `Gerber - OSBMX v2.0 multi-connector.zip`<br/>
 4 - Choose the following options for the board:<br/>
 - Base Material = FR-4<br/>
 - Layers = 2<br/>
-- Dimensions = (should auto-populate) 22 * 14 mm<br/>
+- Dimensions = (should auto-populate) 22 * 22 mm<br/>
 - PCB Qty = 100<br/>
 - Product Type = Industrial/Consumer electronics<br/>
 - Deburring/Edge Rounding = Yes<br/>
@@ -126,18 +121,18 @@ All of the boards so far have been ordered though JLCPCB.  Due to the size of th
 
 ---
 
-## How to print the OSBLP v2:
+## How to print the OSBMX v2:
 
 A .3MF file is included which can be loaded into most slicers with a set of my recommended settings.  
 
 To make each button you will need:
-1 x OSBLP v2 Plunger<br/>
-1 x OSBLP v2 Main Body<br/>
-1 x OSBLP v2 Nut<br/>
+1 x OSBMX v2 Ring<br/>
+1 x OSBMX v2 Main Body<br/>
+1 x OSBMX v2 Nut<br/>
 
-The rim should be printed flat side down.  The nut should also be printed flat side down.  
+The nut should also be printed flat side down.  
 
-You will need supports for these buttons. 
+There are no supports needed for this print.  
 
 It is recommended to print at the lowest print layer height your printer can do.  
 
@@ -148,12 +143,6 @@ The recommended print setting are to do 4-6 wall loops and then enough top and b
 You may need to adjust to achieve a good print on your own printer.  
 
 !!!Please note - I am not responcible for missprints or any costs incured from missprints!!!
-
----
-
-## Other stuff
-
-The original jig file from the OSBMX v2 will no longer work.  I do not have immediate plans to make a new jig.
 
 ---
 
@@ -171,7 +160,7 @@ https://www.paypal.com/donate/?hosted_button_id=2JMTZVCGLDYC2
 Revision History:
 
 v2.0 SiTong Edition
-- Changed some geometry so that you can use SiTong caps with the 24mm and 30mm OSBLP v2s
+- Changed some geometry so that you can use SiTong caps with the 24mm and 30mm OSBLP/OSBMX v2s
 
 v2.0
 - Conversion to LP design
