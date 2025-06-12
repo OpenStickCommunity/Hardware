@@ -27,6 +27,8 @@ The Tiny USB Hub is a small two port USB hub that can be used with GP2040-CE.  C
 
 In the future we hope to expand out USB controller host add-on to allow for GP2040-CE to be used as a controller converter.
 
+Please note that this design is intended for small dongles or cables.  It will not allow for two larger converters like the Brook FGC 1/2 or dongles of similar sizes to be connected side by side.
+
 
 ## Board design choices
 
