@@ -58,6 +58,7 @@ Supported Boards
 - [USB Pasthrough Add-on Board](/Boards/Supported%20Boards/USB%20Passthrough%20Board/README.md) - Designed by TheTrain
 - [Tiny USB Hub v1.2 - 2x USB with USB C](/Boards/Supported%20Boards/USB%20Hubs/Tiny%20USB%20Hub%20v1.2e/README.md) - Designed by TheTrain
 - [Tiny USB Hub v1.3 - 2x USB Direct Connect](/Boards/Supported%20Boards/USB%20Hubs/Tiny%20USB%20Hub%20v1.3e/README.md) - Designed by TheTrain
+- [Tiny USB Hub v1.3 v2 - 2x USB Direct Connect](/Boards/Supported%20Boards/USB%20Hubs/Tiny%20USB%20Hub%20v1.3e%20v2/README.md) - Designed by TheTrain
 - [Tiny USB Hub v1.4 - 4x USB Direct Connect](/Boards/Supported%20Boards/USB%20Hubs/Tiny%20USB%20Hub%20v1.4e/README.md) - Designed by TheTrain
 
 Miscellaneous
