@@ -88,6 +88,13 @@ Trains Sim Racing Stuff
 - [Wind Sim](/Trains%20Sim%20Racing%20Stuff/Wind%20Sim/README.md) - Designed by TheTrain
 - [LapTimer](/Trains%20Sim%20Racing%20Stuff/Laptimer/README.md) - Designed by TheTrain
 
+Trains Arcade Machine Manual Stuff
+
+- [Taito Vewlix L - Manual - Part 1](/Trains%20Vewlix%20Stuff/Vewlix%20Manual/Taito%20Vewlix%20L%20-%20Manual%20-%20Part%201.pdf)
+- [Taito Vewlix L - Manual - Part 2](/Trains%20Vewlix%20Stuff/Vewlix%20Manual/Taito%20Vewlix%20L%20-%20Manual%20-%20Part%202.pdf)
+- [Taito Vewlix L - Manual - Part 3](/Trains%20Vewlix%20Stuff/Vewlix%20Manual/Taito%20Vewlix%20L%20-%20Manual%20-%20Part%203.pdf)
+- [Theatrhythm - All-Star Carnival](/Trains%20Theatrhythm%20Stuff/Theatrhythm%20Manual/Theatrhythm%20-%20All-Star%20Carnival%20-%20Manual.pdf)
+
 Tutorials
 
 - [Focus Attack RGB LED Board Configuration](/Tutorials/Focus%20Attack%20LED%20Board%20Configuration/README.md) for the [RP2040 Advanced Breakout Board v5.6](/Boards/GP2040-CE%20Official%20Boards/RP2040%20Advanced%20Breakout%20Board/RP2040%20Advanced%20Breakout%20Board%20-%20Passthrough/README.md) - Written by TheTrain
