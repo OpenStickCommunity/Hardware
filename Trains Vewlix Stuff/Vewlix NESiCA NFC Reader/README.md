@@ -42,19 +42,19 @@ Please note that this project is designed to be hand soldered.
 
 Please also note that the current RGB LED board must be hand soldered and while it can be assembled it would be expensive to do so.
 
-Future plans are:
-1 - Make a custom board to interface with the RP2040 Advanced Breakout Board - DONE
-2 - Look to add OLED support which will mimic the serial.print info - DONE
-3 - Model a custom NESiCA reader that can be ordered from JLCPCB - IN PROGRESS
-4 - Make a SMD assembly version of the RGB LED board - NOT STARTED
+Future plans are:</br>
+1 - Make a custom board to interface with the RP2040 Advanced Breakout Board - DONE</br>
+2 - Look to add OLED support which will mimic the serial.print info - DONE</br>
+3 - Model a custom NESiCA reader that can be ordered from JLCPCB - IN PROGRESS</br>
+4 - Make a SMD assembly version of the RGB LED board - NOT STARTED</br>
 
 
 ## Basic Implementation
 
-The basic implementation of this contains the following parts:
-1 x NESiCA reader shell - https://www.aliexpress.us/item/3256806549568116.html
-1 x PN532 NFC module - https://www.aliexpress.us/item/3256805740552837.html
-1 x Micro SD card breakout for Arduino - https://www.aliexpress.com/item/1005008612163894.html
+The basic implementation of this contains the following parts:</br>
+1 x NESiCA reader shell - https://www.aliexpress.us/item/3256806549568116.html</br>
+1 x PN532 NFC module - https://www.aliexpress.us/item/3256805740552837.html</br>
+1 x Micro SD card breakout for Arduino - https://www.aliexpress.com/item/1005008612163894.html</br>
 
 You will then need an RP2040 based board to attach the PN532 NFC module to and something like the RP2040 Advanced Breakout Board to wire the RP2040 based board to.
 
@@ -65,11 +65,11 @@ In my case I am using a Pico Mini RP2040 and then connecting the pins on the boa
 
 ## Advanced Implementation
 
-The basic implementation of this contains the following parts:
-1 x NESiCA reader shell - https://www.aliexpress.us/item/3256806549568116.html
-1 x PN532 NFC module - https://www.aliexpress.us/item/3256805740552837.html
-1 x NESiCA Reader RGB LED board - [HERE](/Hardware%20files/Gerber%20-%20NESiCA%20Reader%20RGB%20Board.zip)
-1 x Micro SD card breakout for Arduino - https://www.aliexpress.com/item/1005008612163894.html
+The basic implementation of this contains the following parts:</br>
+1 x NESiCA reader shell - https://www.aliexpress.us/item/3256806549568116.html</br>
+1 x PN532 NFC module - https://www.aliexpress.us/item/3256805740552837.html</br>
+1 x NESiCA Reader RGB LED board - [HERE](/Hardware%20files/Gerber%20-%20NESiCA%20Reader%20RGB%20Board.zip)</br>
+1 x Micro SD card breakout for Arduino - https://www.aliexpress.com/item/1005008612163894.html</br>
 
 For the advanced implemetation you can add an RGB LED board that will make the reader stay `white` and then turn `green` when an allowed card and `red` when a non-allowed card is tapped.
 
@@ -84,13 +84,13 @@ The Arduino sketch allows you to read the UID of NFC cards and stickers that are
 
 Once you have the UID you can add it to a .txt file on the Micro SD card.  The Micro SD card should be formatted for FAT32.  The .txt files can be called whatever you like, the script will load everything with a .txt file extension.  There is an example .txt file indluded in the `Arduino sketches` folder.  The layout of the .txt file is very simple:
 
-```
-UID:0x00:0x00:0x00:0x00:0x00:0x00:0x00
-MSG:Message line 1
-MSG2:Message line 2
-ACTION:PRESS up_pin 1000 2000
-ACTION:SIMUL_PRESS up_pin,left_pin 1000 2000
-```
+---
+UID:0x00:0x00:0x00:0x00:0x00:0x00:0x00</br>
+MSG:Message line 1</br>
+MSG2:Message line 2</br>
+ACTION:PRESS up_pin 1000 2000</br>
+ACTION:SIMUL_PRESS up_pin,left_pin 1000 2000</br>
+---
 
 The UID is the UID of the NFC card you have tapped.  You can find this from the serial monitor, or, if you have a connected OLED, it will display on the OLED when you tap.
 
