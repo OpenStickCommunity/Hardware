@@ -84,13 +84,13 @@ The Arduino sketch allows you to read the UID of NFC cards and stickers that are
 
 Once you have the UID you can add it to a .txt file on the Micro SD card.  The Micro SD card should be formatted for FAT32.  The .txt files can be called whatever you like, the script will load everything with a .txt file extension.  There is an example .txt file indluded in the `Arduino sketches` folder.  The layout of the .txt file is very simple:
 
----
+//
 UID:0x00:0x00:0x00:0x00:0x00:0x00:0x00</br>
 MSG:Message line 1</br>
 MSG2:Message line 2</br>
 ACTION:PRESS up_pin 1000 2000</br>
 ACTION:SIMUL_PRESS up_pin,left_pin 1000 2000</br>
----
+//
 
 The UID is the UID of the NFC card you have tapped.  You can find this from the serial monitor, or, if you have a connected OLED, it will display on the OLED when you tap.
 
