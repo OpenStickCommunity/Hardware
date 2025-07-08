@@ -28,8 +28,6 @@ Anyone selling this commercially must include in the listing that this is an ope
 
 ---
 
-## Summary
-
 ## Warnings / Disclaimer:
 
 Please note the following warnings / disclaimer:
