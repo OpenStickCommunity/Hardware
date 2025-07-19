@@ -88,6 +88,7 @@ Trains Sim Racing Stuff
 - [Logitech G PRO RS Wheel Rim template](/Trains%20Sim%20Racing%20Stuff/Logitech%20G%20PRO%20RS%20Wheel%20Rim%20template/README.md) - Designed by TheTrain
 - [Wind Sim](/Trains%20Sim%20Racing%20Stuff/Wind%20Sim/README.md) - Designed by TheTrain
 - [LapTimer](/Trains%20Sim%20Racing%20Stuff/Laptimer/README.md) - Designed by TheTrain
+- [Porsche GT3 R Plate](/Trains%20Sim%20Racing%20Stuff/Porsche%20911%20GT3%20R%20plate/README.md) - Designed by TheTrain
 
 Trains Arcade Machine Manual Stuff
 
