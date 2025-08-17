@@ -18,8 +18,8 @@ Included in the art template is copies of the Nintendo Switch and Nintendo Switc
 
 There are two placeholder images that I have added into the Nintendo Switch and Nintendo Switch 2 art template.
 
-[Sea of Stars](https://seaofstarsgame.co/) is from the fantastic [Sabotage Studios](https://sabotagestudio.com/)
-[Cyberpunk 2077](https://www.cyberpunk.net/nz/en/) is from [CD Projekt Red](https://www.cdprojektred.com/en)
+[Sea of Stars](https://seaofstarsgame.co/) is from the fantastic [Sabotage Studios](https://sabotagestudio.com/)<br/>
+[Cyberpunk 2077](https://www.cyberpunk.net/nz/en/) is from [CD Projekt Red](https://www.cdprojektred.com/en)<br/>
 
 If you have not played [Sea of Stars](https://seaofstarsgame.co/) I would highly recommend you pick it up!  It is one of my favourite games of all time.
 
