@@ -52,6 +52,8 @@ There are three main pieces that snap together without the use of any screws or 
 
 Under normal settings you should be able to make around 5-6 art carts per 1kg roll of filament.  
 
+You will need a printer that can print at least 250mm on one side.
+
 The template is designed around an 8x10 piece of photo paper although it will work just fine on an 8.5x11 piece of photo paper or normal paper.  
 
 The universal wall mount features 3 main ways to attach to the wall:
