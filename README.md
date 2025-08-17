@@ -69,6 +69,7 @@ Miscellaneous
 - [Sanjuks Style Nobi Topper](/Miscellaneous/Sanjuks%20Style%20Nobi%20Topper/README.md) - Designed by TheTrain
 - [Open LED Project - Sanwa 30mm RGB LEDs](/Miscellaneous/Open%20LED%20Project%20-%20Sanwa%2030mm%20RGB%20LED/README.md) - Designed by TheTrain
 - [Open LED Project - Addressable RGB LED Light Bar](/Miscellaneous/Open%20LED%20Project%20-%20Addressable%20RGB%20LED%20Light%20Bar/README.md) - Designed by TheTrain
+- [Nintendo Switch Art Cart](/Miscellaneous/Nintendo%20Switch%20Art%20Carts/README.md) - Designed by TheTrain, art template by TheTrain
 
 Trains Vewlix Stuff
 
