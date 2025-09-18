@@ -62,7 +62,7 @@ A USB-C and USB-B port can be found on the right side of the board.  USB-C was c
 There are three buttons on the board:
   - A BootSel button, which can be held on plug-in to enter BootSel mode which is used to flash the device with firmware. 
   - A reset button, which can be pressed to reset the device.
-  - A web-conifg button, which can be held while plugging in to go to web-config mode.*
+  - A web-config button, which can be held while plugging in to go to web-config mode.*
 
 Please note that web-config can be accessed by pressing and holding S2.  This is an extra mapping of S2 to allow for easy access and setup of the web-config utility for those that are working on boards not already installed or connected to anything. 
 
