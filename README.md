@@ -91,6 +91,10 @@ Trains Sim Racing Stuff
 - [LapTimer](/Trains%20Sim%20Racing%20Stuff/Laptimer/README.md) - Designed by TheTrain
 - [Porsche GT3 R Plate](/Trains%20Sim%20Racing%20Stuff/Porsche%20911%20GT3%20R%20plate/README.md) - Designed by TheTrain
 
+Trains Theatrhythm Stuff
+- [Theatrhythm - All-Star Carnival Manual](/Trains%20Theatrhythm%20Stuff/Theatrhythm%20Manual/Theatrhythm%20-%20All-Star%20Carnival%20-%20Manual.pdf)
+- [Theatrhythm - All-Star Carnival JLF Shaft](/Trains%20Theatrhythm%20Stuff/Theatrhythm%20JLF%20shaft/README.md) - Designed by LayerShift
+
 Trains Arcade Machine Manual Stuff
 
 - [Taito Vewlix L - Manual - Part 1](/Trains%20Vewlix%20Stuff/Vewlix%20Manual/Taito%20Vewlix%20L%20-%20Manual%20-%20Part%201.pdf)

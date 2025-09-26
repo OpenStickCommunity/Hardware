@@ -7,9 +7,9 @@
 
 The following text must be included in any distribution of derivatives of this project. All links must also be included.
 
-Based on the Theatrhythm JLF Shaft by Layershift and TheTrain.
+Based on the Theatrhythm JLF Shaft by LayerShift and TheTrain.
 
-Copyright © 2025 [Layershift](https://x.com/Layer_Shift)<br/>
+Copyright © 2025 [LayerShift](https://x.com/Layer_Shift)<br/>
 Copyright © 2025 [TheTrain](http://x.com/thetrain24)<br/>
 
 [Licensed under CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
@@ -81,5 +81,5 @@ v1.0
 
 ## Acknowledgments
 
-- [Layershift](https://x.com/Layer_Shift) For designing the shaft<br/>
+- [LayerShift](https://x.com/Layer_Shift) For designing the shaft<br/>
 - [TheTrain](https://github.com/TheTrainGoes) Didn't do much on this one<br/>
