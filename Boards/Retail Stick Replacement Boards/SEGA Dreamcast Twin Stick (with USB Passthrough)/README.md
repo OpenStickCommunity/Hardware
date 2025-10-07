@@ -6,7 +6,7 @@
 
 The following text must be included in any distribution of derivatives of this board. All links must also be included.
 
-Copyright © 2025 [indigotrance](https://github.com/FeiYenKn
+Copyright © 2025 [indigotrance](https://github.com/FeiYenKn)
 
 [Licensed under CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
