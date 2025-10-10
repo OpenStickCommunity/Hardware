@@ -70,6 +70,7 @@ Miscellaneous
 - [Open LED Project - Sanwa 30mm RGB LEDs](/Miscellaneous/Open%20LED%20Project%20-%20Sanwa%2030mm%20RGB%20LED/README.md) - Designed by TheTrain
 - [Open LED Project - Addressable RGB LED Light Bar](/Miscellaneous/Open%20LED%20Project%20-%20Addressable%20RGB%20LED%20Light%20Bar/README.md) - Designed by TheTrain
 - [Nintendo Switch Art Cart](/Miscellaneous/Nintendo%20Switch%20Art%20Carts/README.md) - Designed by TheTrain, art template by TheTrain
+- [Sanwa JLF Plate Cover](/Miscellaneous/Sanwa%20JLF%20Plate%20Cover/README.md) - Designed by TheTrain
 
 Trains Vewlix Stuff
 
