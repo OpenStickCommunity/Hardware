@@ -51,6 +51,7 @@ Retail Stick Replacement Boards
 - [Hori Fighting Edge PS4 (FE PS4)](/Boards/Retail%20Stick%20Replacement%20Boards/Hori%20Fighting%20Edge%20PS4%20(FE%20PS4)/README.md) - Designed by TheTrain
 - [Hori Real Arcade Pro N PS4 (RAP N PS4)](/Boards/Retail%20Stick%20Replacement%20Boards/Hori%20Real%20Arcade%20Pro%20N%20PS4%20(RAP%20N%20PS4)/README.md) - Designed by TheTrain
 - [Hori Real Arcade Pro VLX PS3 (RAP VLX PS3)](/Boards/Retail%20Stick%20Replacement%20Boards/Hori%20Real%20Arcade%20Pro%20VLX%20PS3%20(RAP%20VLX%20PS3)/README.md) - Designed by TheTrain
+- [SEGA Dreamcast Twin Stick (with USB Passthrough)](/Boards/Retail%20Stick%20Replacement%20Boards/SEGA%20Dreamcast%20Twin%20Stick%20(with%20USB%20Passthrough)/README.md) - Designed by indigotrance
 
 Supported Boards
 
