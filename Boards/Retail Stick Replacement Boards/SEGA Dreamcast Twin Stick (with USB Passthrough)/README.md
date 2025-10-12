@@ -1,4 +1,5 @@
 # SEGA Dreamcast Twin Stick Drop-in Replacement Board (with USB Passthrough)
+![DC TS](Assets/SEGA%20Dreamcast%20Twin%20Stick.JPG)
 
 ---
 
