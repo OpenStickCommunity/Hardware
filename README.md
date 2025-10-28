@@ -19,6 +19,7 @@ This repository is a collection of open-source hardware designs which have been 
 - [3D Printable OSBLP v2 Buttons](/3D%20Prints/OSBLP%20v2/README.md) - Designed by TheTrain
 - [3D Printable OSBMX v2 SiTong Edition Buttons](/3D%20Prints/OSBMX%20v2/Community%20submissions/OSBMX%20v2%20-%20SiTong%20Edition/README.md) - Designed by TheTrain (remixed from the OSBLP v2 by TheTrain)
 - [3D Printable OSBLP v2 SiTong Edition Buttons](/3D%20Prints/OSBLP%20v2/Community%20submissions/OSBLP%20v2%20-%20SiTong%20Edition/README.md) - Designed by TheTrain (remixed from the OSBLP v2 by TheTrain)
+- [3D Printable OSBHE v2 Buttons](/3D%20Prints/OSBHE%20v2/README.md) - Designed by TheTrain
 - [3D Printable OSB Plug](/3D%20Prints/OSB%20Plug/README.md) - Designed by TheTrain
 - [3D Printable OSB Analog Stick](/3D%20Prints/OSB%20Analog%20Stick/README.md) - Designed by TheTrain
 
@@ -61,6 +62,7 @@ Supported Boards
 - [Tiny USB Hub v1.3 - 2x USB Direct Connect](/Boards/Supported%20Boards/USB%20Hubs/Tiny%20USB%20Hub%20v1.3e/README.md) - Designed by TheTrain
 - [Tiny USB Hub v1.3 v2 - 2x USB Direct Connect](/Boards/Supported%20Boards/USB%20Hubs/Tiny%20USB%20Hub%20v1.3e%20v2/README.md) - Designed by TheTrain
 - [Tiny USB Hub v1.4 - 4x USB Direct Connect](/Boards/Supported%20Boards/USB%20Hubs/Tiny%20USB%20Hub%20v1.4e/README.md) - Designed by TheTrain
+- [HE Breakout Board v1.1](/Boards/Supported%20Boards/HE%20Breakout%20Board/README.md) - Designed by TheTrain
 
 Miscellaneous
 
