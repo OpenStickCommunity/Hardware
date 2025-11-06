@@ -51,3 +51,4 @@ v1.0
 
 - [TheTrain](https://github.com/TheTrainGoes) Did the design on this<br/>
 - Theatrhythm community for sharing reference shots and feedback along the way
+- Square Enix who owns the trademarks on Final Fantasy and Theatrhythm
