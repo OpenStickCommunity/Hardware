@@ -97,7 +97,8 @@ Trains Sim Racing Stuff
 Trains Theatrhythm Stuff
 - [Theatrhythm - All-Star Carnival Manual](/Trains%20Theatrhythm%20Stuff/Theatrhythm%20Manual/Theatrhythm%20-%20All-Star%20Carnival%20-%20Manual.pdf)
 - [Theatrhythm - All-Star Carnival JLF Shaft](/Trains%20Theatrhythm%20Stuff/Theatrhythm%20JLF%20shaft/README.md) - Designed by LayerShift
-- [Theatrhythm - All-Star Carnival Side Plexi Art](/Trains%20Theatrhythm%20Stuff/Theatrhythm%20ASC%20Side%20Plexi%20Art/README.md) - Designed by TheTrain
+- [Theatrhythm - All-Star Carnival Side Plexi Art](/Trains%20Theatrhythm%20Stuff/Theatrhythm%20ASC%20Arcade%20Cabinet%20Art/Theatrhythm%20ASC%20Side%20Plexi%20Art/README.md) - Designed by TheTrain
+- [Theatrhythm - All-Star Carnival Front Control Panel Art](/Trains%20Theatrhythm%20Stuff/Theatrhythm%20ASC%20Arcade%20Cabinet%20Art/Theatrhythm%20ASC%20Front%20Control%20Panel%20Art/README.md) - Designed by TheTrain
 
 Trains Arcade Machine Manual Stuff
 
