@@ -99,6 +99,7 @@ Trains Theatrhythm Stuff
 - [Theatrhythm - All-Star Carnival JLF Shaft](/Trains%20Theatrhythm%20Stuff/Theatrhythm%20JLF%20shaft/README.md) - Designed by LayerShift
 - [Theatrhythm - All-Star Carnival Side Plexi Art](/Trains%20Theatrhythm%20Stuff/Theatrhythm%20ASC%20Arcade%20Cabinet%20Art/Theatrhythm%20ASC%20Side%20Plexi%20Art/README.md) - Designed by TheTrain
 - [Theatrhythm - All-Star Carnival Front Control Panel Art](/Trains%20Theatrhythm%20Stuff/Theatrhythm%20ASC%20Arcade%20Cabinet%20Art/Theatrhythm%20ASC%20Front%20Control%20Panel%20Art/README.md) - Designed by TheTrain
+- [Theatrhythm - All-Star Carnival NESiCA Reader Art](/Trains%20Theatrhythm%20Stuff/Theatrhythm%20ASC%20Arcade%20Cabinet%20Art/Theatrhythm%20ASC%20NESiCA%20Reader%20Art/README.md) - Designed by TheTrain
 
 Trains Arcade Machine Manual Stuff
 
