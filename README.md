@@ -19,6 +19,7 @@ This repository is a collection of open-source hardware designs which have been 
 - [3D Printable OSBLP v2 Buttons](/3D%20Prints/OSBLP%20v2/README.md) - Designed by TheTrain
 - [3D Printable OSBMX v2 SiTong Edition Buttons](/3D%20Prints/OSBMX%20v2/Community%20submissions/OSBMX%20v2%20-%20SiTong%20Edition/README.md) - Designed by TheTrain (remixed from the OSBLP v2 by TheTrain)
 - [3D Printable OSBLP v2 SiTong Edition Buttons](/3D%20Prints/OSBLP%20v2/Community%20submissions/OSBLP%20v2%20-%20SiTong%20Edition/README.md) - Designed by TheTrain (remixed from the OSBLP v2 by TheTrain)
+- [3D Printable OSBHE v2 Buttons](/3D%20Prints/OSBHE%20v2/README.md) - Designed by TheTrain
 - [3D Printable OSB Plug](/3D%20Prints/OSB%20Plug/README.md) - Designed by TheTrain
 - [3D Printable OSB Analog Stick](/3D%20Prints/OSB%20Analog%20Stick/README.md) - Designed by TheTrain
 
@@ -62,6 +63,7 @@ Supported Boards
 - [Tiny USB Hub v1.3 - 2x USB Direct Connect](/Boards/Supported%20Boards/USB%20Hubs/Tiny%20USB%20Hub%20v1.3e/README.md) - Designed by TheTrain
 - [Tiny USB Hub v1.3 v2 - 2x USB Direct Connect](/Boards/Supported%20Boards/USB%20Hubs/Tiny%20USB%20Hub%20v1.3e%20v2/README.md) - Designed by TheTrain
 - [Tiny USB Hub v1.4 - 4x USB Direct Connect](/Boards/Supported%20Boards/USB%20Hubs/Tiny%20USB%20Hub%20v1.4e/README.md) - Designed by TheTrain
+- [HE Breakout Board v1.1](/Boards/Supported%20Boards/HE%20Breakout%20Board/README.md) - Designed by TheTrain
 
 Miscellaneous
 
@@ -71,6 +73,7 @@ Miscellaneous
 - [Open LED Project - Sanwa 30mm RGB LEDs](/Miscellaneous/Open%20LED%20Project%20-%20Sanwa%2030mm%20RGB%20LED/README.md) - Designed by TheTrain
 - [Open LED Project - Addressable RGB LED Light Bar](/Miscellaneous/Open%20LED%20Project%20-%20Addressable%20RGB%20LED%20Light%20Bar/README.md) - Designed by TheTrain
 - [Nintendo Switch Art Cart](/Miscellaneous/Nintendo%20Switch%20Art%20Carts/README.md) - Designed by TheTrain, art template by TheTrain
+- [Sanwa JLF Plate Cover](/Miscellaneous/Sanwa%20JLF%20Plate%20Cover/README.md) - Designed by TheTrain
 
 Trains Vewlix Stuff
 
@@ -95,6 +98,10 @@ Trains Sim Racing Stuff
 Trains Theatrhythm Stuff
 - [Theatrhythm - All-Star Carnival Manual](/Trains%20Theatrhythm%20Stuff/Theatrhythm%20Manual/Theatrhythm%20-%20All-Star%20Carnival%20-%20Manual.pdf)
 - [Theatrhythm - All-Star Carnival JLF Shaft](/Trains%20Theatrhythm%20Stuff/Theatrhythm%20JLF%20shaft/README.md) - Designed by LayerShift
+- [Theatrhythm - All-Star Carnival Side Plexi Art](/Trains%20Theatrhythm%20Stuff/Theatrhythm%20ASC%20Arcade%20Cabinet%20Art/Theatrhythm%20ASC%20Side%20Plexi%20Art/README.md) - Designed by TheTrain
+- [Theatrhythm - All-Star Carnival Front Control Panel Art](/Trains%20Theatrhythm%20Stuff/Theatrhythm%20ASC%20Arcade%20Cabinet%20Art/Theatrhythm%20ASC%20Front%20Control%20Panel%20Art/README.md) - Designed by TheTrain
+- [Theatrhythm - All-Star Carnival NESiCA Reader Art](/Trains%20Theatrhythm%20Stuff/Theatrhythm%20ASC%20Arcade%20Cabinet%20Art/Theatrhythm%20ASC%20NESiCA%20Reader%20Art/README.md) - Designed by TheTrain
+- [Theatrhythm - All-Star Carnival Coin Sticker Art](/Trains%20Theatrhythm%20Stuff/Theatrhythm%20ASC%20Arcade%20Cabinet%20Art/Theatrhythm%20ASC%20Coin%20Sticker%20Art/README.md) - Designed by TheTrain
 
 Trains Arcade Machine Manual Stuff
 
