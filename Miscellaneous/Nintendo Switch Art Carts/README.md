@@ -76,17 +76,17 @@ To make each Nintendo Switch Art Cart you will need:
 Optional but highly recommended:
 1 x Nintendo Switch Art Cart - Art Mounting Jig<br/>
 
-These can be printed at normal layer height, there is no benifit to printing at a very low layer height.  
+These can be printed at normal layer height, there is no benefit to printing at a very low layer height.  
 
 When printing the mid frame part it is recommended to enable ironing on the topmost surface so that the triangle part looks smooth.
 
-!!!Please note - I am not responcible for missprints or any costs incured from missprints!!!
+!!!Please note - I am not responsible for missprints or any costs incurred from missprints!!!
 
 ---
 
 ## How to print and cut the Nintendo Switch Art Cart art:
 
-This was made in Affinity Designer.  I have included a .PSD file but cannot guarntee it works the same way as I do not have Photoshop.  
+This was made in Affinity Designer.  I have included a .PSD file but cannot guarantee it works the same way as I do not have Photoshop.  
 
 The art file has two main sections to it, a Nintendo Switch and Nintendo Switch 2 grouping.  
 
@@ -98,19 +98,19 @@ It is important to ensure you print at 100% so the image size stays correct.
 
 I printed all of mine on an Epson Ecotank using Epson premium photo paper.  I have not tested this on other paper.
 
-!!!Please note - I am not responcible for missprints or any costs incured from missprints!!!
+!!!Please note - I am not responsible for missprints or any costs incurred from missprints!!!
 
 There are some cutting guide points on the template as well.
 
 Using scissors or a knife cut the top and bottom lines on the marked points.  There is an extra strip at the top to ensure you do not get any white paper showing through.  
 
-!!!Please note - I am not responcible for injury that results from improper use of a knife or scissors.  If you are unable to use a knife or scissors ask someone who is more comfortable for help!!!
+!!!Please note - I am not responsible for injury that results from improper use of a knife or scissors.  If you are unable to use a knife or scissors ask someone who is more comfortable for help!!!
 
 If you have a black or red sharpie you can color the thickness of the paper so that it does not show the white of the photo paper once installed.
 
 Using scissors or a knife cut the left and right edges, there will no longer be marking points (as you just cut them off) but you want to go about 1mm into the color on both sides.  
 
-!!!Please note - I am not responcible for injury that results from improper use of a knife or scissors.  If you are unable to use a knife or scissors ask someone who is more comfortable for help!!!
+!!!Please note - I am not responsible for injury that results from improper use of a knife or scissors.  If you are unable to use a knife or scissors ask someone who is more comfortable for help!!!
 
 You can test fit this and see if any adjustments are needed.
 

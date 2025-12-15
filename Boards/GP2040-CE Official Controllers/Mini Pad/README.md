@@ -104,7 +104,7 @@ Note 1 - This is now free to remove on JLC!
 - Tooling holes = Added by Customer<br/>
 - Confirm Parts Placement = Yes (note 3)<br/>
 
-Note 2 - Economic assembly is much cheaper on smaller batch runs of 10-30 units.  Standard assembly will yield less dead on arrival boards but is more expensive to have done.  These boards are extreamly simple and I do not expect assembly issues with them.
+Note 2 - Economic assembly is much cheaper on smaller batch runs of 10-30 units.  Standard assembly will yield less dead on arrival boards but is more expensive to have done.  These boards are extremely simple and I do not expect assembly issues with them.
 
 Note 3 - This adds around $1 to the total cost of the order and is 100% worth doing as they will check the placement of all SMD parts and make any necessary changes or reach out if there are concerns.  I cannot stress enough that this is the best $1 you will spend for the peace of mind of not messing up an entire batch.
 
@@ -162,7 +162,7 @@ https://www.paypal.com/donate/?hosted_button_id=2JMTZVCGLDYC2
 ## Revision History
 
 v1.0
-- Innitial design
+- Initial design
 
 
 ## Acknowledgements

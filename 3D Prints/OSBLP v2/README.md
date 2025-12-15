@@ -59,7 +59,7 @@ The OSBLP v2 is focused simply on 3D printing though home FDM printers.  These h
 
 If you are planning to use these with the PCB included in the repo please be sure to research which switches will and will not work.  I am unable to answer questions on individual switch compatibility.
 
-Please note that these buttons can also be used without the circuit board as the main housing of the button will hold the LP switches just fine.  You can then use a hot swap connector directly or just solder to the LP switches.  It is recommeded to use a PCB.
+Please note that these buttons can also be used without the circuit board as the main housing of the button will hold the LP switches just fine.  You can then use a hot swap connector directly or just solder to the LP switches.  It is recommended to use a PCB.
 
 A massive thank you to LayerShift (https://x.com/Layer_Shift) for helping get the Fusion360 model all cleaned up on the OSBMX v2 which was used as the base for the OSBLP v2.
 
@@ -157,13 +157,13 @@ You will need supports for these buttons.
 
 It is recommended to print at the lowest print layer height your printer can do.  
 
-I have extensivly printed and tested these on my BambuLabs X1C and P1S using both a 0.4mm and 0.2mm nozzle on normal and matte PLA.  
+I have extensively printed and tested these on my BambuLabs X1C and P1S using both a 0.4mm and 0.2mm nozzle on normal and matte PLA.  
 
 The recommended print setting are to do 4-6 wall loops and then enough top and bottom laters to have solid infill.  
 
 You may need to adjust to achieve a good print on your own printer.  
 
-!!!Please note - I am not responcible for missprints or any costs incured from missprints!!!
+!!!Please note - I am not responsible for missprints or any costs incurred from missprints!!!
 
 ---
 

@@ -1,5 +1,5 @@
 # Hori Fighting Edge PS3 (FE PS3) Drop-in Replacement Board
-![Hori FE PS3](Assets/Hori%20Fighitng%20Edge%20PS3%20(FE%20PS3).JPG)
+![Hori FE PS3](Assets/Hori%20Fighting%20Edge%20PS3%20(FE%20PS3).JPG)
 
 ---
 
@@ -27,7 +27,7 @@ Please also note that there is no set configuration for this board and you may n
 
 Given that I do not consider this board finished, please proceed at your own risk!  I will not answer any questions about ordering the boards or setup, and no support will be offered on it.  If you do not know how to order a board from JLCPCB with assembly this might not be for you.
 
-A STEP model is available [HERE](3D%20Files/STEP%20-%20Hori%20Fighitng%20Edge%20PS3%20(FE%20PS3).step) although it is not really needed since this board directly replaces the original board.
+A STEP model is available [HERE](3D%20Files/STEP%20-%20Hori%20Fighting%20Edge%20PS3%20(FE%20PS3).step) although it is not really needed since this board directly replaces the original board.
 
 I also have some drop in RGB LED replacement boards for the four side LEDs.  These will be updated at a later time because they are very complicated to make and cannot be economically assembled by JLCPCB (aka you will need to solder them by hand).
 

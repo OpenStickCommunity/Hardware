@@ -141,13 +141,13 @@ You will need supports for these buttons.
 
 It is recommended to print at the lowest print layer height your printer can do.  
 
-I have extensivly printed and tested these on my BambuLabs X1C and P1S using both a 0.4mm and 0.2mm nozzle on normal and matte PLA.  
+I have extensively printed and tested these on my BambuLabs X1C and P1S using both a 0.4mm and 0.2mm nozzle on normal and matte PLA.  
 
 The recommended print setting are to do 4-6 wall loops and then enough top and bottom laters to have solid infill.  
 
 You may need to adjust to achieve a good print on your own printer.  
 
-!!!Please note - I am not responcible for missprints or any costs incured from missprints!!!
+!!!Please note - I am not responsible for missprints or any costs incurred from missprints!!!
 
 ---
 

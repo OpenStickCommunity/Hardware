@@ -13,7 +13,7 @@ They will do a few different things:
 
 ** Note 1: I am not responsible for any damage that happen to yourself or any of your equipment as a result of attempting this guide. ** </br>
 ** Note 2: You can only use 1mm foam for this mod, using anything thicker will result in inconsistent shifts or shifts that do not register at all. ** </br>
-** Note 3: I am not responcible if this voids your warranty with Logitech or the retailer you purchased this from. ** </br>
+** Note 3: I am not responsible if this voids your warranty with Logitech or the retailer you purchased this from. ** </br>
 
 You can find an .SVG cut file in the Source Files folder [HERE](Source%20Files/Logitech%20RS%20Wheel%20Hub%20Shifter%20Pad%20Mod.svg).
 
@@ -59,7 +59,7 @@ Step 3:
 
 Gently pry the two half parts apart.  You can do this with your hands, no tools should be used to remove the half parts.  Be careful not to pull too hard as there is a small connector between the two parts.
 
-Once you have the two half parts seperated gently disconnect the connector from the main board on the front half of the Hub.
+Once you have the two half parts separated gently disconnect the connector from the main board on the front half of the Hub.
 
 Although the front havf of the Hub looks cool we will not be making any changes to it so please put it off to the side for now.
 
@@ -76,7 +76,7 @@ Using some hex keys, remove the 6 bolts holding on the quick disconnect assembly
 You will notice that one of the bolts is longer than the other ones.
 
 ** Note 4: It is recommened to apply some pressure to the back of the quick disconnect assembly while you do this as it will be under spring pressure.  Not doing this could result in damage or injury. ** </br>
-** Note 5: I am not responcible for any damage or injury that results from the attempted disassembly and reassembly of this Hub. ** </br>
+** Note 5: I am not responsible for any damage or injury that results from the attempted disassembly and reassembly of this Hub. ** </br>
 
 ![RS_Hub_10](Assets/RS_Hub_10.JPG)
 ![RS_Hub_11](Assets/RS_Hub_11.JPG)
@@ -139,9 +139,9 @@ Step 9:
 
 Follow the previous steps backwards to start putting the Hub back together.
 
-When you get back to Step 4 it is recommended to compress the spring down on a flat surface and then install the top and bottom bolt securly before you put the others in.
+When you get back to Step 4 it is recommended to compress the spring down on a flat surface and then install the top and bottom bolt securely before you put the others in.
 
-** Note 8: I am not responcible for any damage or injury that results from the attempted disassembly and reassembly of this Hub. ** </br>
+** Note 8: I am not responsible for any damage or injury that results from the attempted disassembly and reassembly of this Hub. ** </br>
 
 ![RS_Hub_23](Assets/RS_Hub_23.JPG)
 

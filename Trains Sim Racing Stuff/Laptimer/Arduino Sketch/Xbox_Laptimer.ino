@@ -260,7 +260,7 @@ void loop() {
       u8g2_font_logisoso54_tn,           // Font for the fourth character - First second character - 00:[0]0.0
       u8g2_font_logisoso54_tn,           // Font for the fifth character - Second second character - 00:0[0].0
       u8g2_font_logisoso54_tn,           // Font for the sixth character - '.' character - 00:00[.]0
-      u8g2_font_logisoso54_tn,           // Font for the seventh character - First milisecond character - 00:00.[0]
+      u8g2_font_logisoso54_tn,           // Font for the seventh character - First millisecond character - 00:00.[0]
     };
 
     // Define positions for each character, right-justified
@@ -271,7 +271,7 @@ void loop() {
       81,                                // X position for the fourth character - First second character - 00:[0]0.0
       113,                               // X position for the fifth character - Second second character - 00:0[0].0
       144,                               // X position for the sixth character - '.' character - 00:00[.]0
-      162,                               // X position for the seventh character - First milisecond character - 00:00.[0]
+      162,                               // X position for the seventh character - First millisecond character - 00:00.[0]
     };
 
     int charY = 60; // Y position for all characters

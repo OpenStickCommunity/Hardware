@@ -37,8 +37,8 @@ This board is designed to be hand-soldered.  At this time, the through hole fuse
 
 **There are 9 total parts needed to assemble each unit:<br/>**
 
-8 x Keystone Electronics Fuse Clip Blade 500V 30A PCB - 36-3557-ND<br/>
-1 x JST Connector Header R/A 5 position 2.5mm - 455-4200-ND
+8 x Keystone Electronics Fuse Clip Blade 500V 30A PCB - 36-3557-AND<br/>
+1 x JST Connector Header R/A 5 position 2.5mm - 455-4200-AND
 
 These parts can be sourced from DigiKey directly via the numbers at the end above.
 
