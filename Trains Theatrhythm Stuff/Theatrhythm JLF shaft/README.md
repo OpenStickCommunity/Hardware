@@ -22,7 +22,7 @@ Anyone selling this commercially must include in the listing that this is an ope
 
 ## Summary
 
-This is an extreamly short shaft based on the shaft used on the ones used in the Theatrhythm All-Star Carnival arcade cabinet.  
+This is an extremely short shaft based on the shaft used on the ones used in the Theatrhythm All-Star Carnival arcade cabinet.  
 
 It is recommended to have this done in Aluminum and have it both bead blasted and anodized.  I have not tested other materials or finishes.
 

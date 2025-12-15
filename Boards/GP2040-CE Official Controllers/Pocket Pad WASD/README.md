@@ -20,8 +20,8 @@ Changes from the original design:
 The Pocket Pad WASD was another silly idea that has been bouncing around following the Pocket Pad.  Recently there has been more demand for small pocket-type controllers so I figured it was time to release it.
 
 A few immediate notes before you begin this project:
-1 - You must have a 3D printer with a 0.2mm nozzle, and be prepared for lots of miss-prints (this thing is tiny and tolerences are very small)
-2 - You will need to be extreamly careful with top side button placements, if any of the aux buttons are incorrectly placed it may affect their operation
+1 - You must have a 3D printer with a 0.2mm nozzle, and be prepared for lots of miss-prints (this thing is tiny and tolerances are very small)
+2 - You will need to be extremely careful with top side button placements, if any of the aux buttons are incorrectly placed it may affect their operation
 3 - This is just a `for fun` thing!  This is not designed to be a serious controller.
 
 The Pocket Pad WASD is based around a soldered on RP2040 Super Mini.  It is designed to be hand soldered but I have included the BOM and CPL if you want to try those.  I have not tested an assembly version of this so YMMV and no instructions will be provided. 
@@ -46,7 +46,7 @@ The Case was deisnged to be snap together so no screws are needed.
 
 ## Assembly
 
-You will also need the following hardware components to assembe the Pocket Pad:
+You will also need the following hardware components to assemble the Pocket Pad:
 - RP2040 Super Mini board (found commonly on Amazon and AliExpress)
 - 12x SMD 2 Pin 3X4MM Tactile Switches [AliExpress Link](https://www.aliexpress.com/item/32698846968.html)
 - 4x SK6812 MINI-E RGB LEDs [AliExpress Link](https://www.aliexpress.com/item/4000475685852.html)
@@ -60,7 +60,7 @@ You will need to 3D print the following parts:
 - 12x [Buttons](3D%20print%20files/Pocket%20Pad%20WASD%20-%20Button.stl)
 - 4x [LED Inserts](3D%20print%20files/Pocket%20Pad%20WASD%20-%20LED%20Inserts.stl)
 
-It is recommended to do the 4x LED inserts out of something tranlucent for best effect.  If you don't want to have LEDs you can print blanks to insert.
+It is recommended to do the 4x LED inserts out of something translucent for best effect.  If you don't want to have LEDs you can print blanks to insert.
 
 
 ## How to order a board
@@ -125,7 +125,7 @@ https://www.paypal.com/donate/?hosted_button_id=2JMTZVCGLDYC2
 ## Revision History
 
 v1.0
-- Innitial design
+- Initial design
 
 
 ## Acknowledgements

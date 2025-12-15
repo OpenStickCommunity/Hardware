@@ -127,7 +127,7 @@ All of the boards so far have been ordered though JLCPCB.  Due to the size of th
 
 Note 1 - Economic assembly is much cheaper on smaller batch runs.  
 
-Note 2 - You can opt to have both top and bottom side assembly done but it will increase the cost greatly.  It is recommended to have the top side assembled and then you hand-solder the 3-pin connnectors.
+Note 2 - You can opt to have both top and bottom side assembly done but it will increase the cost greatly.  It is recommended to have the top side assembled and then you hand-solder the 3-pin connectors.
 
 6 - Make sure you have read the terms and conditions of JLCPCB assembly service and then click on the `Confirm` button if you agree <br/>
 
@@ -175,7 +175,7 @@ The recommended print setting are to do 4-6 wall loops and then enough top and b
 
 You may need to adjust to achieve a good print on your own printer.  
 
-!!!Please note - I am not responcible for missprints or any costs incured from missprints!!!
+!!!Please note - I am not responsible for missprints or any costs incurred from missprints!!!
 
 ---
 

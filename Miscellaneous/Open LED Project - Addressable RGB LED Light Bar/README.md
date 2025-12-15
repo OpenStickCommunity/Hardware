@@ -32,9 +32,9 @@ The `Addressable RGB LED Light Bar` come in two versions, an assembly version an
 Notes:
 - The assembly and DIY version have different mounting points (please reference the images for center to center measurements)
 - The DIY version has an incorrectly placed connector in the STEP file, it should be centered on the board
-- We are not responcible for manufacturing defects
-- We are not responcible for any damages cause by this item
-- LEDs can use a lot of power when large numbers of them are connected to a single device.  Pleae be aware of total power draw from the device you have connected to
+- We are not responsible for manufacturing defects
+- We are not responsible for any damages cause by this item
+- LEDs can use a lot of power when large numbers of them are connected to a single device.  Please be aware of total power draw from the device you have connected to
 
 
 ## Board design choices

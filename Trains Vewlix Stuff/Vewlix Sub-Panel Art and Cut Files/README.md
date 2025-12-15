@@ -45,7 +45,7 @@ paypal.me/jgsmdavis
 ## Revision History
 
 v1.0
-- Frist upload
+- First upload
 
 
 ## Acknowledgments

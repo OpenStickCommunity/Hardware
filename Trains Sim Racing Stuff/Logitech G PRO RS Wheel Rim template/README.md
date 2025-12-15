@@ -28,7 +28,7 @@ The `Logitech G PRO RS Wheel Rim template` files were measured manually against 
 
 The `Logitech G PRO RS Wheel Rim template - Full` adds to the above template and has cut out sections for the top LED bar and buttons as well as the left and right rotary encoders.  It has also been verified to fit my Logitech G PRO RS Wheel Hub (Xbox version).
 
-!!! Please note that I have yet to get either of these files cut on metal.  Proceed with caution!  I am not responcible for cuts that do not fit !!!
+!!! Please note that I have yet to get either of these files cut on metal.  Proceed with caution!  I am not responsible for cuts that do not fit !!!
 
 
 ## What is included?

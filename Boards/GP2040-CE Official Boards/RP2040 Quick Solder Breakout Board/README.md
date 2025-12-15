@@ -24,7 +24,7 @@ You can use the pre-compiled .UF2 firmware file for the RP2040 Waveshare Zero in
 
 This board will require some basic soldering to complete.
 
-There are two versions of this. One version has a cutout and is designed for the Waveshare RP2040 Zero.  The second version has not cutout and desinged for the RP2040 SuperMini.
+There are two versions of this. One version has a cutout and is designed for the Waveshare RP2040 Zero.  The second version has no cutout and is designed for the RP2040 SuperMini.
 
 We have a small but passionate Discord group which you can access here if interested: https://discord.com/invite/k2pxhke7q8
 
@@ -48,7 +48,7 @@ You will need four parts to make each board:
 - 1 x 20pin (2x10pin) 2.54mm header
 - 1 x 4pin (1x4pin) PH 2.00mm right angle connector
 
-Please note that we are not responsible for issues that arise from the manufacturing of these boards done through JLCPCB or any other manufacturer as well as any issues that arrise as a result of soldering manually.  These board files have been ordered and tested for functionality.  
+Please note that we are not responsible for issues that arise from the manufacturing of these boards done through JLCPCB or any other manufacturer as well as any issues that arise as a result of soldering manually.  These board files have been ordered and tested for functionality.  
 
 ## How to order a board
 

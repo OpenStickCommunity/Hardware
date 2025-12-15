@@ -27,7 +27,7 @@ Please note the following warnings / disclaimer:
 - I am not responsible for prints that fail or do not turn out as intended.
 - I am not responsible for any damage that happens to your printer or parts of your printer as a result of printing these files.
 - If you make and sell these units you are responsible for supporting your own customers.
-- The OSM-Slim requires soldering as there is currently no custom board for it, I am not responcible for injury or damanges that occur as a result of the soldering.
+- The OSM-Slim requires soldering as there is currently no custom board for it, I am not responsible for injury or damages that occur as a result of the soldering.
 
 ## Summary:
 

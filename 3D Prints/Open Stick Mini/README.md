@@ -53,7 +53,7 @@ This case was printed on a Bambu Labs X1C and P1S printer with the following cha
 - Hex infill
 - 15% infill
 
-Please note that while no supports are needed for the printing of this case and its parts, you may choose to add supports to the main frame for the button holes that will print vertically if you think your printer will benifit from it.
+Please note that while no supports are needed for the printing of this case and its parts, you may choose to add supports to the main frame for the button holes that will print vertically if you think your printer will benefit from it.
 
 This case was printed using Bambu Labs matte and normal PLA filament, I have not tested it with other filaments.
 

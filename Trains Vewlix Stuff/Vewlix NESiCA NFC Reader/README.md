@@ -71,7 +71,7 @@ The basic implementation of this contains the following parts:</br>
 1 x NESiCA Reader RGB LED board - [HERE](/Hardware%20files/Gerber%20-%20NESiCA%20Reader%20RGB%20Board.zip)</br>
 1 x Micro SD card breakout for Arduino - https://www.aliexpress.com/item/1005008612163894.html</br>
 
-For the advanced implemetation you can add an RGB LED board that will make the reader stay `white` and then turn `green` when an allowed card and `red` when a non-allowed card is tapped.
+For the advanced implementation you can add an RGB LED board that will make the reader stay `white` and then turn `green` when an allowed card and `red` when a non-allowed card is tapped.
 
 If you are making the NESiCA Reader RGB LED board you can find the spacer posts [HERE](/3D%20Print%20Files/NESiCA%20Reader%20Bracket%20-%20Short%20Post.stl) and [HERE](/3D%20Print%20Files/NESiCA%20Reader%20Bracket%20-%20Long%20Post.stl).
 
@@ -120,7 +120,7 @@ v2.0
 - Added ability to connect 128x64 OLED
 - Added ability to have more inputs connected to main RP2040 based board
 - Added Micro SD Card module
-- Sketch now loads .txt files from connected Micro SD Card module for easier managmenet of scripts
+- Sketch now loads .txt files from connected Micro SD Card module for easier management of scripts
 - Added pre-compiled .UF2 for those that do not want to use Arduino IDE
 - Added updated board design
 

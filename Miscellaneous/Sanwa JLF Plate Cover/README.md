@@ -38,7 +38,7 @@ Why do we need a plate cover?  I'm working on my personal AFS build and it has a
 
 Not much more to them!  There is a lip to cover the 1.6mm edge so print them face down.
 
-I have tested these on my X1C in PLA and they fit just fine.  They should slide on with friction.  You may have different expereinces with your printer and filament.
+I have tested these on my X1C in PLA and they fit just fine.  They should slide on with friction.  You may have different experiences with your printer and filament.
 
 
 ## Sales recommendations

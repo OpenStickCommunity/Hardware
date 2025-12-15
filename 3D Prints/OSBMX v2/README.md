@@ -52,7 +52,7 @@ Since the original OSBMX was released the arcade button landscape has changed.
 
 There are now much more affordable and high quality options available commercially like the SiTong MX and LP buttons.
 
-Over the past few years the cost of MJF and SLS have increased signifigantly through JLCPCB.
+Over the past few years the cost of MJF and SLS have increased significantly through JLCPCB.
 
 As such, the OSBMX v2 is focused simply on 3D printing though home FDM printers.  These have not been tested through services like JLCPCB in materials like MJF, SLS or resin.  I may add some remixes that are more suitable to those materials in the future.
 
@@ -164,13 +164,13 @@ There are no supports needed for this print.
 
 It is recommended to print at the lowest print layer height your printer can do.  
 
-I have extensivly printed and tested these on my BambuLabs X1C and P1S using both a 0.4mm and 0.2mm nozzle on normal and matte PLA.  
+I have extensively printed and tested these on my BambuLabs X1C and P1S using both a 0.4mm and 0.2mm nozzle on normal and matte PLA.  
 
 The recommended print setting are to do 4-6 wall loops and then enough top and bottom laters to have solid infill.  
 
 You may need to adjust to achieve a good print on your own printer.  
 
-!!!Please note - I am not responcible for missprints or any costs incured from missprints!!!
+!!!Please note - I am not responsible for missprints or any costs incurred from missprints!!!
 
 ---
 

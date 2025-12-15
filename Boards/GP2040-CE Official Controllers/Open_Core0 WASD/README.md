@@ -47,7 +47,7 @@ There is an additional aux button located to the right of the OLED that is mappe
 
 There are two three position slide switches that are mapped by default as a LS/DP/RS slider and as a SOCD mode slider.
 
-There is a single two position slider that is set as a firmware based lockout switch.  This was done to allow you to customize what gets locked out when enabled.  This can be modified in the web-conifg app further to meet your needs.
+There is a single two position slider that is set as a firmware based lockout switch.  This was done to allow you to customize what gets locked out when enabled.  This can be modified in the web-config app further to meet your needs.
 
 The Open_Core0 WASD v2.0 also features a USB passthrough port which will allow you to use an authentication device for play on PS5 games that support legacy controllers (like Street Fighter 6 and Mortal Kombat 11).
 
