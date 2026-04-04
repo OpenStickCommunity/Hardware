@@ -22,6 +22,7 @@ This repository is a collection of open-source hardware designs which have been 
 - [3D Printable OSBHE v2 Buttons](/3D%20Prints/OSBHE%20v2/README.md) - Designed by TheTrain
 - [3D Printable OSB Plug](/3D%20Prints/OSB%20Plug/README.md) - Designed by TheTrain
 - [3D Printable OSB Analog Stick](/3D%20Prints/OSB%20Analog%20Stick/README.md) - Designed by TheTrain
+- [Open Source Arcade Stand - OSAS](/3D%20Prints/Open%20Source%20Arcade%20Stand%20(OSAS)/README.md) - Designed by TheTrain
 
 GP2040-CE Official Boards
 
