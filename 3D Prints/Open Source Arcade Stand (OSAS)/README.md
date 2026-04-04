@@ -4,7 +4,6 @@
 ![OSAS1)](Assets/OSAS1.JPG)
 ![OSAS2)](Assets/OSAS2.JPG)
 ![OSAS4)](Assets/OSAS4.JPG)
-![OSAS5)](Assets/OSAS5.png)
 ---
 
 ## Attribution
@@ -29,13 +28,13 @@ Anyone selling this commercially must include in the listing that this is an ope
 This is a very difficult project that should not be attempted by the vast majority of people.  I will not offer any troubleshooting or support for this project so please ensure this is something you want to take on before starting.
 
 Please note the following warnings / disclaimer:
-- It is not recommended to sit, stand, jump on or put your full weight on the unit.  I am not responcible for injuries that occure as a result of you using or attempting to use the OSAS
+- It is not recommended to sit, stand, jump on or put your full weight on the unit.  I am not responsible for injuries that occur as a result of you using or attempting to use the OSAS
 - I am not responsible for prints that fail or do not turn out as intended.
 - I am not responsible for any damage that happens to your printer or parts of your printer as a result of printing these files.
 - If you make and sell these units you are responsible for supporting your own customers.
 - Getting good aluminum profile cuts is critical to the success of this project.  The worse your cuts the harder this project will be!
 - It may be possible to 3D print the aluminum extrusion parts and attach them but I have not tested this, will not be testing this and do not recommend it.
-- There are a signifigant number of parts and accessories that you will need to get to complete this project.
+- There are a significant number of parts and accessories that you will need to get to complete this project.
 - Extensive research into part availability is needed prior to attempting this project.
 - This will not do too well on a wobbly or uneven surface without making adjustments to the feet model or coming up with a new solution for the feet.
 
@@ -46,7 +45,9 @@ The Open Source Arcade Stand was an idea I had following the Qanba 2009 to bring
 
 Unlike many of my project this one is large and can be quite expensive.  
 
-The OSAS is fully modular and it is very easy to make modifications or new panels for it.  
+The OSAS is fully modular and it is very easy to make modifications or new panels for it. 
+
+This project cost me around $250 USD but your costs may be different.  Please reasarch it fully before jumping in.
 
 ---
 
@@ -63,7 +64,7 @@ This case was printed on a Bambu Labs X1C and P1S printer with the following cha
 - 15% infill
 - Hilbert Curve bottom layer
 
-Please note that Hilbery Curve will add a signifigant amount of print time to this project but does yield the best visual results in my opinion.  
+Please note that Hilbert Curve will add a significant amount of print time to this project but does yield the best visual results in my opinion.  
 
 The following aluminum profile parts are needed:
 - 4x 54cm (540mm) European Standard 3060 T Slot Aluminum Extrusion Profile 
@@ -89,7 +90,7 @@ The following hardware is needed to assemble the case:
 
 I can really only offer tips for this.  There will be no step-by-step instructions for assembly but I will list some tips here:
 - I would highly recommend doing the assembly of the top and bottom frame on a flat surface.  I used my kitchen countertop.
-- I would also recommend getting parts loosly positioned first and then going back to tighten everything up.
+- I would also recommend getting parts loosely positioned first and then going back to tighten everything up.
 - It is going to take a lot of time to get the main frame positioned and aligned correctly.
 - I don't have a good solution for the bottom feet.  If you don't have a flat place where it will be sitting you will need to come up with some new models or adjust the feet model.
 
