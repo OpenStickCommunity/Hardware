@@ -83,6 +83,8 @@ The following hardware is needed to assemble the case:
 - 4x M4 60mm Brass Standoff (https://www.aliexpress.com/item/1005006049595637.html)
 - 1x 26 piece 3030 Aluminum Profile Corner Bracket Kit (https://www.amazon.ca/dp/B0CLXXZXKY)
 
+I also recommend putting some of those little furnature pads on the bottom of the feet.  I got a small pack from a local dollar store.
+
 
 ---
 
