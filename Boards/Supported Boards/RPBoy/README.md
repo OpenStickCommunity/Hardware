@@ -1,4 +1,4 @@
-# RPBoy)
+# RPBoy v1.0
 
 ![RPBoy01)](Assets/RPBoy01.jpg)
 ![RPBoy02)](Assets/RPBoy02.png)
