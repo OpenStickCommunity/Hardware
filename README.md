@@ -65,6 +65,7 @@ Supported Boards
 - [Tiny USB Hub v1.3 v2 - 2x USB Direct Connect](/Boards/Supported%20Boards/USB%20Hubs/Tiny%20USB%20Hub%20v1.3e%20v2/README.md) - Designed by TheTrain
 - [Tiny USB Hub v1.4 - 4x USB Direct Connect](/Boards/Supported%20Boards/USB%20Hubs/Tiny%20USB%20Hub%20v1.4e/README.md) - Designed by TheTrain
 - [HE Breakout Board v1.1](/Boards/Supported%20Boards/HE%20Breakout%20Board/README.md) - Designed by TheTrain
+- [RPBoy v1.0](/Boards/Supported%20Boards/RPBoy/README.md) - Designed by TheTrain
 
 Miscellaneous
 
