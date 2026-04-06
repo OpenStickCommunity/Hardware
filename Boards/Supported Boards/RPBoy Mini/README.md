@@ -1,14 +1,14 @@
-# RPBoy v1.0
+# RPBoy Mini v2.0
 
-![RPBoy01)](Assets/RPBoy01.jpg)
-![RPBoy02)](Assets/RPBoy02.png)
+![RPBoyMini01)](Assets/RPBoyMini01.jpg)
+![RPBoyMini02)](Assets/RPBoyMini02.png)
 ---
 
 ## Attribution
 
 The following text must be included in any distribution of derivatives of this project. All links must also be included.
 
-Based on the RPBoy by TheTrain.
+Based on the RPBoy Mini by TheTrain.
 Originally based on the Arduboy by Kevin Bates.
 
 Copyright © 2026 [TheTrain](http://x.com/thetrain24)<br/>
@@ -23,7 +23,7 @@ Anyone selling this commercially must include in the listing that this is an ope
 
 ## Summary
 
-The RPBoy was designed as an RP2040 based alternative to the Arduboy.  While it can be used to run some Arduboy games with code modification, I am adding it here as it can also run GP2040-CE just fine.  
+The RPBoy Mini was designed as an RP2040 based alternative to the Arduboy Mini.  While it can be used to run some Arduboy games with code modification, I am adding it here as it can also run GP2040-CE just fine.  
 
 Please note that none of the converted Arduboy code will be posted here.
 
@@ -32,24 +32,13 @@ I do have plans to make a simple case for this, and may work on the design a bit
 
 ## Board design choices
 
-This is a very simple board.  It has an RP2040 SuperMini, 1.31" OLED and a few tac switches on it.  There is no battery on it and I have no plans to add a battery / charging circuit to it, this will just be for use plugged in.
+This is a very simple board.  It has an RP2040 SuperMini, 0.96" OLED and a few tac switches on it.  There is no battery on it and I have no plans to add a battery / charging circuit to it, this will just be for use plugged in.
 
 Parts needed:
 - The PCB in this repo
 - 1x RP2040 SuperMini (usually gotten from somewhere like AliExpress) [the Waveshare Zero will not work!]
-- 1x 1.31" OLED
+- 1x 0.96" OLED
 - 6x SMD-4P,5.1x5.1mm 1.5mm tac switches
-
-Optional parts:
-- 1x 1206 100nF cap
-- 1x 1206 330 resistor
-- 2x 1206 4.7k resistors
-- 1x SOT-23-5 3V 300mA 18V linear regulator (C236664 or similar)
-- 1x WS2812B normal package RGB LED
-
-Note on parts: The 4.7k resistors are for the OLED but most OLEDs will be fine without them.  The other optional parts are for the RGB LED which you do not need to have unless you want to.  I have also included a bridge area at the bottom of the RGB LED circuit so you can bypass the other parts and just put the RGB LED on.
-
-I also recommend removing the plastic 2.54mm 4pin header spacer once you have your header on the OLED so that it can sit flat on the board.  There are some fill spots to keep the OLED on well and then you can snip the legs from the back.
 
 
 ## How to order a board
@@ -60,12 +49,12 @@ All of the boards so far have been ordered though JLCPCB.  Due to minimum order 
 
 2 - Click on `Instant Quote`<br/>
 
-3 - Click on `Add Gerber file` and choose the file named `Gerber_RPBoy_v1.0.zip` from the `Hardware files` folder<br/>
+3 - Click on `Add Gerber file` and choose the file named `Gerber_RPBoy_Mini_v2.0.zip` from the `Hardware files` folder<br/>
 
 4 - Choose the following options for the board:<br/>
 - Base Material = FR-4<br/>
 - Layers = 2<br/>
-- Dimensions = (should auto-populate) 50 mm x 80 mm<br/>
+- Dimensions = (should auto-populate) 30 mm x 50 mm<br/>
 - PCB Qty = (however large your run will be, minimum of 5)<br/>
 - Product Type = Industrial/Consumer electronics<br/>
 - Different Design = 1<br/>
@@ -99,6 +88,9 @@ You can donate here: https://www.paypal.com/donate/?hosted_button_id=2JMTZVCGLDY
 
 
 ## Revision History
+
+v2.0
+- Flipped the RP2040 SuperMini so it is not backwards
 
 v1.0
 - Initial design
