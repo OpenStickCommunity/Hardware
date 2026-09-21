@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  rp2350_outline_template.svg
+  - Scaled to image: 1024 x 856 pixels @ 1200 dpi
+  - Physical size: 21.674666666666667 mm × 18.118666666666667 mm
+  - Pixel to mm: 1 px = 25.4/1200 = 0.021166666666666667 mm
+  - USB-C reference width used: 8.34 mm (scale bar included)
+
+  Usage:
+  - Import this SVG into Fusion (Insert -> Insert SVG) or KiCad PCB editor as a graphic overlay.
+  - The viewBox is in pixels (0..1024, 0..856) while width/height are real-world mm.
+  - Trace the PCB outline by editing the path with id="pcb-outline" or draw new paths on top.
+-->
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="21.674666666666667mm"
+     height="18.118666666666667mm"
+     viewBox="0 0 1024 856"
+     version="1.1">
+
+  <desc>Template: rp2350 PCB outline template (scaled). Viewbox in px, size in mm.</desc>
+
+  <!-- Image border (matches original raster bounds) -->
+  <rect x="0" y="0" width="1024" height="856" fill="none" stroke="#FF0000" stroke-width="4" stroke-opacity="0.6"/>
+
+  <!-- Placeholder outline layer (empty path for you to edit/trace) -->
+  <g id="outline-layer" fill="none" stroke="#00AA00" stroke-width="6" stroke-linejoin="round">
+    <!-- Edit the d attribute to draw the PCB outline. Currently a dashed empty placeholder. -->
+    <path id="pcb-outline" d="M4,4" stroke-dasharray="20,10" opacity="0.9"/>
+  </g>
+
+  <!-- Holes / cutouts layer (placeholders) -->
+  <g id="holes-layer" fill="none" stroke="#0000FF" stroke-width="6">
+    <!-- Add circles like: <circle cx="x" cy="y" r="r"/> -->
+  </g>
+
+  <!-- USB-C scale bar (8.34 mm) drawn in pixel units within the viewBox -->
+  <g id="scale" transform="translate(20,40)">
+    <line x1="0" y1="0" x2="394.01574803149606" y2="0" stroke="#000" stroke-width="6" />
+    <line x1="0" y1="-8" x2="0" y2="8" stroke="#000" stroke-width="4" />
+    <line x1="394.01574803149606" y1="-8" x2="394.01574803149606" y2="8" stroke="#000" stroke-width="4" />
+    <text x="197" y="22" font-family="Arial, Helvetica, sans-serif" font-size="28" text-anchor="middle" fill="#000">8.34 mm (USB‑C width)</text>
+  </g>
+
+  <!-- Helpful note text -->
+  <g id="notes" transform="translate(20,800)">
+    <text x="0" y="0" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#222">
+      1 px = 0.0211667 mm (1200 dpi)
+    </text>
+  </g>
+
+</svg>

@@ -1,26 +1,30 @@
 .DS_Store
 
-# GP2040-Keyboard-Converter
-# Temporary files
-GP2040 Keyboard Converter/*/kicad/*.000
-GP2040 Keyboard Converter/*/kicad/*.bak
-GP2040 Keyboard Converter/*/kicad/*.bck
-GP2040 Keyboard Converter/*/kicad/*.kicad_pcb-bak
-GP2040 Keyboard Converter/*/kicad/*.kicad_sch-bak
-GP2040 Keyboard Converter/*/kicad/*-backups
-GP2040 Keyboard Converter/*/kicad/*.kicad_prl
-GP2040 Keyboard Converter/*/kicad/*.sch-bak
-GP2040 Keyboard Converter/*/kicad/*~
-GP2040 Keyboard Converter/*/kicad/_autosave-*
-GP2040 Keyboard Converter/*/kicad/*.tmp
-GP2040 Keyboard Converter/*/kicad/*-save.pro
-GP2040 Keyboard Converter/*/kicad/*-save.kicad_pcb
-GP2040 Keyboard Converter/*/kicad/fp-info-cache
-GP2040 Keyboard Converter/*/kicad/jlcpcb
+# KiCad
+# Temporary and backup files
+*.000
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-backups/
+*.kicad_prl
+*.sch-bak
+*~
+_autosave-*
+*.tmp
+*-save.pro
+*-save.kicad_pcb
+fp-info-cache
+~*.lck
+*.lck
 
 # Netlist files (exported from Eeschema)
-GP2040 Keyboard Converter/*/kicad/*.net
+*.net
 
 # Autorouter files (exported from Pcbnew)
-GP2040 Keyboard Converter/*/kicad/*.dsn
-GP2040 Keyboard Converter/*/kicad/*.ses
+*.dsn
+*.ses
+
+# Fabrication outputs
+jlcpcb/

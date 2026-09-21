@@ -1,0 +1,7 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "MLZ2012M3R3HT000") (type "KiCad") (uri "${KIPRJMOD}/Libraries/MLZ2012M3R3HT000/KiCADv6/2026-06-21_18-59-42.kicad_sym") (options "") (descr ""))
+	(lib (name "GP2040-CE_Library") (type "KiCad") (uri "C:/ws/Hardware/KiCad-Footprints/GP2040-CE_Library.kicad_sym") (options "") (descr ""))
+	(lib (name "BLM18EG471SN1D") (type "KiCad") (uri "${KIPRJMOD}/Libraries/BLM18EG471SN1D/KiCADv6/2026-06-22_05-20-54.kicad_sym") (options "") (descr ""))
+	(lib (name "RP2350Duel") (type "KiCad") (uri "${KIPRJMOD}/Libraries/RP2350Duel.kicad_sym") (options "") (descr ""))
+)
